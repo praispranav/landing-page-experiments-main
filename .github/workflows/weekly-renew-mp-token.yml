@@ -1,0 +1,31 @@
+name: Weekly renew of Marco Polo token TTLS
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every Monday at 0500
+    - cron: '0 5 * * 1'
+
+env:
+  PLUGIN_VAULT_ADDR: https://vault-eu-central-1.vault.dazn-stage.com
+
+jobs:
+  extend-mp-token-ttls:
+    name: 'Renew Marco Polo token TTLS'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: checkout GHA for setting drone variables
+        uses: actions/checkout@v2
+        with:
+          repository: getndazn/facilitate-drone-github-action
+          token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          path: .getndazn/facilitate-drone-github-action
+
+      - name: set drone variables
+        uses: ./.getndazn/facilitate-drone-github-action
+
+      - name: renew VAULT_MP_TOKEN
+        uses: docker://nzad/drone-vault-token-renewer
+        env:
+          VAULT_PERIODIC_TOKEN: ${{ secrets.VAULT_MP_TOKEN }}

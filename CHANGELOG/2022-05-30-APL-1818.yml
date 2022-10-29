@@ -1,0 +1,5 @@
+- type: added
+  m: Update hero image for JP
+  jira: APL-1818
+  owner: joanrm20
+  service: landing-page-experiments

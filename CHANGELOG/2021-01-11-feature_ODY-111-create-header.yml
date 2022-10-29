@@ -1,0 +1,5 @@
+- type: added
+  m: Add sticky header with content that appears below the fold
+  jira: ODY-111
+  owner: MattElias
+  requires-cab: true

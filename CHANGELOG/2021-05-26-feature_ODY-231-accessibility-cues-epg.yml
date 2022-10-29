@@ -1,0 +1,5 @@
+- type: changed
+  m: aligned tile accessibility cue with hover style
+  jira: ODY-231
+  owner: mattmoreira
+  requires-cab: true

@@ -1,0 +1,4 @@
+- type: added
+  m: Integrated with PPV addons
+  jira: ODY-537
+  owner: mattmoreira

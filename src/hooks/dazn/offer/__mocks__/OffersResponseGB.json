@@ -1,0 +1,201 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_2c91a0f96c98b491016cae3d74a9661b",
+            "SkuId": null,
+            "BillingDate": "2021-02-09T18:19:46Z",
+            "RenewalDate": "2021-03-09T18:19:46Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                {
+                    "Price": 2.99,
+                    "Currency": "AUD"
+                },
+                {
+                    "Price": 5.9,
+                    "Currency": "ILS"
+                },
+                {
+                    "Price": 2500,
+                    "Currency": "KRW"
+                },
+                {
+                    "Price": 350,
+                    "Currency": "NGN"
+                },
+                {
+                    "Price": 39,
+                    "Currency": "CZK"
+                },
+                {
+                    "Price": 160,
+                    "Currency": "PKR"
+                },
+                {
+                    "Price": 18,
+                    "Currency": "SEK"
+                },
+                {
+                    "Price": 1.99,
+                    "Currency": "USD"
+                },
+                {
+                    "Price": 8.9,
+                    "Currency": "MYR"
+                },
+                {
+                    "Price": 19,
+                    "Currency": "NOK"
+                },
+                {
+                    "Price": 2.98,
+                    "Currency": "SGD"
+                },
+                {
+                    "Price": 155,
+                    "Currency": "ARS"
+                },
+                {
+                    "Price": 45,
+                    "Currency": "MXN"
+                },
+                {
+                    "Price": 1.99,
+                    "Currency": "GBP"
+                },
+                {
+                    "Price": 15,
+                    "Currency": "HKD"
+                },
+                {
+                    "Price": 1.99,
+                    "Currency": "EUR"
+                },
+                {
+                    "Price": 7500,
+                    "Currency": "COP"
+                },
+                {
+                    "Price": 13,
+                    "Currency": "DKK"
+                },
+                {
+                    "Price": 60,
+                    "Currency": "TWD"
+                },
+                {
+                    "Price": 15.99,
+                    "Currency": "TRY"
+                },
+                {
+                    "Price": 149,
+                    "Currency": "RUB"
+                },
+                {
+                    "Price": 29.99,
+                    "Currency": "ZAR"
+                },
+                {
+                    "Price": 69,
+                    "Currency": "INR"
+                },
+                {
+                    "Price": 35000,
+                    "Currency": "VND"
+                },
+                {
+                    "Price": 59,
+                    "Currency": "THB"
+                },
+                {
+                    "Price": 7.99,
+                    "Currency": "PLN"
+                },
+                {
+                    "Price": 19000,
+                    "Currency": "IDR"
+                },
+                {
+                    "Price": 599,
+                    "Currency": "HUF"
+                },
+                {
+                    "Price": 99,
+                    "Currency": "PHP"
+                },
+                {
+                    "Price": 2.99,
+                    "Currency": "NZD"
+                },
+                {
+                    "Price": 54.99,
+                    "Currency": "UAH"
+                },
+                {
+                    "Price": 7.99,
+                    "Currency": "RON"
+                },
+                {
+                    "Price": 2.99,
+                    "Currency": "BGN"
+                },
+                {
+                    "Price": 1500,
+                    "Currency": "CLP"
+                },
+                {
+                    "Price": 6.9,
+                    "Currency": "PEN"
+                },
+                {
+                    "Price": 849,
+                    "Currency": "KZT"
+                },
+                {
+                    "Price": 2200,
+                    "Currency": "TZS"
+                },
+                {
+                    "Price": 12.99,
+                    "Currency": "HRK"
+                },
+                {
+                    "Price": 6.99,
+                    "Currency": "QAR"
+                }
+            ],
+            "PaymentMethodIds": [
+                "CreditCard",
+                "PayPal"
+            ],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0
+        }
+    ],
+    "FreeTrialIneligibilityReason": "ForcedHardOffer",
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "CreditCard",
+            "BillingCountries": [
+                "GB"
+            ],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": [
+                "GB"
+            ],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

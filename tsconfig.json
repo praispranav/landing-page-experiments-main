@@ -1,0 +1,37 @@
+{
+    "include": [
+        "src/**/*",
+        "./*.ts",
+        "./*.js"
+    ],
+    "exclude": ["test/ui/*"],
+    "compilerOptions": {
+        "target": "es5",
+        "module": "ES2020",
+        "strict": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "resolveJsonModule": true,
+        "jsx": "preserve",
+        "jsxImportSource": "@emotion/react",
+        "types": ["node", "webpack-env", "@emotion/react/types/css-prop", "@types/jest"],
+        "baseUrl": "./src",
+        "lib": ["ESNext.Intl", "DOM", "DOM.Iterable", "ScriptHost"],
+        "paths": {
+            "types/*": ["./types/*"],
+            "@fe-experiments/*": ["./fe-experiments/*"],
+            "@experiments/*": ["./experiments/*"],
+            "@components/*": ["./components/*"],
+            "@containers/*": ["./containers/*"],
+            "@config/*": ["./config/*"],
+            "@hooks/*": ["./hooks/*"],
+            "@utils/*": ["./utils/*"],
+            "@tracking/*": ["./tracking/*"],
+            "@test/*": ["../test/*"],
+            "@labels/*": ["./labels/*"],
+            "@images/*": ["../images/*"]
+        }
+    }
+}

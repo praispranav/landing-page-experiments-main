@@ -1,0 +1,76 @@
+name: 'Deploy'
+
+on:
+  workflow_call:
+    inputs:
+      domain_id:
+        type: string
+        required: true
+      environment_id:
+        type: string
+        required: true
+      environment_label:
+        type: string
+        required: true
+      version:
+        type: string
+        required: true
+
+    secrets:
+      VAULT_CI_TOKEN_FE_PIPELINES_PROD:
+        required: true
+      GLOBAL_GITHUB_TOKEN:
+        required: true
+      GLOBAL_LEXI_TOKEN:
+        required: true
+      GLOBAL_GITHUB_TOKEN_D:
+        required: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: set package.json version
+        run: npm version ${{ inputs.version }} --commit-hooks=false --git-tag-version=false
+      
+      - name: deploy to ${{ inputs.domain_id }}-${{ inputs.environment_id }} (${{ inputs.environment_label }})
+        uses: docker://nzad/drone-fe-trigger-deploy:025bfce33f
+        env:
+          DRONE_COMMIT_AUTHOR: ${{ github.actor }}
+          VAULT_FE_PIPELINES_TOKEN: ${{ secrets.VAULT_CI_TOKEN_FE_PIPELINES_PROD }}
+          PLUGIN_CHAPTER: "@dazn/landing-page-experiments"
+          PLUGIN_TARGET: web
+          PLUGIN_COUNTRIES: at,br,ca,ch,de,li,lu,es,it,jp,us,moon
+          PLUGIN_ENV: ${{ inputs.domain_id }}-${{ inputs.environment_id }}
+          ALIB_PACKAGE: true
+
+  notify:
+    runs-on: ubuntu-latest
+    needs: [deploy]
+    timeout-minutes: 1
+    steps: 
+      - uses: actions/checkout@v2
+
+      - name: plat-gha-actions init
+        uses: actions/checkout@v2
+        with:
+          repository: getndazn/plat-gha-actions
+          token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          path: plat-gha-actions
+
+      - name: notify lexi
+        uses: ./plat-gha-actions/notify/lexi
+        with:
+          global_github_token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          global_lexi_token: ${{ secrets.GLOBAL_LEXI_TOKEN }}
+          environment: ${{ inputs.environment_label }}
+          service_name: landing-page-experiments
+
+      - name: notify github status
+        uses: ./plat-gha-actions/notify/github-status
+        with:
+          environment: ${{ inputs.environment_label }}
+          global_github_token: ${{ secrets.GLOBAL_GITHUB_TOKEN_D }}

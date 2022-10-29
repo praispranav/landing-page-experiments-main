@@ -1,0 +1,5 @@
+- type: added
+  m: Add fe-labels integration
+  jira: APL-1809
+  owner: thiago-vasconcelos
+  service: landing-page-experiments

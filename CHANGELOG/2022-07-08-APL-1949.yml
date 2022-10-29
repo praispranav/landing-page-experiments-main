@@ -1,0 +1,5 @@
+- type: fixed
+  m: Fixed landing page bounce back on experiment servie error response
+  jira: APL-1949
+  owner: dinujubd
+  service: landing-page-experiments

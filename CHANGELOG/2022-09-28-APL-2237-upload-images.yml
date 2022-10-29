@@ -1,0 +1,5 @@
+- type: added
+  m: Add a script to upload background images to s3 buckets
+  jira: APL-2237
+  owner: hannanikulina
+  service: landing-page-experiments

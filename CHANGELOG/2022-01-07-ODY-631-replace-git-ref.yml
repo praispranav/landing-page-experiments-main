@@ -1,0 +1,5 @@
+- type: changed
+  m: replace git ref used on GHA
+  jira: ODY-631
+  owner: mattmoreira
+  service: landing-page-experiments

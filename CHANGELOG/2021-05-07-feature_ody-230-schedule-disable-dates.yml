@@ -1,0 +1,4 @@
+- type: added
+  m: Disable dates with no events available - Schedule
+  jira: ODY-230
+  owner: FadiRasheed

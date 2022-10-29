@@ -1,0 +1,93 @@
+{
+    "data": [
+        {
+            "id": "678a9225-36c6-496f-91be-a322e964c3d3",
+            "name": "DE Top Competitions",
+            "description": "Replicates Top Competitions Rail",
+            "type": "default",
+            "countries": ["DE"],
+            "logos": [
+                {
+                    "id": "6by3h89i2eykc341oz7lv1ddd",
+                    "name": "Bundesliga",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83010117235_image-tile_pDach_1646908777000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "4oogyu6o156iphvdvphwpck10",
+                    "name": "UEFA Champions League",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/123728965472_image-tile_pDach_1624887384000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "wy3kluvb4efae1of0d8146c1",
+                    "name": "NFL",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83077701200_image-tile_pDach_1584364168000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "e2w9iicoifx689pzi5jqw7j4a",
+                    "name": "NBA",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83008581313_image-tile_pDach_1633700823000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "34pl8szyvrbwcmfkuocjm3r6t",
+                    "name": "Primera División",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83003461229_image-tile_pDach_1534762654000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "2hj3286pqov1g1g59k2t2qcgm",
+                    "name": "FA Cup",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/256378949486_image-tile_pDach_1627551353000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "1r097lpxe0xn03ihb7wi98kao",
+                    "name": "Serie A",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83150405280_image-tile_pDach_1626880297000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "dm5ka0os1e3dxcp3vh05kmp33",
+                    "name": "Ligue 1",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83009093463_image-tile_pDach_1599039576000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "39q1hq42hxjfylxb7xpe9bvf9",
+                    "name": "WC Qualification Europe",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83151429221_image-tile_pDach_1611738376000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "664us2dqeiycnciehlhqf0p5s",
+                    "name": "EHF Champions League",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/580545093104_image-tile_pDach_1600108706000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "bybcqaggzle3vp70nynv74mlg",
+                    "name": "Premier League Darts",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83150405285_image-tile_pDach_1641893672000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "2e554vbpw7g0ykhl0rziuabxl",
+                    "name": "FIM MotoGP World Championship",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/304589381449_image-tile_pDach_1551884600000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "9ahek5cqlbhz5fg1zxgypf8o8",
+                    "name": "Ultimate Fighting Championship",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/250497605221_image-tile_pDach_1584364160000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "7x9uc8vx1vf4v7wf2415enqn0",
+                    "name": "WWE",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/83150917385_image-tile_pDach_1584364154000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "55hcphd1ccc6eai1ms77460on",
+                    "name": "UEFA Women's Champions League",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/745155141217_image-tile_pDach_1624977130000/fill/center/top/none/100/200/200/png/image"
+                },
+                {
+                    "id": "2av9a3yyafeyut3dzi7pqopsn",
+                    "name": "Giro d’Italia",
+                    "url": "https://image.discovery.indazn.com/eu/v4/eu/TieringCompetitionCrest/575699013339_image-tile_pDach_1649256184000/fill/center/top/none/100/200/200/png/image"
+                }
+            ]
+        }
+    ]
+}

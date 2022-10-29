@@ -1,0 +1,5 @@
+- type: added
+  m: Add new images for CA
+  jira: APL-1819
+  owner: joanrm20
+  service: landing-page-experiments

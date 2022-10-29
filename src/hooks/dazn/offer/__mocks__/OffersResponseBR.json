@@ -1,0 +1,53 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_2c91a0fa66f7e4ee0166f8f01d380927_70333",
+            "SkuId": null,
+            "BillingDate": "2021-03-09T18:12:58Z",
+            "RenewalDate": "2021-04-09T18:12:58Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                {
+                    "Price": 10,
+                    "Currency": "GBP"
+                },
+                {
+                    "Price": 19.9,
+                    "Currency": "BRL"
+                }
+            ],
+            "PaymentMethodIds": [
+                "CreditCard",
+                "PayPal"
+            ],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1
+        }
+    ],
+    "FreeTrialIneligibilityReason": null,
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "CreditCard",
+            "BillingCountries": [
+                "BR"
+            ],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": [
+                "BR"
+            ],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

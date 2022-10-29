@@ -1,0 +1,4 @@
+- type: added
+  m: Implement single offer logic into pricing variant 2
+  jira: ODY-200
+  owner: hannanikulina

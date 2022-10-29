@@ -1,0 +1,6 @@
+- type: fixed
+  m: fixed the issue related with the Market Proposition CTA, which wasn't triggering
+    the GA track event due to event delegation.
+  jira: APL-2087
+  owner: mattmoreira
+  service: landing-page-experiments

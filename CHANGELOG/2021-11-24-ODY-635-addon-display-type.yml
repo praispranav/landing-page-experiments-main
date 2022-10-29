@@ -1,0 +1,5 @@
+- type: added
+  m: implement addon display type
+  jira: ODY-635
+  owner: mattmoreira
+  service: landing-page-experiments

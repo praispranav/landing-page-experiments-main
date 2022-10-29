@@ -1,0 +1,96 @@
+{
+  "Experiments": {
+    "e_acc_ar_presetsubscription_us": {
+      "myAccount2_accountNotReadyCopy": {
+        "B": "We're just setting up your account. This can take up to 24 hours. Please come back later to see the details of your plan or manage your account. In the meantime, have a look around! You can check out events coming up in the [schedule](%{scheduleLink})."
+      }
+    },
+    "e_acc_ar_fe_labels_lp_redesgin": {
+      "landingpages_web_hero_title_ppv": {
+        "B": "hero_title_ppv"
+      },
+      "landingpages_web_hero_description_ppv": {
+        "B": "Watch _web_hero_description_ppv"
+      },
+      "landingpages_web_hero_billingMonthly_ppv": {
+        "B": "22 $ billingMonthly_ppv!"
+      },
+      "landingpages_web_hero_button_getStarted_ppv": {
+        "B": "button_getStarted_ppv"
+      },
+      "landingpages_web_hero_billingAddon_ppv": {
+        "B": "billingAddon_ppv"
+      },
+      "landingpages_web_devices_title": {
+        "B": "web_devices_title"
+      },
+      "landingpages_web_devices_subtitle": {
+        "B": "web_devices_subtitle"
+      },
+      "landingpages_web_header_button_signIn": {
+        "B": "b_signIn"
+      },
+      "landingpages_web_header_button_signUp": {
+        "B": "b_signUp"
+      },
+      "landingpages_web_header_button_freeTrial": {
+        "B": "b_freeTrial"
+      },
+      "landingpages_web_hero_title": {
+        "B": "hero_title"
+      },
+      "landingpages_web_hero_description": {
+        "B": "hero_description"
+      },
+      "landingpages_web_hero_legal": {
+        "B": "hero_legal"
+      },
+      "landingpages_web_hero_billingFrom": {
+        "B": "hero_billingFrom"
+      },
+      "landingpages_web_hero_annualMonthlyOffer": {
+        "B": "hero_annualMonthlyOffer"
+      },
+      "landingpages_web_hero_billingMonthly": {
+        "B": "hero_billingMonthly"
+      },
+      "landingpages_web_hero_billingYearly": {
+        "B": "hero_billingYearly"
+      },
+      "landingpages_web_hero_annualOffer": {
+        "B": "hero_annualOffer"
+      },
+      "landingpages_web_hero_monthlyOffer": {
+        "B": "hero_monthlyOffer"
+      },
+      "landingpages_web_hero_button_signUp": {
+        "B": "hero_b_Up"
+      },
+      "landingpages_web_hero_button_freeTrial": {
+        "B": "hero_b_f"
+      },
+      "landingpages_web_hero_button_getStarted": {
+        "B": "b_getStarted"
+      },
+      "landingpages_web_hero_savingTotal": {
+        "B": "hero_savingTotal"
+      }
+    },
+    "e_acc_pe_schedule_name": {},
+    "e_acc_ar_dlete": {},
+    "e_acc_ar_demo": {},
+    "e_acc_ads_demo_del": {},
+    "e_acc_pe_ob_eventheader_testing": {
+      "openbrowse_MarketingHeader_event_header": {
+        "B": "Watch on DAZN"
+      }
+    },
+    "e_acc_ar_samtom123": {},
+    "e_acc_ar_web_show_d4b_signup_link_us": {
+      "signup_daznForBusinessCallout": {
+        "B": "",
+        "C": "This is for personal accounts only. [If you're looking for DAZN for your business, head here instead.](https://www.dazn.com/help/articles/business-and-commercial-premise-inquiries))"
+      }
+    }
+  }
+}

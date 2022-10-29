@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix "Coming Up" data not being pulled across other markets than US
+  jira: ODY-383
+  owner: mattmoreira

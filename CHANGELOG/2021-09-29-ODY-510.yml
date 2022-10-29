@@ -1,0 +1,5 @@
+- type: added
+  m: Migrate hero strings to geronimo
+  jira: ODY-510
+  owner: joanrm20
+  requires-cab: true

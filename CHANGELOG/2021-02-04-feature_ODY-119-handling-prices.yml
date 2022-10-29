@@ -1,0 +1,4 @@
+- type: added
+  m: I've created a Hook for returning the offers available on the user's region. Also, I've created a component to display in the Hero section, those offers returned by the hook.
+  jira: ODY-119
+  owner: MattElias

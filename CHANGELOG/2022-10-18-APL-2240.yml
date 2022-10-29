@@ -1,0 +1,5 @@
+- type: changed
+  m: Consume Hero background image from image-service
+  jira: APL-2240
+  owner: thiago-vasconcelos
+  service: landing-page-experiments

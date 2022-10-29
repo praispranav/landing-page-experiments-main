@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fixed incorrect resource string key assigned to the redeem footer link
+  jira: ODY-383
+  owner: mattmoreira

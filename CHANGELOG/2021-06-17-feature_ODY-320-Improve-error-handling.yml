@@ -1,0 +1,4 @@
+- type: changed
+  m: Improve error handling for Offers
+  jira: ODY-320
+  owner: FadiRasheed

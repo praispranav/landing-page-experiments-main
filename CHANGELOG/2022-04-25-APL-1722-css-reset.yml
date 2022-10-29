@@ -1,0 +1,5 @@
+- type: changed
+  m: apply GOAT's css reset
+  jira: APL-1722
+  owner: mattmoreira
+  service: landing-page-experiments

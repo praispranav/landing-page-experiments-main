@@ -1,0 +1,4 @@
+- type: added
+  m: Add cypress screenshots comparison
+  jira: ODY-135
+  owner: hannanikulina

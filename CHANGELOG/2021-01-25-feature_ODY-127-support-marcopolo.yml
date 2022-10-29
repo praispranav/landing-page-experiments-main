@@ -1,0 +1,4 @@
+- type: added
+  m: Support Marcopolo in e2e tests
+  jira: ODY-127
+  owner: hannanikulina

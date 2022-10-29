@@ -1,0 +1,128 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_8aca8b557de2b6cb017e010d1e36516e",
+            "SkuId": null,
+            "BillingDate": "2022-01-25T18:26:40Z",
+            "RenewalDate": "2022-02-25T18:26:40Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                {
+                    "Price": 29.99,
+                    "Currency": "EUR"
+                },
+                {
+                    "Price": 10,
+                    "Currency": "GBP"
+                }
+            ],
+            "PaymentMethodIds": ["ApplePay", "KlarnaPayNow", "CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0,
+            "Instalment": null
+        },
+        {
+            "Id": "Zuora_8aca962e7de2c4d1017dfb54f63a31b7",
+            "SkuId": null,
+            "BillingDate": "2022-01-25T18:26:40Z",
+            "RenewalDate": "2023-01-25T18:26:40Z",
+            "BillingPeriod": "Instalments",
+            "ChargeTiers": [
+                {
+                    "Price": 24.99,
+                    "Currency": "EUR"
+                },
+                {
+                    "Price": 10,
+                    "Currency": "GBP"
+                }
+            ],
+            "PaymentMethodIds": ["KlarnaPayNow", "CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": false,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0,
+            "Instalment": {
+                "TermInMonths": 12,
+                "NextPaymentCaptureDate": "2022-02-25T18:26:40Z"
+            }
+        },
+        {
+            "Id": "Zuora_8aca962e7de2c4d1017e0110bf185b71",
+            "SkuId": null,
+            "BillingDate": "2022-01-25T18:26:40Z",
+            "RenewalDate": "2023-01-25T18:26:40Z",
+            "BillingPeriod": "Annual",
+            "ChargeTiers": [
+                {
+                    "Price": 274.99,
+                    "Currency": "EUR"
+                },
+                {
+                    "Price": 120,
+                    "Currency": "GBP"
+                }
+            ],
+            "PaymentMethodIds": ["ApplePay", "KlarnaPayNow", "CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0,
+            "Instalment": null
+        },
+        {
+            "Id": "DirectCarrierBilling_1808",
+            "SkuId": "1808",
+            "BillingDate": "2022-01-25T18:26:40Z",
+            "RenewalDate": "2022-02-25T18:26:40Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                {
+                    "Price": 29.99,
+                    "Currency": "EUR"
+                }
+            ],
+            "PaymentMethodIds": ["DirectCarrierBilling"],
+            "AllowsNoPaymentMethod": false,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0,
+            "Instalment": null
+        }
+    ],
+    "FreeTrialIneligibilityReason": null,
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "KlarnaPayNow",
+            "BillingCountries": ["DE"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "CreditCard",
+            "BillingCountries": ["DE"],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": ["DE"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "DirectCarrierBilling",
+            "BillingCountries": ["DE"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": true
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

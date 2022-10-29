@@ -1,0 +1,5 @@
+- type: fixed
+  m: Update `@daznl/lp-content-block` to use Market Proposition with centred headline
+  jira: APL-2121
+  owner: mattmoreira
+  service: landing-page-experiments

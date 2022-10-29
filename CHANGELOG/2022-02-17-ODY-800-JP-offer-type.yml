@@ -1,0 +1,5 @@
+- type: changed
+  m: Change display type for Japan to StartingFrom
+  jira: ODY-800
+  owner: Anna Nikulina
+  service: landing-page-experiments

@@ -1,0 +1,5 @@
+- type: added
+  m: Hide all the PPV elements based on a feature flag
+  jira: ODY-614
+  owner: FadiRasheed
+  service: landing-page-experiments

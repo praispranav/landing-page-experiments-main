@@ -1,0 +1,4 @@
+- type: changed
+  m: Migrate devices section resource strings to geronimo
+  jira: ODY-508
+  owner: mattmoreira

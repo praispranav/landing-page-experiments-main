@@ -1,0 +1,5 @@
+- type: fixed
+  m: Included the origin header in the forwarded values block
+  jira: ODY-20
+  owner: MattElias
+  requires-cab: true

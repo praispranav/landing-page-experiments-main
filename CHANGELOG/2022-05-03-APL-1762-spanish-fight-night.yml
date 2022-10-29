@@ -1,0 +1,5 @@
+- type: fixed
+  m: Fix coming up tiles not appearing in Spanish speaking countries
+  jira: APL-1762
+  owner: mattmoreira
+  service: landing-page-experiments

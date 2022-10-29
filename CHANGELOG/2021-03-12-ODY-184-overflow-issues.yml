@@ -1,0 +1,4 @@
+- type: changed
+  m: Make Offers look good in US
+  jira: ODY-184
+  owner: lmatteis

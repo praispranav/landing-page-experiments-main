@@ -1,0 +1,4 @@
+- type: added
+  m: 'Add font-display: block to not have fonts flicker'
+  jira: ODY-153
+  owner: lmatteis

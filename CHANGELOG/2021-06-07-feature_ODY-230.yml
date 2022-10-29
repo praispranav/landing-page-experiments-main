@@ -1,0 +1,5 @@
+- type: changed
+  m: Revert to default open browse behavior
+  jira: ODY-230
+  owner: joanrm20
+  requires-cab: true

@@ -1,0 +1,4 @@
+- type: changed
+  m: Change CA offer display type to "Starting From"
+  jira: ODY-464
+  owner: mattmoreira

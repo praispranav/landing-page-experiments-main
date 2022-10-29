@@ -1,0 +1,82 @@
+{
+    "Addons": [
+        {
+            "Id": "zuora_ppv_rate_plan_id",
+            "SkuId": "ppv_rate_plan_sku_id",
+            "Type": "Regular",
+            "ChargeTiers": [
+                {
+                    "Price": 49.99,
+                    "Currency": "USD"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "MYR"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "NZD"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "PHP"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "SGD"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "HKD"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "THB"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "TWD"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "VND"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "EUR"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "GBP"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "JPY"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "CAD"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "IDR"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "AUD"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "CHF"
+                },
+                {
+                    "Price": 49.99,
+                    "Currency": "BRL"
+                }
+            ],
+            "PaymentMethodIds": ["ApplePay", "CreditCard", "PayPal"],
+            "EntitlementSetId": "entitlement_set_id",
+            "EventStartDate": "2022-10-16T20:00:00Z"
+        }
+    ]
+}

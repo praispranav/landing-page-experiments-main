@@ -1,0 +1,4 @@
+- type: added
+  m: Improve Experiments story to use mocked fetched data and ability to change displayType
+  jira: ODY-175
+  owner: lmatteis

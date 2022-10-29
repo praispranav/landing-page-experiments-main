@@ -1,0 +1,21 @@
+name: Ticket Check
+
+on:
+  pull_request:
+    types: ['opened', 'edited']
+
+jobs:
+  ticket-check:
+    timeout-minutes: 1
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: check ticket ID
+        uses: neofinancial/ticket-check-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ticketPrefix: 'ODY-'
+          titleRegex: '^((ODY)|(APL))-(\d+)'
+          branchRegex: '^((ODY)|(APL))-(\d+)'
+          exemptUsers: 'dazn-bot, dependabot'
+          quiet: true

@@ -1,0 +1,4 @@
+- type: added
+  m: Add Event Start Date and Time to PPV Hero section
+  jira: APL-2309
+  owner: FadiRasheed

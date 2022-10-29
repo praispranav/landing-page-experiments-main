@@ -1,0 +1,4 @@
+- type: changed
+  m: Upgrade storybook and enable its toolbar
+  jira: ODY-360
+  owner: mattmoreira

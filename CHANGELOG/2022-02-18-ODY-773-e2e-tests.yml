@@ -1,0 +1,5 @@
+- type: added
+  m: E2e test for language switcher
+  jira: ODY-773
+  owner: Anna Nikulina
+  service: landing-page-experiments

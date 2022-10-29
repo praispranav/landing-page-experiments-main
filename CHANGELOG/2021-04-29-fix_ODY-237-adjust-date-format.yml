@@ -1,0 +1,4 @@
+- type: removed
+  m: Removed day of the week from EN date formats
+  jira: ODY-237
+  owner: MattElias

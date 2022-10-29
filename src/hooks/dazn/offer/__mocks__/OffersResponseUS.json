@@ -1,0 +1,81 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_2c91a0f962f13f6b0162fcaa03393fcd",
+            "SkuId": null,
+            "BillingDate": "2021-02-09T18:15:02Z",
+            "RenewalDate": "2021-03-09T18:15:02Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                {
+                    "Price": 19.99,
+                    "Currency": "USD"
+                },
+                {
+                    "Price": 19.99,
+                    "Currency": "EUR"
+                },
+                {
+                    "Price": 10,
+                    "Currency": "GBP"
+                }
+            ],
+            "PaymentMethodIds": [
+                "CreditCard",
+                "PayPal"
+            ],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0
+        },
+        {
+            "Id": "Zuora_2c91a0f86300c01c016301c7e36819b0",
+            "SkuId": null,
+            "BillingDate": "2021-02-09T18:15:02Z",
+            "RenewalDate": "2022-02-09T18:15:02Z",
+            "BillingPeriod": "Annual",
+            "ChargeTiers": [
+                {
+                    "Price": 99.99,
+                    "Currency": "USD"
+                },
+                {
+                    "Price": 199.99,
+                    "Currency": "GBP"
+                }
+            ],
+            "PaymentMethodIds": [
+                "CreditCard",
+                "PayPal"
+            ],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0
+        }
+    ],
+    "FreeTrialIneligibilityReason": "ForcedHardOffer",
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "CreditCard",
+            "BillingCountries": [
+                "US"
+            ],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": true,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": [
+                "US"
+            ],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": true,
+            "GiftCodeDisallowed": false
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

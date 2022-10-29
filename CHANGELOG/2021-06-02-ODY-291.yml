@@ -1,0 +1,5 @@
+- type: added
+  m: Add new experiments configurations
+  jira: ODY-291
+  owner: joanrm20
+  requires-cab: true

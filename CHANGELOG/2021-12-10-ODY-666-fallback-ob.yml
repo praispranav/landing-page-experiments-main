@@ -1,0 +1,5 @@
+- type: changed
+  m: Change fallback mechanism to send upon uncaught errors to openbrowse
+  jira: ODY-666
+  owner: mattmoreira
+  service: landing-page-experiments

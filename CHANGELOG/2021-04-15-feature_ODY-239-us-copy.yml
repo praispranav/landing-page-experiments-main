@@ -1,0 +1,4 @@
+- type: changed
+  m: Change US hero copy to contain information over the Canelo fight
+  jira: ODY-239
+  owner: MattElias

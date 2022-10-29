@@ -1,0 +1,4 @@
+- type: changed
+  m: Remove button to Spanish translation (US)
+  jira: ODY-353
+  owner: FadiRasheed

@@ -1,0 +1,4 @@
+- type: changed
+  m: Update the "What's on" section according to the new design
+  jira: ODY-211
+  owner: FadiRasheed

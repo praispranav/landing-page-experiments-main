@@ -1,0 +1,850 @@
+{
+    "Id": "en-ca-2022-04-06",
+    "Tiles": [
+        {
+            "Id": "Epg:189yhuq7d24xl1r503zshtcy76",
+            "AgeRating": null,
+            "AssetId": "189yhuq7d24xl1r503zshtcy76",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "6vaxfomnjt6c04o6fy5wfmaov",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "MLB Network",
+            "Description": "MLB Network is your 24/7 home of baseball. Catch live games and highlights, plus analysis on all 30 teams from a host of award-winning daily shows.",
+            "Start": "2021-12-15T10:00:00Z",
+            "End": "3000-01-01T00:00:00Z",
+            "DisplayDate": "2021-12-17T17:45:02Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "128997445726_image-header_pCa_1639763501000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "n0amm59n1m59y0auuk93hexg", "Title": "MLB Network" },
+            "Sport": {
+                "Id": "e2n4bo41sw91dx98if05lse25",
+                "Title": "MLB Network",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22221893985_image-background_pCa_1519640185000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22221893985_image-tile_pCa_1527606084000"
+                    }
+                ]
+            },
+            "Videos": [
+                { "Id": "247Channel026_catchup-ISM-DC1", "Format": "ISM" },
+                { "Id": "247Channel026_catchup-ISM-DC2", "Format": "ISM" },
+                { "Id": "247Channel026_catchup-M3U-DC1", "Format": "M3U" },
+                { "Id": "247Channel026_catchup-M3U-DC2", "Format": "M3U" },
+                { "Id": "247Channel026_catchup-MPD-DC1", "Format": "MPEG-DASH" },
+                { "Id": "247Channel026_catchup-MPD-DC2", "Format": "MPEG-DASH" }
+            ],
+            "Related": [],
+            "TournamentCalendar": { "Id": "5yem97683qard1mc3ah4wsk33", "Title": "MLB Network" },
+            "ExpirationDate": null,
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": true,
+            "Status": null,
+            "Label": "MLB Network",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:6vaxfomnjt6c04o6fy5wfmaov",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:s66zethuneyv1w1gugaq2kbqq",
+            "AgeRating": null,
+            "AssetId": "s66zethuneyv1w1gugaq2kbqq",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "2xyjgq7ffrrdck7yi3qc2ixbj",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "NFL Network",
+            "Description": "As well as being your home of Good Morning Football, Total Access and GameDay, NFL Network brings you all the latest news and features from the NFL, 24/7.",
+            "Start": "2021-12-15T10:00:00Z",
+            "End": "3000-01-01T00:00:00Z",
+            "DisplayDate": "2022-03-17T14:00:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "128996933752_image-header_pCa_1639763282000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "wy3kluvb4efae1of0d8146c1", "Title": "NFL Game Pass" },
+            "Sport": {
+                "Id": "9ita1e50vxttzd1xll3iyaulu",
+                "Title": "Football",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "21786181945_image-background_pCa_1579110438000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "21786181945_image-tile_pCa_1579110439000"
+                    }
+                ]
+            },
+            "Videos": [
+                { "Id": "247Channel023_catchup-ISM-DC1", "Format": "ISM" },
+                { "Id": "247Channel023_catchup-ISM-DC2", "Format": "ISM" },
+                { "Id": "247Channel023_catchup-M3U-DC1", "Format": "M3U" },
+                { "Id": "247Channel023_catchup-M3U-DC2", "Format": "M3U" },
+                { "Id": "247Channel023_catchup-MPD-DC1", "Format": "MPEG-DASH" },
+                { "Id": "247Channel023_catchup-MPD-DC2", "Format": "MPEG-DASH" }
+            ],
+            "Related": [],
+            "TournamentCalendar": { "Id": "azhx36a6iaxavnfca4w4nzrwf", "Title": "NFL Network" },
+            "ExpirationDate": null,
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": true,
+            "Status": null,
+            "Label": "NFL Network",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:2xyjgq7ffrrdck7yi3qc2ixbj",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:1ekikqxqj3jff1a93rge1lb8hu",
+            "AgeRating": null,
+            "AssetId": "1ekikqxqj3jff1a93rge1lb8hu",
+            "AssetTypeId": "1k7t7oc0q1omt19gij7s3hc676",
+            "EventId": "zwmxvjghpvlzfimnrmsuvlf4",
+            "Type": "CatchUp",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "World Pool Championship - Day 1 Session 1",
+            "Description": "The first session of the 2022 World Pool Championship gets underway in Milton Keynes. With 128 players battling for the prestigious world title and C$75,000 top prize, who will capture glory at the tournament?",
+            "Start": "2022-04-06T09:00:00Z",
+            "End": "2022-04-06T13:45:00Z",
+            "DisplayDate": "2022-03-31T12:42:51Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "136655429606_image-header_pCa_1648730892000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "8cqtqybwqcsqwstijbxaa6voj",
+                "Title": "World Pool Championship"
+            },
+            "Sport": {
+                "Id": "1pz0crjgvg5rh80845u7djsj9",
+                "Title": "Pool",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22220869648_image-background_pCa_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22220869648_image-tile_pCa_1517333869000"
+                    }
+                ]
+            },
+            "Videos": [
+                { "Id": "275553320393_catchup-ISM-DCA", "Format": "ISM" },
+                { "Id": "275553320393_catchup-ISM-DCB", "Format": "ISM" },
+                { "Id": "275553320393_catchup-ISM-DCX", "Format": "ISM" },
+                { "Id": "275553320393_catchup-M3U-DCA", "Format": "M3U" },
+                { "Id": "275553320393_catchup-M3U-DCB", "Format": "M3U" },
+                { "Id": "275553320393_catchup-M3U-DCX", "Format": "M3U" },
+                { "Id": "275553320393_catchup-MPD-DCA", "Format": "MPEG-DASH" },
+                { "Id": "275553320393_catchup-MPD-DCB", "Format": "MPEG-DASH" },
+                { "Id": "275553320393_catchup-MPD-DCX", "Format": "MPEG-DASH" }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5k258ubiv6fbp993v37znv7s",
+                "Title": "World Pool Championship"
+            },
+            "ExpirationDate": "2022-04-13T09:00:00Z",
+            "VideoType": "Live2Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "World Pool Championship",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:zwmxvjghpvlzfimnrmsuvlf4",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:lmfe4g4q871b1kl0xenmy0d18",
+            "AgeRating": null,
+            "AssetId": "lmfe4g4q871b1kl0xenmy0d18",
+            "AssetTypeId": "1k7t7oc0q1omt19gij7s3hc676",
+            "EventId": "7ftwcy8gkha564v35i9krrr7k",
+            "Type": "CatchUp",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Premier League Today: Season-Defining Period for Man City and Liverpool",
+            "Description": "As Premier League teams prepare for another round of exciting fixtures, immerse yourself in all the latest news and opinion surrounding England’s top flight.",
+            "Start": "2022-04-06T12:30:00Z",
+            "End": "2022-04-06T13:15:00Z",
+            "DisplayDate": "2022-03-19T14:51:51Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "135760965832_image-header_pCa_1649249312000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "2kwbbcootiqqgmrzs6o5inle5", "Title": "Premier League" },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165868_image-background_pCa_1644945901000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165868_image-tile_pCa_1647431972000"
+                    }
+                ]
+            },
+            "Videos": [
+                { "Id": "275557928005_catchup-ISM-DCA", "Format": "ISM" },
+                { "Id": "275557928005_catchup-ISM-DCB", "Format": "ISM" },
+                { "Id": "275557928005_catchup-ISM-DCX", "Format": "ISM" },
+                { "Id": "275557928005_catchup-M3U-DCA", "Format": "M3U" },
+                { "Id": "275557928005_catchup-M3U-DCB", "Format": "M3U" },
+                { "Id": "275557928005_catchup-M3U-DCX", "Format": "M3U" },
+                { "Id": "275557928005_catchup-MPD-DCA", "Format": "MPEG-DASH" },
+                { "Id": "275557928005_catchup-MPD-DCB", "Format": "MPEG-DASH" },
+                { "Id": "275557928005_catchup-MPD-DCX", "Format": "MPEG-DASH" }
+            ],
+            "Related": [],
+            "TournamentCalendar": { "Id": "dbasjxtd2rk91g8n85yhj5rwi", "Title": "Premier League" },
+            "ExpirationDate": "2022-04-13T12:27:00Z",
+            "VideoType": "Live2Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Premier League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:7ftwcy8gkha564v35i9krrr7k",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:1elyjy5jvftsb1iwssipitbnuz",
+            "AgeRating": null,
+            "AssetId": "1elyjy5jvftsb1iwssipitbnuz",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "1c0lb5pj36qc23e7lv1wy23yl",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Charleston Open - Day 3",
+            "Description": "The third day of the 2022 Charleston Open gets underway live from South Carolina. Veronika Kudermetova is the reigning champion at the event, after she defeated Danka Kovinic in straight sets to win her first WTA title.",
+            "Start": "2022-04-06T14:00:00Z",
+            "End": "2022-04-07T04:00:00Z",
+            "DisplayDate": "2022-03-19T14:43:26Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "135761989587_image-header_pCa_1649061965000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "cpz2hcl9bxmwtbwtc8gvx4jvj", "Title": "WTA Charleston Open" },
+            "Sport": {
+                "Id": "4rheplujt9zryv3fqvtu1jpah",
+                "Title": "Tennis",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212677874_image-background_pCa_1568022358000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212677874_image-tile_pCa_1632138975000"
+                    }
+                ]
+            },
+            "Videos": [
+                { "Id": "275652136277_catchup-ISM-DCA", "Format": "ISM" },
+                { "Id": "275652136277_catchup-ISM-DCB", "Format": "ISM" },
+                { "Id": "275652136277_catchup-ISM-DCX", "Format": "ISM" },
+                { "Id": "275652136277_catchup-M3U-DCA", "Format": "M3U" },
+                { "Id": "275652136277_catchup-M3U-DCB", "Format": "M3U" },
+                { "Id": "275652136277_catchup-M3U-DCX", "Format": "M3U" },
+                { "Id": "275652136277_catchup-MPD-DCA", "Format": "MPEG-DASH" },
+                { "Id": "275652136277_catchup-MPD-DCB", "Format": "MPEG-DASH" },
+                { "Id": "275652136277_catchup-MPD-DCX", "Format": "MPEG-DASH" }
+            ],
+            "Related": [],
+            "TournamentCalendar": { "Id": "drm0ve9qrnylqc16onzxysj6c", "Title": "WTA 500" },
+            "ExpirationDate": "2022-04-07T05:30:00Z",
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "WTA 500",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1c0lb5pj36qc23e7lv1wy23yl",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:19qbzuntjw0kk1uiga8596uv3q",
+            "AgeRating": null,
+            "AssetId": "19qbzuntjw0kk1uiga8596uv3q",
+            "AssetTypeId": "1k7t7oc0q1omt19gij7s3hc676",
+            "EventId": "8jt2asswja1uw4oj1p6eqdtlr",
+            "Type": "CatchUp",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Good Morning Football - Apr. 6",
+            "Description": "Join us on Good Morning Football, where we bring you all of the news and opinion surrounding the NFL.",
+            "Start": "2022-04-06T14:05:00Z",
+            "End": "2022-04-06T14:05:00Z",
+            "DisplayDate": "2022-04-06T14:05:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "134959173523_image-header_pCa_1646846775000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "wy3kluvb4efae1of0d8146c1", "Title": "NFL Game Pass" },
+            "Sport": {
+                "Id": "9ita1e50vxttzd1xll3iyaulu",
+                "Title": "Football",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "21786181945_image-background_pCa_1579110438000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "21786181945_image-tile_pCa_1579110439000"
+                    }
+                ]
+            },
+            "Videos": [
+                { "Id": "275556904364_catchup-ISM-DCA", "Format": "ISM" },
+                { "Id": "275556904364_catchup-ISM-DCB", "Format": "ISM" },
+                { "Id": "275556904364_catchup-ISM-DCX", "Format": "ISM" },
+                { "Id": "275556904364_catchup-M3U-DCA", "Format": "M3U" },
+                { "Id": "275556904364_catchup-M3U-DCB", "Format": "M3U" },
+                { "Id": "275556904364_catchup-M3U-DCX", "Format": "M3U" },
+                { "Id": "275556904364_catchup-MPD-DCA", "Format": "MPEG-DASH" },
+                { "Id": "275556904364_catchup-MPD-DCB", "Format": "MPEG-DASH" },
+                { "Id": "275556904364_catchup-MPD-DCX", "Format": "MPEG-DASH" }
+            ],
+            "Related": [],
+            "TournamentCalendar": { "Id": "15634nopncrtc46isqld9k4a9", "Title": "NFL Game Pass" },
+            "ExpirationDate": null,
+            "VideoType": "Live2Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "NFL Game Pass",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:8jt2asswja1uw4oj1p6eqdtlr",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:g9l96hueo0za115t2etjeg4b8",
+            "AgeRating": null,
+            "AssetId": "g9l96hueo0za115t2etjeg4b8",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "3frmc6xcty5rbpr8w3vl223zi",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Headline Makers - Apr. 6",
+            "Description": "Join the team on Headline Makers as they take an in-depth look at which Premier League stars have been capturing the attention and making news this week.",
+            "Start": "2022-04-06T16:00:00Z",
+            "End": "2022-04-06T17:15:00Z",
+            "DisplayDate": "2022-03-19T14:55:15Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135760965855_image-header_pCa_1647702110000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "2kwbbcootiqqgmrzs6o5inle5", "Title": "Premier League" },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165868_image-background_pCa_1644945901000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165868_image-tile_pCa_1647431972000"
+                    }
+                ]
+            },
+            "Videos": [
+                { "Id": "275573800386_catchup-ISM-DCA", "Format": "ISM" },
+                { "Id": "275573800386_catchup-ISM-DCB", "Format": "ISM" },
+                { "Id": "275573800386_catchup-ISM-DCX", "Format": "ISM" },
+                { "Id": "275573800386_catchup-M3U-DCA", "Format": "M3U" },
+                { "Id": "275573800386_catchup-M3U-DCB", "Format": "M3U" },
+                { "Id": "275573800386_catchup-M3U-DCX", "Format": "M3U" },
+                { "Id": "275573800386_catchup-MPD-DCA", "Format": "MPEG-DASH" },
+                { "Id": "275573800386_catchup-MPD-DCB", "Format": "MPEG-DASH" },
+                { "Id": "275573800386_catchup-MPD-DCX", "Format": "MPEG-DASH" }
+            ],
+            "Related": [],
+            "TournamentCalendar": { "Id": "dbasjxtd2rk91g8n85yhj5rwi", "Title": "Premier League" },
+            "ExpirationDate": "2022-04-06T19:00:00Z",
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Premier League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:3frmc6xcty5rbpr8w3vl223zi",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:1fsfkmmi98ptw1mpti2pr79s9k",
+            "AgeRating": null,
+            "AssetId": "1fsfkmmi98ptw1mpti2pr79s9k",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "4z33jhz6lx932n9hbntngfo3f",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "World Pool Championship - Day 1 Session 2",
+            "Description": "The first day of the 2022 World Pool Championship continues in Milton Keynes. With 128 players battling for the prestigious world title and C$75,000 prize fund, who will capture glory at the tournament?",
+            "Start": "2022-04-06T16:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-31T14:44:55Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "136667717722_image-header_pCa_1648738511000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "8cqtqybwqcsqwstijbxaa6voj",
+                "Title": "World Pool Championship"
+            },
+            "Sport": {
+                "Id": "1pz0crjgvg5rh80845u7djsj9",
+                "Title": "Pool",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22220869648_image-background_pCa_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22220869648_image-tile_pCa_1517333869000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5k258ubiv6fbp993v37znv7s",
+                "Title": "World Pool Championship"
+            },
+            "ExpirationDate": "2022-04-06T16:40:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": "LiveSoon",
+            "Label": "World Pool Championship",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:4z33jhz6lx932n9hbntngfo3f",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:oqhukzurkvnq1t284gbaikjp9",
+            "AgeRating": null,
+            "AssetId": "oqhukzurkvnq1t284gbaikjp9",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "eb2964kz3x3huh97fznys3310",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Burnley vs. Everton",
+            "Description": "Frank Lampard's Everton side travels to Turf Moor to face Burnley, as it continues its battle to stay afloat in the Premier League. The two sides last faced off in September 2021, with The Toffees seizing the spoils with a 3-1 victory.",
+            "Start": "2022-04-06T18:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-25T15:06:14Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "136231493642_image-header_pCa_1648221117000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "2kwbbcootiqqgmrzs6o5inle5", "Title": "Premier League" },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165868_image-background_pCa_1644945901000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165868_image-tile_pCa_1647431972000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": { "Id": "8l3o9v8n8tva0bb2cds2dhatw", "Title": "Premier League" },
+            "ExpirationDate": "2022-04-06T18:40:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Premier League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:eb2964kz3x3huh97fznys3310",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:18pxya4g3hzx41wuf5psxj6ui9",
+            "AgeRating": null,
+            "AssetId": "18pxya4g3hzx41wuf5psxj6ui9",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "1ms9q6bpnzn10bvvrjovyo9w4",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Chelsea vs. Real Madrid",
+            "Description": "Reigning champion Chelsea still has hopes of going back-to-back, but to keep that dream alive it must beat Real Madrid in the quarter-finals. It was a miraculous comeback from Madrid in the last round, as Karim Benzema scored a stunning hat-trick.",
+            "Start": "2022-04-06T19:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-21T10:43:21Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135834181518_image-header_pCa_1647859943000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "4oogyu6o156iphvdvphwpck10", "Title": "UEFA Champions League" },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165868_image-background_pCa_1644945901000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165868_image-tile_pCa_1647431972000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "1sc9sn2keddyalfj2z0wy77ys",
+                "Title": "UEFA Champions League"
+            },
+            "ExpirationDate": "2022-04-06T19:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "UEFA Champions League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1ms9q6bpnzn10bvvrjovyo9w4",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:40b5rta7xmip1n6xfpzggxrsu",
+            "AgeRating": null,
+            "AssetId": "40b5rta7xmip1n6xfpzggxrsu",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "639bn71xnlau0g3ckl1ykcs9g",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Villarreal vs. Bayern Munich",
+            "Description": "This season's surprise package, Villarreal, takes on Bayern Munich in the quarter-finals of the UEFA Champions League. It's a stern test for Unai Emery's men, who will have to work hard to keep the likes of Bayern's Robert Lewandowski quiet.",
+            "Start": "2022-04-06T19:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-21T10:38:45Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135833669757_image-header_pCa_1647859568000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "4oogyu6o156iphvdvphwpck10", "Title": "UEFA Champions League" },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165868_image-background_pCa_1644945901000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165868_image-tile_pCa_1647431972000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "1sc9sn2keddyalfj2z0wy77ys",
+                "Title": "UEFA Champions League"
+            },
+            "ExpirationDate": "2022-04-06T19:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "UEFA Champions League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:639bn71xnlau0g3ckl1ykcs9g",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:j6puqfboo1jk18r9wv1rt52rb",
+            "AgeRating": null,
+            "AssetId": "j6puqfboo1jk18r9wv1rt52rb",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "7oa84ctkoz1wthkp6db0bvjx0",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Chelsea vs. Real Madrid (Commentaires en Français)",
+            "Description": "Chelsea, champion en titre, vise toujours un doublé mais, pour atteindre cet objectif, les Blues doivent battre le Real Madrid. Les Madrilènes ont fait une remontée miraculeuse lors de la dernière ronde, Karim Benzema ayant inscrit un triplé.",
+            "Start": "2022-04-06T19:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-28T16:10:33Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "136407109750_image-header_pCa_1648484193000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "4oogyu6o156iphvdvphwpck10", "Title": "UEFA Champions League" },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165868_image-background_pCa_1644945901000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165868_image-tile_pCa_1647431972000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "2cb1vaoffvznvu9jer47icpgk",
+                "Title": "UEFA Champions League"
+            },
+            "ExpirationDate": "2022-04-06T19:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "UEFA Champions League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:7oa84ctkoz1wthkp6db0bvjx0",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:77xfizg5sdhi11v1fp0umb3da",
+            "AgeRating": null,
+            "AssetId": "77xfizg5sdhi11v1fp0umb3da",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "e2cj8tk5onz8r2javlxdkosdx",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Villarreal vs. Bayern Munich (Commentaires en Français)",
+            "Description": "Équipe surprise de la saison, Villarreal affronte le Bayern Munich en quart de finale de l'UEFA Champions League. Pour espérer se qualifier, les hommes d'Unai Emery doivent notamment surveiller Robert Lewandowski à la pointe de l'attaque bavaroise.",
+            "Start": "2022-04-06T19:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-28T14:39:04Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "136394821840_image-header_pCa_1648478770000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": { "Id": "4oogyu6o156iphvdvphwpck10", "Title": "UEFA Champions League" },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165868_image-background_pCa_1644945901000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165868_image-tile_pCa_1647431972000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "2cb1vaoffvznvu9jer47icpgk",
+                "Title": "UEFA Champions League"
+            },
+            "ExpirationDate": "2022-04-06T19:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "UEFA Champions League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:e2cj8tk5onz8r2javlxdkosdx",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        }
+    ],
+    "Date": "2022-04-06",
+    "Generated": "2022-04-06T00:00:00Z",
+    "LinearOnly": false
+}

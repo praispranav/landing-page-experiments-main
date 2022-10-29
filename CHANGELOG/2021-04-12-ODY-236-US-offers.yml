@@ -1,0 +1,4 @@
+- type: changed
+  m: Align offers for US with figma
+  jira: ODY-236
+  owner: lmatteis

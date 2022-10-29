@@ -1,0 +1,107 @@
+name: Pull Request
+
+on:
+  pull_request:
+    types: ['opened', 'reopened', 'synchronize']
+
+env:
+  NODE_VERSION: 14
+
+# Ensures that only one deploy task per branch/environment will run at a time.
+concurrency:
+  group: pr-${{ github.ref }}
+  cancel-in-progress: true
+  
+jobs:
+  install-dependencies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: install dependencies
+        uses: ./.github/actions/install-dependencies
+        with:
+          global_artifactory_token: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+          node_version: ${{ env.NODE_VERSION }}
+          ui_tests: true
+
+  optimize-images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Compress Images
+        uses: calibreapp/image-actions@main
+        with:
+          ignorePaths: node_modules/**,test/**,docs/**
+          jpegQuality: 90
+          jpegProgressive: false
+          pngQuality: 90
+          webpQuality: 90
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+
+  cypress-tests:
+    uses: ./.github/workflows/cypress-tests.trigger.yml
+    needs: [install-dependencies, optimize-images]
+    secrets:
+      GLOBAL_GITHUB_TOKEN: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+      GLOBAL_TUNNEL_SSH_PRIVATE_KEY: ${{ secrets.GLOBAL_TUNNEL_SSH_PRIVATE_KEY }}
+      VAULT_MP_TOKEN: ${{ secrets.VAULT_MP_TOKEN }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    with:
+      ref: refs/heads/${{ github.head_ref }}
+      node_version: 14
+
+  storybook:
+    uses: ./.github/workflows/storybook.trigger.yml
+    secrets: 
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+      GLOBAL_GITHUB_TOKEN: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    with:
+      ref: refs/heads/${{ github.head_ref }}
+      node_version: 14
+
+  comment-pr:
+    name: comment on PR
+    if: always()
+    timeout-minutes: 3
+    runs-on: ubuntu-latest
+    needs: [cypress-tests, storybook]
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup PR comment dependencies
+        run: |
+          rm package-lock.json
+          rm package.json
+          npm i outdent@0.8.0
+
+      - name: Run script for commenting on the PR
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const { addComment, updateComment, getPreviousComment } = require('./.github/scripts/pr-comment/utils.js');
+            const { getMessage, getTitle } = require('./.github/scripts/pr-comment/pr-info.js');
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ['issue_number']: context.issue.number,
+            });
+
+            const message = getMessage({ context, require });
+            const previousComment = getPreviousComment(comments, getTitle());
+
+            const createComment = previousComment
+              ? updateComment({ context, github }, previousComment.id, message)
+              : addComment({ context, github }, message);
+
+            await createComment;

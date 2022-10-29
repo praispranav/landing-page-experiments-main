@@ -1,0 +1,5 @@
+- type: changed
+  m: replace canelo ppv background image by eubank vs connor on global
+  jira: APL-2246
+  owner: mattmoreira
+  service: landing-page-experiments

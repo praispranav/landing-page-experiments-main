@@ -1,0 +1,5 @@
+- type: removed
+  m: remove unused fonts
+  jira: ODY-648
+  owner: mattmoreira
+  service: landing-page-experiments

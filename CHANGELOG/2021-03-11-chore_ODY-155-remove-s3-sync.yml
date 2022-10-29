@@ -1,0 +1,4 @@
+- type: removed
+  m: Remove syncing of build files with the s3 bucket
+  jira: ODY-155
+  owner: MattElias

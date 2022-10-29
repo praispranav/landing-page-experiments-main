@@ -1,0 +1,4 @@
+- type: changed
+  m: Export <Experiments /> component as a SystemJS module
+  jira: ODY-131
+  owner: lmatteis

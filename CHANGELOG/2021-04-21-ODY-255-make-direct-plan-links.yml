@@ -1,0 +1,4 @@
+- type: changed
+  m: Clicking CTA buttons in Plans sends you to signuppage
+  jira: ODY-255
+  owner: lmatteis

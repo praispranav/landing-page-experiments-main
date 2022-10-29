@@ -1,0 +1,4 @@
+- type: changed
+  m: Pack publish & upload package
+  jira: ODY-141
+  owner: lmatteis

@@ -1,0 +1,4 @@
+- type: changed
+  m: Update hero title copy for DE & AT
+  jira: ODY-187
+  owner: MattElias

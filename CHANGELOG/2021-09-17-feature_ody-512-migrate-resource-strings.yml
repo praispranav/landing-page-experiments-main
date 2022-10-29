@@ -1,0 +1,4 @@
+- type: added
+  m: Migrate the resource strings of the WhatsOn, Faq, and Header
+  jira: ODY-512
+  owner: FadiRasheed

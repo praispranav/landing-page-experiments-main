@@ -1,0 +1,5 @@
+- type: added
+  m: Add Next Up rail as option to What's On
+  jira: APL-2204
+  owner: thiago-vasconcelos
+  service: landing-page-experiments

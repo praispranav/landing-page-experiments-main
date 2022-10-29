@@ -1,0 +1,4 @@
+- type: added
+  m: Migrate all the resource strings of the footer
+  jira: ODY-507
+  owner: FadiRasheed

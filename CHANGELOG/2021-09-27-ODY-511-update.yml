@@ -1,0 +1,5 @@
+- type: added
+  m: move coming up and epg to whatsOn section
+  jira: ODY-511
+  owner: joanrm20
+  requires-cab: true

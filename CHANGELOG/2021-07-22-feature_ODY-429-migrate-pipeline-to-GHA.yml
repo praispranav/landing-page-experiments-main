@@ -1,0 +1,4 @@
+- type: added
+  m: Add GHA pipeline
+  jira: ODY-429
+  owner: hannanikulina

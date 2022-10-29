@@ -1,0 +1,77 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_2c92a00e705c04d601706701520550dc",
+            "SkuId": null,
+            "BillingDate": "2021-07-13T15:09:01Z",
+            "RenewalDate": "2021-08-13T15:09:01Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                { "Price": 1.99, "Currency": "USD", "Discount": null },
+                { "Price": 29.99, "Currency": "ZAR", "Discount": null },
+                { "Price": 8.9, "Currency": "MYR", "Discount": null },
+                { "Price": 350, "Currency": "NGN", "Discount": null },
+                { "Price": 45, "Currency": "MXN", "Discount": null },
+                { "Price": 19, "Currency": "NOK", "Discount": null },
+                { "Price": 2.99, "Currency": "NZD", "Discount": null },
+                { "Price": 6.9, "Currency": "PEN", "Discount": null },
+                { "Price": 99, "Currency": "PHP", "Discount": null },
+                { "Price": 160, "Currency": "PKR", "Discount": null },
+                { "Price": 7.99, "Currency": "PLN", "Discount": null },
+                { "Price": 6.99, "Currency": "QAR", "Discount": null },
+                { "Price": 7.99, "Currency": "RON", "Discount": null },
+                { "Price": 18, "Currency": "SEK", "Discount": null },
+                { "Price": 2.98, "Currency": "SGD", "Discount": null },
+                { "Price": 15, "Currency": "HKD", "Discount": null },
+                { "Price": 59, "Currency": "THB", "Discount": null },
+                { "Price": 15.99, "Currency": "TRY", "Discount": null },
+                { "Price": 60, "Currency": "TWD", "Discount": null },
+                { "Price": 2200, "Currency": "TZS", "Discount": null },
+                { "Price": 54.99, "Currency": "UAH", "Discount": null },
+                { "Price": 35000, "Currency": "VND", "Discount": null },
+                { "Price": 155, "Currency": "ARS", "Discount": null },
+                { "Price": 1.99, "Currency": "EUR", "Discount": null },
+                { "Price": 2.99, "Currency": "BGN", "Discount": null },
+                { "Price": 1.99, "Currency": "GBP", "Discount": null },
+                { "Price": 1500, "Currency": "CLP", "Discount": null },
+                { "Price": 7500, "Currency": "COP", "Discount": null },
+                { "Price": 39, "Currency": "CZK", "Discount": null },
+                { "Price": 13, "Currency": "DKK", "Discount": null },
+                { "Price": 12.99, "Currency": "HRK", "Discount": null },
+                { "Price": 599, "Currency": "HUF", "Discount": null },
+                { "Price": 19000, "Currency": "IDR", "Discount": null },
+                { "Price": 5.9, "Currency": "ILS", "Discount": null },
+                { "Price": 69, "Currency": "INR", "Discount": null },
+                { "Price": 2.99, "Currency": "AUD", "Discount": null },
+                { "Price": 2500, "Currency": "KRW", "Discount": null },
+                { "Price": 849, "Currency": "KZT", "Discount": null },
+                { "Price": 149, "Currency": "RUB", "Discount": null }
+            ],
+            "PaymentMethodIds": ["CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0
+        }
+    ],
+    "FreeTrialIneligibilityReason": "ForcedHardOffer",
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "CreditCard",
+            "BillingCountries": ["IE"],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": ["IE"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

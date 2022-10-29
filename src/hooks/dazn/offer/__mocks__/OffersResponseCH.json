@@ -1,0 +1,73 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_2c91a0fa596d46fb01596f094fa52511_70333",
+            "SkuId": null,
+            "BillingDate": "2021-04-09T14:35:37Z",
+            "RenewalDate": "2021-05-09T14:35:37Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                { "Price": 19.99, "Currency": "USD", "DiscountedPrice": null },
+                { "Price": 33, "Currency": "MYR", "DiscountedPrice": null },
+                { "Price": 9.99, "Currency": "NZD", "DiscountedPrice": null },
+                { "Price": 370, "Currency": "PHP", "DiscountedPrice": null },
+                { "Price": 10.98, "Currency": "SGD", "DiscountedPrice": null },
+                { "Price": 63, "Currency": "HKD", "DiscountedPrice": null },
+                { "Price": 280, "Currency": "THB", "DiscountedPrice": null },
+                { "Price": 270, "Currency": "TWD", "DiscountedPrice": null },
+                { "Price": 180, "Currency": "VND", "DiscountedPrice": null },
+                { "Price": 11.99, "Currency": "EUR", "DiscountedPrice": null },
+                { "Price": 10, "Currency": "GBP", "DiscountedPrice": null },
+                { "Price": 1925, "Currency": "JPY", "DiscountedPrice": null },
+                { "Price": 20, "Currency": "CAD", "DiscountedPrice": null },
+                { "Price": 109000, "Currency": "IDR", "DiscountedPrice": null },
+                { "Price": 9.99, "Currency": "AUD", "DiscountedPrice": null },
+                { "Price": 12.9, "Currency": "CHF", "DiscountedPrice": null }
+            ],
+            "PaymentMethodIds": ["CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1,
+            "DiscountedMonths": 0
+        },
+        {
+            "Id": "Zuora_2c91a0fa5b89e6ba015ba070227123b2_70333",
+            "SkuId": null,
+            "BillingDate": "2021-04-09T14:35:37Z",
+            "RenewalDate": "2022-04-09T14:35:37Z",
+            "BillingPeriod": "Annual",
+            "ChargeTiers": [
+                { "Price": 119.99, "Currency": "EUR", "DiscountedPrice": null },
+                { "Price": 199.99, "Currency": "GBP", "DiscountedPrice": null },
+                { "Price": 19249.92, "Currency": "JPY", "DiscountedPrice": null },
+                { "Price": 129, "Currency": "CHF", "DiscountedPrice": null }
+            ],
+            "PaymentMethodIds": ["CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1,
+            "DiscountedMonths": 0
+        }
+    ],
+    "FreeTrialIneligibilityReason": null,
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "CreditCard",
+            "BillingCountries": ["DE"],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": ["DE"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

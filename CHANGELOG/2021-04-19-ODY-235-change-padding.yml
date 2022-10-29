@@ -1,0 +1,4 @@
+- type: changed
+  m: Change padding top of hero contento to 200px
+  jira: ODY-235
+  owner: lmatteis

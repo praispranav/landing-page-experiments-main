@@ -1,0 +1,5 @@
+- type: added
+  m: using feature flag for display type
+  jira: APL-1999
+  owner: dinujubd
+  service: landing-page-experiments

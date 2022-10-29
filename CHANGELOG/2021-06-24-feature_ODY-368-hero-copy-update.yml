@@ -1,0 +1,4 @@
+- type: changed
+  m: Update hero copy on AT, JP & CA
+  jira: ODY-368
+  owner: mattmoreira

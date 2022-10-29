@@ -1,0 +1,5 @@
+- type: added
+  m: Update hero image configs
+  jira: APL-1488
+  owner: joanrm20
+  service: landing-page-experiments

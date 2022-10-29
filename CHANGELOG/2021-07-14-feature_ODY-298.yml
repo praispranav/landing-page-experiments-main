@@ -1,0 +1,5 @@
+- type: added
+  m: Add error impression events
+  jira: ODY-298
+  owner: joanrm20
+  requires-cab: true

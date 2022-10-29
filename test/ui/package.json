@@ -1,0 +1,39 @@
+{
+    "name": "ui",
+    "version": "1.0.0",
+    "description": "tests",
+    "main": "index.js",
+    "scripts": {
+        "test:open": "cypress open --env failOnSnapshotDiff=false,packageServer=http://localhost:9000",
+        "test:run": "cypress run --headless; ret=$?; npm run report; exit $ret",
+        "test:run-locally": "cypress run --headless --env packageServer=http://localhost:9000; ret=$?; npm run report; exit $ret",
+        "report": "node generate.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@dazn/pag-interceptor": "^1.6.2",
+        "@testing-library/cypress": "^8.0.3",
+        "@types/chai": "^4.2.14",
+        "@types/mochawesome": "^6.2.1",
+        "@types/node": "^14.14.19",
+        "cypress": "^8.5.0",
+        "cypress-iframe": "^1.0.1",
+        "cypress-match-screenshot": "^1.1.0",
+        "cypress-multi-reporters": "^1.4.0",
+        "eslint-plugin-cypress": "^2.11.2",
+        "mochawesome": "^6.2.2",
+        "mochawesome-merge": "^4.2.0",
+        "mochawesome-report-generator": "^5.1.0",
+        "ts-loader": "^8.0.13",
+        "typescript": "^4.1.3",
+        "webpack": "^5.11.1"
+    },
+    "dependencies": {
+        "@dazn/acc-sdk-vault": "1.1.0",
+        "@types/cypress-image-snapshot": "^3.1.5",
+        "axios": "^0.21.1",
+        "cypress-each": "^1.10.0",
+        "cypress-image-snapshot": "^4.0.1"
+    }
+}

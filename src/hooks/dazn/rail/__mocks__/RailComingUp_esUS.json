@@ -1,0 +1,962 @@
+{
+    "Id": "ComingUp",
+    "Title": "A continuación",
+    "Params": null,
+    "Tiles": [
+        {
+            "Id": "ComingUp:p5fi7sz980mm1rhv3vgaotzmy",
+            "AgeRating": null,
+            "AssetId": "p5fi7sz980mm1rhv3vgaotzmy",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "3ejurxp1f79m3y2ouwiugsxpf",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canelo vs. Bivol: Rueda de Prensa",
+            "Description": "Saúl 'Canelo' Álvarez y Dmitry Bivol intercambian palabras en la rueda de prensa oficial previa a la pelea. La superestrella mexicana sube al peso semipesado en un intento por reclamar la corona de la AMB de Bivol.",
+            "Start": "2022-05-05T20:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-19T10:22:03Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "138015301763_image-header_pUs_1650364374000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "22yzov5xd68g0hesyikr22pf8",
+                "Title": "Canelo vs. Bivol"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5q0lbx0ezk1hed83fvokpcpbf",
+                "Title": "Canelo vs. Bivol"
+            },
+            "ExpirationDate": "2022-05-05T20:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. Bivol",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:3ejurxp1f79m3y2ouwiugsxpf",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1wl373wgm0muk1vm0ngu8c4lbs",
+            "AgeRating": null,
+            "AssetId": "1wl373wgm0muk1vm0ngu8c4lbs",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "awj5x56mecyv6pqsc7z7z5k5z",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canelo vs. Bivol: Pesaje",
+            "Description": "Saúl 'Canelo' Álvarez y Dmitry Bivol suben a la balanza, antes de su titánico duelo de peso semipesado de la AMB en Las Vegas. Canelo apuntará a una noche histórica en Nevada, ya que busca ganar un título mundial en una quinta división de peso.",
+            "Start": "2022-05-06T20:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-19T15:05:47Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "138044485528_image-header_pUs_1650381238000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "22yzov5xd68g0hesyikr22pf8",
+                "Title": "Canelo vs. Bivol"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5q0lbx0ezk1hed83fvokpcpbf",
+                "Title": "Canelo vs. Bivol"
+            },
+            "ExpirationDate": "2022-05-06T20:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. Bivol",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:awj5x56mecyv6pqsc7z7z5k5z",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:13ffcjkbcug3z1rcvkd8b7teoj",
+            "AgeRating": null,
+            "AssetId": "13ffcjkbcug3z1rcvkd8b7teoj",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "8c1hm7o402hqrdx1bn7yf1d57",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "The DAZN Boxing Show En Vivo desde Las Vegas - 6 Mayo",
+            "Description": "El equipo del DAZN Boxing Show te trae lo último desde Las Vegas, mientras la anticipación continúa creciendo antes de una deliciosa colisión de peso semipesado de la AMB entre Saúl 'Canelo' Alvarez y Dmitry Bivol.",
+            "Start": "2022-05-06T21:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-29T13:05:02Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "138931269874_image-header_pUs_1651246935000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "xv2ym05bdli0vv8bhvzzdy4n",
+                "Title": "The DAZN Boxing Show LIVE"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "846cipgd6zrxycr8f0wkq6id5",
+                "Title": "The DAZN Boxing Show En Vivo"
+            },
+            "ExpirationDate": "2022-05-06T21:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "The DAZN Boxing Show En Vivo",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:8c1hm7o402hqrdx1bn7yf1d57",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1gnx7dbecv8mh1e8d45w7uy2bi",
+            "AgeRating": null,
+            "AssetId": "1gnx7dbecv8mh1e8d45w7uy2bi",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "3tiff8r92p5kj2m81b5r6evev",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canelo vs. Bivol: Noche de Pelea (en Español)",
+            "Description": "Saúl 'Canelo' Álvarez sube a la división de peso semipesado para su primera pelea de 2022, enfrentándose al campeón invicto de la AMB, Dmitry Bivol, en el T-Mobile Arena.",
+            "Start": "2022-05-08T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-30T22:59:07Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "137107525798_image-header_pUs_1649261751000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "137107525798_image-gallery_pUs_1649327673000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "22yzov5xd68g0hesyikr22pf8",
+                "Title": "Canelo vs. Bivol"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5q0lbx0ezk1hed83fvokpcpbf",
+                "Title": "Canelo vs. Bivol"
+            },
+            "ExpirationDate": "2022-05-08T02:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. Bivol",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:3tiff8r92p5kj2m81b5r6evev",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": ["a38395e9-3115-4d1e-a9df-92d14839cedc"]
+        },
+        {
+            "Id": "ComingUp:1u71ger5bjni21bxiq0rvjp3h8",
+            "AgeRating": null,
+            "AssetId": "1u71ger5bjni21bxiq0rvjp3h8",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "cqcqtdtli81v0r21asstrjz8o",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canelo vs. Bivol: Noche de Pelea con Barstool",
+            "Description": "Saúl 'Canelo' Álvarez sube a la división de peso semicompleto para enfrentarse al campeón invicto de la AMB, Dmitry Bivol. Únete al equipo de Barstool para una transmisión alternativa de toda la acción en Las Vegas.",
+            "Start": "2022-05-08T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-30T22:58:24Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "137260101760_image-header_pUs_1649371855000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "137260101760_image-gallery_pUs_1649371855000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "22yzov5xd68g0hesyikr22pf8",
+                "Title": "Canelo vs. Bivol"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5q0lbx0ezk1hed83fvokpcpbf",
+                "Title": "Canelo vs. Bivol"
+            },
+            "ExpirationDate": "2022-05-08T02:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. Bivol",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:cqcqtdtli81v0r21asstrjz8o",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": ["a38395e9-3115-4d1e-a9df-92d14839cedc"]
+        },
+        {
+            "Id": "ComingUp:at65ijvyrs7t1i6xn5u8822bh",
+            "AgeRating": null,
+            "AssetId": "at65ijvyrs7t1i6xn5u8822bh",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "4g2gez0mzbpcwcbwnsfcnrqg8",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Zurdo vs. Boesel: Rueda de Prensa",
+            "Description": "Gilberto 'Zurdo' Ramírez y Dominic Boesel hablan con la prensa, antes de su combate de peso semipesado en DAZN. El invicto Zurdo enfrenta una dura prueba en California, mientras continúa el camino para ser campeón mundial de dos divisiones.",
+            "Start": "2022-05-12T20:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-29T14:13:37Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "138931269877_image-header_pUs_1651246935000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "at1y6621mr18etujorvq91vkl",
+                "Title": "Zurdo v Boesel"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9p0qj53y3e7kv2xc5wqdb7koi",
+                "Title": "Zurdo vs. Boesel"
+            },
+            "ExpirationDate": "2022-05-12T20:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Zurdo vs. Boesel",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:4g2gez0mzbpcwcbwnsfcnrqg8",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:bhkqvk1m1rf41bjl6wbegxspi",
+            "AgeRating": null,
+            "AssetId": "bhkqvk1m1rf41bjl6wbegxspi",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "e5lf2u5kjg7xzdgtnbpq6wa06",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Acosta vs. Rivera: Noche de Pelea",
+            "Description": "Golden Boy Boxing regresa a DAZN para una serie de peleas sensacionales en California. Encabezando la cartelera está el ex campeón de peso mosca ligero de la OMB Ángel Acosta (22-3), contra su compatriota Janiel Rivera (18-8-3).",
+            "Start": "2022-05-13T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-29T15:45:11Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "139015237699_image-header_pUs_1651359620000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "71xa6u83gby2mejwj1hyr2tfq",
+                "Title": "Acosta v Rivera"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "d6gq1t835ups9ysjrkyo5083g",
+                "Title": "Acosta vs. Rivera"
+            },
+            "ExpirationDate": "2022-05-13T00:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Acosta vs. Rivera",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:e5lf2u5kjg7xzdgtnbpq6wa06",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:4fg5sjlw2rdi18f08fz2xr39f",
+            "AgeRating": null,
+            "AssetId": "4fg5sjlw2rdi18f08fz2xr39f",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "6vml4r3w1tdherjkqv8bvdi46",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Scardina vs. De Carolis: Noche de Pelea",
+            "Description": "Daniele Scardina pone su racha invicta de 20-0 en juego cuando pelea con el experimentado veterano Giovanni De Carolis por primera vez en Allianz Cloud en Milán.",
+            "Start": "2022-05-13T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-02-21T15:30:51Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135411781588_image-header_pUs_1647358804000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "135411781588_image-gallery_pUs_1647358804000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "8cnj9f5d8y3jphq1yr70yg574",
+                "Title": "Scardina vs. De Carolis"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "6osbf0882sutatxicrmip9es7",
+                "Title": "Scardina v De Carolis 2022"
+            },
+            "ExpirationDate": "2022-05-13T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Scardina v De Carolis 2022",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:6vml4r3w1tdherjkqv8bvdi46",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1mvcolhmmu2d1m1n381hb00jd",
+            "AgeRating": null,
+            "AssetId": "1mvcolhmmu2d1m1n381hb00jd",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "dskja1uumelyrly23st0dp3j6",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Zurdo vs. Boesel: Pesaje",
+            "Description": "Gilberto 'Zurdo' Ramírez y Dominic Boesel pesan antes de su emocionante eliminatoria por el título de peso semipesado. Los dos poderosos pelearán oficialmente dentro del Toyota Arena de California el 14 de mayo, en vivo por DAZN.",
+            "Start": "2022-05-13T20:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-30T16:38:31Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "139015237694_image-header_pUs_1651359620000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "at1y6621mr18etujorvq91vkl",
+                "Title": "Zurdo v Boesel"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9p0qj53y3e7kv2xc5wqdb7koi",
+                "Title": "Zurdo vs. Boesel"
+            },
+            "ExpirationDate": "2022-05-13T20:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Zurdo vs. Boesel",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:dskja1uumelyrly23st0dp3j6",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:bp410z9c123i1i4vvq1ub5z2y",
+            "AgeRating": null,
+            "AssetId": "bp410z9c123i1i4vvq1ub5z2y",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "abtjyjpn1btla7vxkzowzh5h5",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Zurdo vs. Boesel: Noche de Pelea",
+            "Description": "Recién salido de una victoria por detención sobre Yunieski González en diciembre de 2021, Gilberto 'Zurdo' Ramírez tiene como objetivo ampliar su récord invicto a 44-0 cuando se enfrente a Dominic Boesel (32-2).",
+            "Start": "2022-05-15T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-14T16:43:39Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "138325573633_image-header_pUs_1650643993000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "138325573633_image-gallery_pUs_1650643993000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "at1y6621mr18etujorvq91vkl",
+                "Title": "Zurdo v Boesel"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9p0qj53y3e7kv2xc5wqdb7koi",
+                "Title": "Zurdo vs. Boesel"
+            },
+            "ExpirationDate": "2022-05-15T02:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Zurdo vs. Boesel",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:abtjyjpn1btla7vxkzowzh5h5",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1ev0lo9j0bzat18vdtez3z5n6a",
+            "AgeRating": null,
+            "AssetId": "1ev0lo9j0bzat18vdtez3z5n6a",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "cd2w4aopqa0hm3gnlu18643py",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Lejarraga vs. Metcalf: Noche de Pelea",
+            "Description": "El favorito local Kerman Lejarraga (34-2) recibe en el Bilbao Arena al británico James Metcalf (21-2). Lejarraga, cuyas únicas derrotas fueron ante David Avanesyan, ha derrotado a seis boxeadores británicos en su carrera.",
+            "Start": "2022-05-20T17:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-02-20T15:11:56Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135411781589_image-header_pUs_1647358804000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "135411781589_image-gallery_pUs_1647358804000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "9fwqrp1f11iqsgp4peqjs03c7",
+                "Title": "Lejarraga vs. Metcalf"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9r31jijvfsslvck40sn7lg10r",
+                "Title": "Lejarraga vs. Metcalf"
+            },
+            "ExpirationDate": "2022-05-20T17:40:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Lejarraga vs. Metcalf",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:cd2w4aopqa0hm3gnlu18643py",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:17ovjahz4kr9j1lbw0orqyameu",
+            "AgeRating": null,
+            "AssetId": "17ovjahz4kr9j1lbw0orqyameu",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "33cteaj09f878iw0vmgdr9mvc",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Buatsi vs. Richards: Noche de Pelea",
+            "Description": "Joshua Buatsi (15-0) se enfrenta a Craig Richards (17-2-1) por el título internacional de peso semipesado de la AMB. El ganador probablemente obtendrá una oportunidad por el título mundial.",
+            "Start": "2022-05-21T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-14T16:42:59Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135858757882_image-header_pUs_1647876917000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "135858757882_image-gallery_pUs_1647876918000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "8lo6205qyio0fksjx9glqbdhj",
+                "Title": "Buatsi v Richards"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "1t64mvyg2t0j1phdnzc56eqzx-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "1t64mvyg2t0j1phdnzc56eqzx-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "1t64mvyg2t0j1phdnzc56eqzx-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "69fofad4l6d25obzkzdiz1lan",
+                "Title": "Buatsi vs. Richards"
+            },
+            "ExpirationDate": "2022-05-21T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Buatsi vs. Richards",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:33cteaj09f878iw0vmgdr9mvc",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:p983dcf0l91515ljup5mvw5hj",
+            "AgeRating": null,
+            "AssetId": "p983dcf0l91515ljup5mvw5hj",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "3o847959hsto0ppo8wg0bcsc0",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Kyoguchi vs. Bermúdez: Noche de Pelea",
+            "Description": "El campeón de la AMB Super, Hiroto Kyoguchi, se enfrenta a Esteban Bermúdez en un choque en el peso mosca junior. El mexicano Bermúdez (14-3-2) tiene el objetivo de destronar al invicto Kyoguchi (15-0) en un esperado duelo.",
+            "Start": "2022-06-11T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-14T16:42:58Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "138679877694_image-header_pUs_1651006690000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "a2edrtzrdpsix7has2dj6k0w8",
+                "Title": "Kyoguchi vs. Bermudez"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "cekxob5137l75cu70i1wew3ri",
+                "Title": "Kyoguchi vs. Bermudez"
+            },
+            "ExpirationDate": null,
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Kyoguchi vs. Bermudez",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:3o847959hsto0ppo8wg0bcsc0",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1skyf3c54zt791a66l3wlwgfae",
+            "AgeRating": null,
+            "AssetId": "1skyf3c54zt791a66l3wlwgfae",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "96urb5wwjwy5ub7sx89md2n1o",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Rodríguez vs. Rungvisai: Noche de Pelea",
+            "Description": "Después de intervenir para vencer de manera impresionante a Carlos Cuadras y reclamar el título vacante del CMB en el peso gallo junior, Jesse Rodríguez (15-0) se enfrenta a Srisaket Sor Rungvisai.",
+            "Start": "2022-06-26T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-14T16:42:58Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "138679877693_image-header_pUs_1651006689000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "138679877693_image-gallery_pUs_1651006690000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "1jbmw4680lhdk1306d6dbbjrr",
+                "Title": "Rodriguez vs. Rungvisai"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1645830807000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "htonlvrg0zwm1fjfjlcksrlwf-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "htonlvrg0zwm1fjfjlcksrlwf-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "htonlvrg0zwm1fjfjlcksrlwf-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "dfp0i0mzfo3n4wj2f9l28b9vb",
+                "Title": "Rodriguez vs. Rungvisai"
+            },
+            "ExpirationDate": "2022-06-08T05:21:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Rodriguez vs. Rungvisai",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:96urb5wwjwy5ub7sx89md2n1o",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        }
+    ],
+    "StartPosition": 0,
+    "ContinuousPlayEnabled": false,
+    "Navigation": null,
+    "Type": "Standard",
+    "Description": null
+}

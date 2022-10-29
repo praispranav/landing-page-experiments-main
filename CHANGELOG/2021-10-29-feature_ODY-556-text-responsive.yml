@@ -1,0 +1,5 @@
+- type: changed
+  m: Replace markdown breaklines with hero headline max width
+  jira: ODY-556
+  owner: mattmoreira
+  service: landing-page-experiments

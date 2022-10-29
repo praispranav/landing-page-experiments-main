@@ -1,0 +1,97 @@
+name: 'storybook'
+
+on:
+  workflow_call:
+    inputs:
+      node_version:
+        description: NodeJS version
+        type: number
+        required: false
+        default: 14
+      ref:
+        type: string
+        required: true
+    secrets:
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN:
+        required: true
+      GLOBAL_GITHUB_TOKEN:
+        required: true
+      AWS_ACCESS_KEY_ID:
+        required: true
+      AWS_SECRET_ACCESS_KEY:
+        required: true
+
+jobs:
+  build-storybook:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 3
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: install dependencies
+        uses: ./.github/actions/install-dependencies
+        with:
+          global_artifactory_token: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+          node_version: ${{ inputs.node_version }}
+
+      - name: build storybook
+        run: npm run storybook:build
+
+      - name: zip build
+        run: zip storybook.zip ./.storybook/build/* -r
+
+      - name: upload build
+        uses: actions/upload-artifact@v2
+        with:
+          name: storybook.zip
+          path: storybook.zip
+
+  upload-storybook:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 1
+
+    env:
+      artifact_type: storybook
+      artifact_file: storybook.zip
+      terebu_path: .storybook/build/        
+
+    needs: [build-storybook]
+
+    steps:
+      - name: checkout GHA for uploading to terebu
+        uses: actions/checkout@v2
+        with:
+          repository: getndazn/dx-terebu-upload-action
+          token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          path: .getndazn/dx-terebu-upload-action
+          ref: fix/input-ref
+
+      - name: configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-central-1
+          role-to-assume: arn:aws:iam::248090895259:role/automation-gha-ci
+
+      - name: download ${{ env.artifact_file }}
+        uses: actions/download-artifact@v2
+        with:
+          name: ${{ env.artifact_file }}
+          path: tmp
+
+      - name: unzip ${{ env.artifact_file }}
+        working-directory: tmp
+        run: |
+          unzip ${{ env.artifact_file }}
+          mkdir ${{ env.artifact_type }}
+          mv .storybook/build/* ${{ env.artifact_type }}/
+
+      - name: upload ${{ env.artifact_type }} to terebu
+        uses: ./.getndazn/dx-terebu-upload-action
+        with:
+          reportEnv: dev
+          type: ${{ env.artifact_type }}
+          path: tmp/${{ env.artifact_type }}/${{ matrix.terebu_path }}
+          ref: ${{ inputs.ref }}

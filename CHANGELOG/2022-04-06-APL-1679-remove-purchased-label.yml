@@ -1,0 +1,5 @@
+- type: removed
+  m: remove purchased label from schedule tiles
+  jira: APL-1679
+  owner: mattmoreira
+  service: landing-page-experiments

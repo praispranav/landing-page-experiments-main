@@ -1,0 +1,4 @@
+- type: added
+  m: Add epg hook test and update jest config
+  jira: ODY-229
+  owner: joanrm20

@@ -1,0 +1,4 @@
+- type: fixed
+  m: Standardized time format on hero copy
+  jira: ODY-235
+  owner: MattElias

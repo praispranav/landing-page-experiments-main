@@ -1,0 +1,27 @@
+{
+    "categoryId":"faq",
+    "locale":"en-de",
+    "order":50,
+    "articles":[
+      {
+        "title":"Article with Collapsibles",
+        "summary":"Article with collapsible UI elements",
+        "url":"article-with-collapsibles"
+      },
+      {
+        "title":"FAQ test1",
+        "summary":"the teh present cirhgd. sya shas at this miment cinoeled. the teh present cirhgd. sya shas at this miment cinoeled",
+        "url":"faq-test1"
+      },
+      {
+        "title":"FAQ Test 101",
+        "summary":"Summary test",
+        "url":"faq-test-101"
+      },
+      {
+        "title":"test 1",
+        "summary":"test german translate english",
+        "url":"test-1"
+      }
+    ]
+  }

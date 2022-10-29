@@ -1,0 +1,4 @@
+- type: changed
+  m: Fix the dropdown filter
+  jira: ODY-269
+  owner: FadiRasheed

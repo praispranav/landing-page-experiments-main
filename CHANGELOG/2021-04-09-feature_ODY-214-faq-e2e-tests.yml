@@ -1,0 +1,4 @@
+- type: added
+  m: E2e tests for FAQ section on landing page.
+  jira: ODY-214
+  owner: hannanikulina

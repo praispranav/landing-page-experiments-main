@@ -1,0 +1,4 @@
+- type: added
+  m: Verify and update DAZN Manifest list of Services
+  jira: ODY-551
+  owner: FadiRasheed

@@ -1,0 +1,4 @@
+- type: fixed
+  m: Unmount the chapter when navigating to another one
+  jira: ODY-404
+  owner: FadiRasheed

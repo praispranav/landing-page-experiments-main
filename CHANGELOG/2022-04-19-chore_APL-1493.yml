@@ -1,0 +1,4 @@
+- type: fixed
+  m: Update dazn manifest
+  jira: APL-1493
+  owner: harrissidiropoulos

@@ -1,0 +1,5 @@
+- type: changed
+  m: Render the hero variants based on the configs for each country
+  jira: ODY-616
+  owner: mattmoreira
+  service: landing-page-experiments

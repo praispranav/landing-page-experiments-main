@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix typo on legal copy for the CA and ROW
+  jira: ODY-464
+  owner: mattmoreira

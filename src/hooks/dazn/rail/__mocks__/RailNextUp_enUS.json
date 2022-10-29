@@ -1,0 +1,1644 @@
+{
+    "Id": "27474ae4-3032-4f5e-bb92-518697c95bd6",
+    "Title": "Next Up",
+    "Params": null,
+    "Tiles": [
+        {
+            "Id": "List:1lgyg4wfb8qi215yz3szn5kmvk",
+            "AgeRating": null,
+            "AssetId": "1lgyg4wfb8qi215yz3szn5kmvk",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "dpapc329177xu1wex673cif4j",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "German Darts Open - Day 1 Session 2",
+            "Description": "All the action from Jena's Sparkassen-Arena, as the opening day of the 2022 German Darts Open continues. The event sees 48 of the world's best talent go head-to-head, with a $29,000 prize on offer to the winner.",
+            "Start": "2022-09-09T17:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-31T22:17:16Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147453509848_image-header_pUs_1662662397000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "1pc312g8ijtttoqmdsx3wmshq",
+                "Title": "German Darts Open"
+            },
+            "Sport": {
+                "Id": "3e7e88y5uktwvipmq7gh0407s",
+                "Title": "Darts",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "53528133744_image-background_pUs_1644945897000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "53528133744_image-tile_pUs_1657207462000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "aogiqdz04yzmmow44xgho6lhz",
+                "Title": "German Darts Open"
+            },
+            "ExpirationDate": "2022-09-09T17:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "German Darts Open",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:dpapc329177xu1wex673cif4j",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:f0rytecq5016195ie9newnhba",
+            "AgeRating": null,
+            "AssetId": "f0rytecq5016195ie9newnhba",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "1c0bj8ebsm4zym9b6oac0mtse",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Wagner vs. Sanchez: Fight Night",
+            "Description": "​Canadian puncher Josh 'The Boss' Wagner (12-0) is out to impress, enjoying a main event clash against Mexico's Jorge Sanchez (13-2). Enjoy a fantastic night of boxing, as the fighting pride of Edmonton seeks to remain undefeated.",
+            "Start": "2022-09-09T23:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-31T17:54:47Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147429957838_image-header_pUs_1662139795000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "147429957838_image-gallery_pUs_1662119224000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "7khgm6obwy1d774zmg3mir3f9",
+                "Title": "Wagner v Sanchez"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "1wd35434ewjbl1addsru340ykf-ISM-DCN",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "1wd35434ewjbl1addsru340ykf-MPD-DCN",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "1wd35434ewjbl1addsru340ykf-M3U-DCN",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "krlfzaB_vsvttaXJuObr8dFiqOP0YXQa",
+                    "Format": "SMIL"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "b3ep91ytp7jolmffj3z2cdhmu",
+                "Title": "Wagner vs. Sanchez"
+            },
+            "ExpirationDate": "2022-09-09T23:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Wagner vs. Sanchez",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1c0bj8ebsm4zym9b6oac0mtse",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:14bzzpu8mj69d1tm6b51pav8xf",
+            "AgeRating": null,
+            "AssetId": "14bzzpu8mj69d1tm6b51pav8xf",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "c1lqvlg26sf7y7twfj2yl2olw",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Atletico Madrid vs. Real Sociedad",
+            "Description": "Amaiur Sarriegi netted in both fixtures for Real Sociedad against Atletico Madrid last season, on route to scoring 17 goals in the league. Can she do it again, or will the Atletico defense stand tall against her?",
+            "Start": "2022-09-10T10:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T16:16:57Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147999301546_image-header_pUs_1662654213000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "5k620c7y6dlbmcm88dt3eb7t",
+                "Title": "Liga F"
+            },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22493253929_image-background_pUs_1644945865000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22493253929_image-tile_pUs_1657206554000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "70f5j3wcnaudxrgb4f3rq7ac4",
+                "Title": "Liga F"
+            },
+            "ExpirationDate": "2022-09-10T10:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Liga F",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:c1lqvlg26sf7y7twfj2yl2olw",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1mu5qpkuf28rq16eouqwkb5kbu",
+            "AgeRating": null,
+            "AssetId": "1mu5qpkuf28rq16eouqwkb5kbu",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "6u70zsono35odww7rot81ms85",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Drone Champions League - Lake Zurich Race",
+            "Description": "After a summer hiatus, the Drone Champions League makes its return at the 2022 Lake Zurich Championship. Catch all the action from Switzerland, as the world's best virtual pilots compete in one of Europe's most challenging and unique locations.",
+            "Start": "2022-09-10T10:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-02T11:22:33Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147579461846_image-header_pUs_1662118351000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "40gpxmi20slvn0zb7p3dzn7cn",
+                "Title": "Drone Champions League"
+            },
+            "Sport": {
+                "Id": "2n04ntth4y3591y4sh02i8q3n",
+                "Title": "Extreme Sports",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "121803845564_image-background_pUs_1651657167000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "121803845564_image-tile_pUs_1651657171000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "f232wf8vioopdrgg0zinutx3x",
+                "Title": "Drone Champions League"
+            },
+            "ExpirationDate": "2022-09-10T10:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Drone Champions League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:6u70zsono35odww7rot81ms85",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:16uvgxzq88oh51byjspzmeykc8",
+            "AgeRating": null,
+            "AssetId": "16uvgxzq88oh51byjspzmeykc8",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "2h61oghwhszcvu9a9x5ktydcw",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "German Darts Open - Day 2 Session 1",
+            "Description": "Join us inside Jena's Sparkassen Arena, as the second day of the 2022 German Darts Open gets underway. Michael van Gerwen is the reigning champion, following an 8-3 victory over England's Ian White in the 2019 final showpiece.",
+            "Start": "2022-09-10T11:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-02T11:49:12Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147583557562_image-header_pUs_1662120099000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "1pc312g8ijtttoqmdsx3wmshq",
+                "Title": "German Darts Open"
+            },
+            "Sport": {
+                "Id": "3e7e88y5uktwvipmq7gh0407s",
+                "Title": "Darts",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "53528133744_image-background_pUs_1644945897000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "53528133744_image-tile_pUs_1657207462000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "aogiqdz04yzmmow44xgho6lhz",
+                "Title": "German Darts Open"
+            },
+            "ExpirationDate": "2022-09-10T11:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "German Darts Open",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:2h61oghwhszcvu9a9x5ktydcw",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1j5rlbnpu0ab915563obdmw7hi",
+            "AgeRating": null,
+            "AssetId": "1j5rlbnpu0ab915563obdmw7hi",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "c208nr9vundit15m575h50y6s",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Villarreal vs. Real Madrid",
+            "Description": "Real Madrid starts its domestic league season with an away day at Ciudad Deportiva to play Villarreal. Esther Gonzalez is a critical part of the Real squad, having already scored four goals in continental competition.",
+            "Start": "2022-09-10T14:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-09T13:04:42Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "148074565651_image-header_pUs_1662729420000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "5k620c7y6dlbmcm88dt3eb7t",
+                "Title": "Liga F"
+            },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22493253929_image-background_pUs_1644945865000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22493253929_image-tile_pUs_1657206554000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "70f5j3wcnaudxrgb4f3rq7ac4",
+                "Title": "Liga F"
+            },
+            "ExpirationDate": "2022-09-10T14:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Liga F",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:c208nr9vundit15m575h50y6s",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:16aybjup54vpz1retpxk1tx9uj",
+            "AgeRating": null,
+            "AssetId": "16aybjup54vpz1retpxk1tx9uj",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "a76q2t92taruhl585tl2uqhgv",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "German Darts Open - Day 2 Session 2",
+            "Description": "Join us inside Jena's Sparkassen Arena, as the second day of the 2022 German Darts Open continues. Michael van Gerwen is the reigning champion, following an 8-3 victory over England's Ian White in the 2019 final showpiece.",
+            "Start": "2022-09-10T17:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-02T12:54:44Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147585605920_image-header_pUs_1662123912000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "1pc312g8ijtttoqmdsx3wmshq",
+                "Title": "German Darts Open"
+            },
+            "Sport": {
+                "Id": "3e7e88y5uktwvipmq7gh0407s",
+                "Title": "Darts",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "53528133744_image-background_pUs_1644945897000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "53528133744_image-tile_pUs_1657207462000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "aogiqdz04yzmmow44xgho6lhz",
+                "Title": "German Darts Open"
+            },
+            "ExpirationDate": "2022-09-10T17:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "German Darts Open",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:a76q2t92taruhl585tl2uqhgv",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1uh299nir0475z721vtexonw5",
+            "AgeRating": null,
+            "AssetId": "1uh299nir0475z721vtexonw5",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "dknuxj8umm0xkf8mg7sumi4oo",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Singh vs. Vrenozi - Fight Night",
+            "Description": "Indian puncher Sukhdeep Singh (12-0) is out to make a statement, facing Albania's Xhuljo Vrenozi (18-4) in Brampton, Canada. This featured middleweight bout is certain to impress, with Singh seeking to remain undefeated as a professional.",
+            "Start": "2022-09-10T23:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-02T12:21:19Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147584581758_image-header_pUs_1662140089000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "91tcvv6fsdxv6d4ug2vbyzg8e",
+                "Title": "Singh v Vrenozi"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "4m0cs0v7vakqvlp5b5tw1l7tt",
+                "Title": "Bhatti vs. Vrenozi"
+            },
+            "ExpirationDate": "2022-09-10T23:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Bhatti vs. Vrenozi",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:dknuxj8umm0xkf8mg7sumi4oo",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:l2sg46dvyg1d1w4jtg8qo3led",
+            "AgeRating": null,
+            "AssetId": "l2sg46dvyg1d1w4jtg8qo3led",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "ab9b12g73fhp0qyxhkpikslum",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "German Darts Open - Day 3 Session 1",
+            "Description": "The German Open heads into its final day, with the third round of action taking place in this afternoon's session. The last two World Champions, Peter Wright and Gerwyn Price, both sit on this side of the draw, and could meet in the quarter-finals.",
+            "Start": "2022-09-11T11:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-03T08:25:05Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147653701974_image-header_pUs_1662194269000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "1pc312g8ijtttoqmdsx3wmshq",
+                "Title": "German Darts Open"
+            },
+            "Sport": {
+                "Id": "3e7e88y5uktwvipmq7gh0407s",
+                "Title": "Darts",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "53528133744_image-background_pUs_1644945897000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "53528133744_image-tile_pUs_1657207462000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "aogiqdz04yzmmow44xgho6lhz",
+                "Title": "German Darts Open"
+            },
+            "ExpirationDate": "2022-09-11T11:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "German Darts Open",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:ab9b12g73fhp0qyxhkpikslum",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1i1tfsun6uqoq12kh48k19zzae",
+            "AgeRating": null,
+            "AssetId": "1i1tfsun6uqoq12kh48k19zzae",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "bggzxtewtnk04imje5mshj3h3",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Red Bull Hardline UK",
+            "Description": "The world's best downhill mountain bikers head to Machynlleth to navigate huge jumps, boulder drops and unpredictable weather.",
+            "Start": "2022-09-11T12:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T10:49:24Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147973189988_image-header_pUs_1662634805000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "6o01s0u591b4h05awzot3yu1q",
+                "Title": "Red Bull TV"
+            },
+            "Sport": {
+                "Id": "2n04ntth4y3591y4sh02i8q3n",
+                "Title": "Extreme Sports",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "121803845564_image-background_pUs_1651657167000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "121803845564_image-tile_pUs_1651657171000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "ei9mxjy40koxrr6ylamu1tque",
+                "Title": "Red Bull TV"
+            },
+            "ExpirationDate": "2022-09-11T12:00:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Red Bull TV",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:bggzxtewtnk04imje5mshj3h3",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:h6zgirad7qln1d77f2lbndfqr",
+            "AgeRating": null,
+            "AssetId": "h6zgirad7qln1d77f2lbndfqr",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "c1vx3c7ncum298ds5hado3h90",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Levante Las Planas vs. Barcelona",
+            "Description": "",
+            "Start": "2022-09-11T16:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T16:12:48Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "148060229800_image-header_pUs_1662712329000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "5k620c7y6dlbmcm88dt3eb7t",
+                "Title": "Liga F"
+            },
+            "Sport": {
+                "Id": "289u5typ3vp4ifwh5thalohmq",
+                "Title": "Soccer",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22493253929_image-background_pUs_1644945865000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22493253929_image-tile_pUs_1657206554000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "70f5j3wcnaudxrgb4f3rq7ac4",
+                "Title": "Liga F"
+            },
+            "ExpirationDate": "2022-09-11T16:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Liga F",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:c1vx3c7ncum298ds5hado3h90",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:ckjbjr1udrgl1r7k0n6wvki43",
+            "AgeRating": null,
+            "AssetId": "ckjbjr1udrgl1r7k0n6wvki43",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "afma6xeg4g9g28x77jn11156b",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "German Darts Open - Day 3 Session 2",
+            "Description": "It's crunch time at the German Darts Open as the winner will be crowned from the eight remaining players in the competition. Jonny Clayton has seemingly not dropped off at all in the last two years, and will want to add to his trophy haul here.",
+            "Start": "2022-09-11T17:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-03T08:27:03Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147653701977_image-header_pUs_1662194269000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "1pc312g8ijtttoqmdsx3wmshq",
+                "Title": "German Darts Open"
+            },
+            "Sport": {
+                "Id": "3e7e88y5uktwvipmq7gh0407s",
+                "Title": "Darts",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "53528133744_image-background_pUs_1644945897000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "53528133744_image-tile_pUs_1657207462000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "aogiqdz04yzmmow44xgho6lhz",
+                "Title": "German Darts Open"
+            },
+            "ExpirationDate": "2022-09-11T17:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "German Darts Open",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:afma6xeg4g9g28x77jn11156b",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1ipvqvq2ccrp81eulqjefxhxz7",
+            "AgeRating": null,
+            "AssetId": "1ipvqvq2ccrp81eulqjefxhxz7",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "1e84kb7i6nhettm068yiiy3ta",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Red Bull Cliff Diving World Series Sisikon",
+            "Description": "The Red Bull Cliff Diving World Series heads for Switzerland where Rhiannan Iffland will be looking to emerge victorious and win at each of the 18 locations she has competed at.",
+            "Start": "2022-09-11T18:25:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T10:53:57Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147974725705_image-header_pUs_1662635098000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "6o01s0u591b4h05awzot3yu1q",
+                "Title": "Red Bull TV"
+            },
+            "Sport": {
+                "Id": "2n04ntth4y3591y4sh02i8q3n",
+                "Title": "Extreme Sports",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "121803845564_image-background_pUs_1651657167000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "121803845564_image-tile_pUs_1651657171000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "ei9mxjy40koxrr6ylamu1tque",
+                "Title": "Red Bull TV"
+            },
+            "ExpirationDate": "2022-09-11T18:25:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Red Bull TV",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1e84kb7i6nhettm068yiiy3ta",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:5ec6fzddxhs31t9yqcg1jd8ba",
+            "AgeRating": null,
+            "AssetId": "5ec6fzddxhs31t9yqcg1jd8ba",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "2dggdth7ed5frll27rcad4klx",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canelo vs. GGG III - DAZN Boxing Show Live and Press Conference",
+            "Description": "Prepare for a historic trilogy, as Canelo Alvarez and Gennady Golovkin come face-to-face at the pre-fight press conference. The two officially collide on September 17 in Las Vegas, where the undisputed super-middleweight championship is at stake.",
+            "Start": "2022-09-15T19:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-06T11:06:16Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147797061631_image-header_pUs_1662463016000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "cg50vjozbzazemk7dkjctcble",
+                "Title": "Canelo vs. GGG III"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5hrgt0k486fql6b50ppzdiyvp",
+                "Title": "Canelo vs. GGG III"
+            },
+            "ExpirationDate": "2022-09-15T21:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. GGG III",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:2dggdth7ed5frll27rcad4klx",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:v34x2cpmv5v91j07fkc20pv50",
+            "AgeRating": null,
+            "AssetId": "v34x2cpmv5v91j07fkc20pv50",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "az792nbxz0zshx1bag0gp85ny",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Harvest Farms - Day 1",
+            "Description": "Tune into all the action from the Harvest Farms golf course in Chicago as the first day tees off with the likes of Dustin Johnson, Bryson DeChambeau, and Phil Mickelson all participating.",
+            "Start": "2022-09-16T17:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T14:32:48Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147991109856_image-header_pUs_1662647937000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "7583yd99cld85m3rqtuhyruxi",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "Sport": {
+                "Id": "4wu920rstf6x1kx2h0171qf3n",
+                "Title": "Golf",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "21340741735_image-background_pUs_1654096976000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "21340741735_image-tile_pUs_1657206561000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "ce4ns10ft0uhp3skyfb4v3gfa",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "ExpirationDate": "2022-09-16T17:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "LIV Golf Invitational Series",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:az792nbxz0zshx1bag0gp85ny",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:svii162mxnlw1xvrrejyv4205",
+            "AgeRating": null,
+            "AssetId": "svii162mxnlw1xvrrejyv4205",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "99wqnzipnrq5gbakj1y4y497r",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canelo vs. GGG III - DAZN Boxing Show Live and Weigh-In",
+            "Description": "Canelo Alvarez and Gennady Golovkin tip the scales, ahead of their undisputed super-middleweight trilogy in Las Vegas. Follow all of the live action with the DAZN Boxing Show team, as we look forward to a history-making showdown in Sin City.",
+            "Start": "2022-09-16T19:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-06T12:02:04Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147802693984_image-header_pUs_1662466269000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "cg50vjozbzazemk7dkjctcble",
+                "Title": "Canelo vs. GGG III"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5hrgt0k486fql6b50ppzdiyvp",
+                "Title": "Canelo vs. GGG III"
+            },
+            "ExpirationDate": "2022-09-16T21:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. GGG III",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:99wqnzipnrq5gbakj1y4y497r",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1e6zp6e4wr0t81xl34ms9sovfo",
+            "AgeRating": null,
+            "AssetId": "1e6zp6e4wr0t81xl34ms9sovfo",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "cjdhko63hjsp8hkmax9nitg8j",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Harvest Farms - Day 2",
+            "Description": "It’s time for the second day of golfing wonder here at Harvest Farms in Chicago, as part of the LIV Golf series. Cameron Smith, Sergio Garcia, and Kevin Na are all expected to make an appearance in this exciting competition.",
+            "Start": "2022-09-17T17:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T14:48:04Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147993157533_image-header_pUs_1662648832000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "7583yd99cld85m3rqtuhyruxi",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "Sport": {
+                "Id": "4wu920rstf6x1kx2h0171qf3n",
+                "Title": "Golf",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "21340741735_image-background_pUs_1654096976000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "21340741735_image-tile_pUs_1657206561000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "ce4ns10ft0uhp3skyfb4v3gfa",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "ExpirationDate": "2022-09-17T17:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "LIV Golf Invitational Series",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:cjdhko63hjsp8hkmax9nitg8j",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:fqtmgrewdz6k1p9tpwnnf8y0f",
+            "AgeRating": null,
+            "AssetId": "fqtmgrewdz6k1p9tpwnnf8y0f",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "7ksfoadcz7rrxgr7qjh0w5k4g",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "The DAZN Boxing Show Live - Canelo vs. GGG III",
+            "Description": "Get the ultimate preview, as we build up to a huge clash in Las Vegas between Canelo Alvarez and Gennady Golovkin. Join our panel of experts live from Sin City, as two of the world's best prepare to dance under the lights for the third time",
+            "Start": "2022-09-17T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-07T14:49:40Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147904069708_image-header_pUs_1662562710000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "cg50vjozbzazemk7dkjctcble",
+                "Title": "Canelo vs. GGG III"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5hrgt0k486fql6b50ppzdiyvp",
+                "Title": "Canelo vs. GGG III"
+            },
+            "ExpirationDate": "2022-09-17T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. GGG III",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:7ksfoadcz7rrxgr7qjh0w5k4g",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1pm2ceadqxmtu1m1djef1zufys",
+            "AgeRating": null,
+            "AssetId": "1pm2ceadqxmtu1m1djef1zufys",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "buqp575bnv3lzq98ltfpv48yh",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canelo vs. GGG III: Fight Night",
+            "Description": "The wait is officially over. Saul 'Canelo' Alvarez and Gennadiy Golovkin clash in a much-awaited trilogy in Las Vegas. After a draw in their first bout and Canelo's narrow win in the second, the pair hope to settle one of boxing's biggest rivalries.",
+            "Start": "2022-09-18T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-31T15:42:27Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147419717745_image-header_pUs_1662629280000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "147419717745_image-gallery_pUs_1662629280000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "cg50vjozbzazemk7dkjctcble",
+                "Title": "Canelo vs. GGG III"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5hrgt0k486fql6b50ppzdiyvp",
+                "Title": "Canelo vs. GGG III"
+            },
+            "ExpirationDate": "2022-09-18T00:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. GGG III",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:buqp575bnv3lzq98ltfpv48yh",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": [
+                "ppv_canelo_vs_ggg_3_market_6_US_EN"
+            ]
+        },
+        {
+            "Id": "List:rp475stofhab1gc57h7ctu2ob",
+            "AgeRating": null,
+            "AssetId": "rp475stofhab1gc57h7ctu2ob",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "46tlxshiquxbn9e5q7k2w2r3y",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Harvest Farms - Day 3",
+            "Description": "Be sure to follow the dramatic conclusion of the weekend here at Harvest Farms in Chicago. Dustin Johnson won the last event in Boston, can he do it all over again in front of another American crowd?",
+            "Start": "2022-09-18T17:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T16:04:39Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147998277843_image-header_pUs_1662653632000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "7583yd99cld85m3rqtuhyruxi",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "Sport": {
+                "Id": "4wu920rstf6x1kx2h0171qf3n",
+                "Title": "Golf",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "21340741735_image-background_pUs_1654096976000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "21340741735_image-tile_pUs_1657206561000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "ce4ns10ft0uhp3skyfb4v3gfa",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "ExpirationDate": "2022-09-18T17:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "LIV Golf Invitational Series",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:46tlxshiquxbn9e5q7k2w2r3y",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:6gtyw3x585kl16gw49evhtm3d",
+            "AgeRating": null,
+            "AssetId": "6gtyw3x585kl16gw49evhtm3d",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "bvbwhyf9mpj7873plc2as9ujw",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Wood vs. Lara: Fight Night",
+            "Description": "After defending his WBA featherweight title against Michael Conlan, Leigh Wood now sets his sights on Mexican fighter, Mauricio Lara. Can Wood deliver yet another enthralling fight for his home crowd in Nottingham?",
+            "Start": "2022-09-24T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-18T15:39:33Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "146918469621_image-header_pUs_1661371019000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "146918469621_image-gallery_pUs_1661371019000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "9ma4efqgq6if83pe6hcm165qp",
+                "Title": "Wood vs. Lara"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "b3aal5s3dxew1wg3742ym39vd-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "b3aal5s3dxew1wg3742ym39vd-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "b3aal5s3dxew1wg3742ym39vd-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9pfx0k87de04yy8j2nhenhp7o",
+                "Title": "Wood vs. Lara"
+            },
+            "ExpirationDate": "2022-09-24T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Wood vs. Lara",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:bvbwhyf9mpj7873plc2as9ujw",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1upedem2wg37s17dydacx6gqju",
+            "AgeRating": null,
+            "AssetId": "1upedem2wg37s17dydacx6gqju",
+            "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+            "EventId": "ArticleId:1upedem2wg37s17dydacx6gqju",
+            "Type": "OnDemand",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Eubank Jr. vs. Benn: Fight Night",
+            "Description": "In a grudge match over 30 years in the making, Chris Eubank Jr. and Conor Benn will pick up where their fathers left off when the two Brits go head-to-head in a huge matchup on October 8.",
+            "Start": null,
+            "End": null,
+            "DisplayDate": "2022-08-30T13:33:53Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "145817669881_image-header_pUs_1662461840000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "145817669881_image-gallery_pUs_1660119896000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "cd6ut4cpveox692vdrbfd5hf0",
+                "Title": "Eubank Jr. vs. Benn"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "7uu9utbcmzpw1h5e3372vanel-M3U-DCN",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "7uu9utbcmzpw1h5e3372vanel-ISM-DCN",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "7uu9utbcmzpw1h5e3372vanel-MPD-DCN",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "1j84Reaqc9uAHHZcyVwdIQOK3DerwLbh",
+                    "Format": "SMIL"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": null,
+            "ExpirationDate": "2023-02-05T20:21:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Eubank Jr. vs. Benn",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": null,
+            "ArticleNavigateTo": null,
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:w2hi8a2asuc6173tqd284k7tr",
+            "AgeRating": null,
+            "AssetId": "w2hi8a2asuc6173tqd284k7tr",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "dy7jns165zmf4q0uvbzjelzoa",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Bivol vs. Ramirez: Fight Night",
+            "Description": "​A title opportunity has arisen for Gilberto Ramirez (44-0), who makes his ring return against WBA light-heavyweight king Dmitry Bivol (20-0). The bout marks another mandatory defence for Bivol, who is fresh from an upset victory over Canelo Alvarez.",
+            "Start": "2022-11-05T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-18T15:39:32Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147317317745_image-header_pUs_1661851962000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "147317317745_image-gallery_pUs_1661851962000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "2pqo32nd158k7xpmqzwbqbg28",
+                "Title": "Bivol vs. Ramirez"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "12zzsw3evjqw01x5kxkm0iczqc-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "12zzsw3evjqw01x5kxkm0iczqc-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "12zzsw3evjqw01x5kxkm0iczqc-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "54z9z78iukvweg41r8t67c5jl",
+                "Title": "Bivol vs. Ramirez"
+            },
+            "ExpirationDate": "2023-05-03T07:52:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Bivol vs. Ramirez",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:dy7jns165zmf4q0uvbzjelzoa",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:dq5k4kvzlbub1cf0k1l1koi1a",
+            "AgeRating": null,
+            "AssetId": "dq5k4kvzlbub1cf0k1l1koi1a",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "f1gv3zs6ghhjmb50bnsaey6mo",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Love vs. Spark: Fight Night",
+            "Description": "Montana Love (18-0-1) headlines his hometown of Cleveland for the first time, as he collides with Australian puncher Steve Spark (15-2). Love will hope to defend his IBF North American super-lightweight title, after he claimed the strap back in May.",
+            "Start": "2022-11-13T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-06T18:21:29Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147073093957_image-header_pUs_1661532298000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "147073093957_image-gallery_pUs_1661536185000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "237a5xmickdtoeu4hlzflyxom",
+                "Title": "Love v Spark"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "kyh7w4zvvn5l10hfdwr0087tk-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "kyh7w4zvvn5l10hfdwr0087tk-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "kyh7w4zvvn5l10hfdwr0087tk-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "6cee2ast6lnmcsnod4uzf10r0",
+                "Title": "Love vs. Spark"
+            },
+            "ExpirationDate": "2022-11-13T00:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Love vs. Spark",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:f1gv3zs6ghhjmb50bnsaey6mo",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        }
+    ],
+    "StartPosition": 0,
+    "ContinuousPlayEnabled": false,
+    "Navigation": null,
+    "Type": "Standard",
+    "Description": null
+}

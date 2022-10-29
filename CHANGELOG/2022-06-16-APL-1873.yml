@@ -1,0 +1,4 @@
+- type: added
+  m: Make Cancellation link accessible from LP Redesign
+  jira: APL-1873
+  owner: FadiRasheed

@@ -1,0 +1,4 @@
+- type: added
+  m: fe-events - implementation of elementClick for elements without resource key
+  jira: ODY-699
+  owner: FadiRasheed

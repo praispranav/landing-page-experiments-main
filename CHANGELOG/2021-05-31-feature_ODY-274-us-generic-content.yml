@@ -1,0 +1,6 @@
+- type: changed
+  m: Updated the US content and imagery so we can rerun the redesign experiment outside
+    of a main event
+  jira: ODY-274
+  owner: mattmoreira
+  requires-cab: true

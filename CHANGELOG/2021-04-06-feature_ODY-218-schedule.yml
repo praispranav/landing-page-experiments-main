@@ -1,0 +1,4 @@
+- type: added
+  m: Implemented PoC of schedule integration
+  jira: ODY-218
+  owner: MattElias

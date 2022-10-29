@@ -1,0 +1,16 @@
+export enum AvailableRegions {
+    US = 'US',
+    DE = 'DE',
+    CH = 'CH',
+    AT = 'AT',
+    JP = 'JP',
+    ES = 'ES',
+    CA = 'CA',
+    IT = 'IT',
+    BR = 'BR',
+    GB = 'GB',
+    IE = 'IE',
+    AU = 'AU',
+    NZ = 'NZ',
+    GLOBAL = 'GLOBAL',
+}

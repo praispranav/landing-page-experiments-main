@@ -1,0 +1,5 @@
+- type: changed
+  m: update italy footer links
+  jira: APL-2043
+  owner: mattmoreira
+  service: landing-page-experiments

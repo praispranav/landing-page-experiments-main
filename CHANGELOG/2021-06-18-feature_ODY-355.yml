@@ -1,0 +1,5 @@
+- type: fixed
+  m: fix schedule on firefox
+  jira: ODY-355
+  owner: joanrm20
+  requires-cab: true

@@ -1,0 +1,4 @@
+- type: added
+  m: Increase testing coverage
+  jira: ODY-229
+  owner: joanrm20

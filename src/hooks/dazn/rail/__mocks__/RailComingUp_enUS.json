@@ -1,0 +1,818 @@
+{
+    "Id": "ComingUp",
+    "Title": "Coming up",
+    "Params": null,
+    "Tiles": [
+        {
+            "Id": "ComingUp:zrfowo69poh21w4199dot7mvl",
+            "AgeRating": null,
+            "AssetId": "zrfowo69poh21w4199dot7mvl",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "3ogutvxeuxm44yndxpyncr5el",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Garcia vs. Tagoe: Weigh-In",
+            "Description": "Ryan Garcia and Emmanuel Tagoe hit the scales ahead of their crunch showdown in San Antonio's Alamodome. Garcia will hope to make a big impression on his ring return, having been out of action since his victory over Luke Campbell in January 2021.",
+            "Start": "2022-04-08T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-31T11:28:35Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "136649797657_image-header_pCa_1648726498000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "593j1kicxxajexnhtr7zni5j4",
+                "Title": "Garcia vs. Tagoe"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "6rc23i1bcrovteqy6q8o2lbz1",
+                "Title": "Garcia vs. Tagoe"
+            },
+            "ExpirationDate": "2022-04-08T21:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Garcia vs. Tagoe",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:3ogutvxeuxm44yndxpyncr5el",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1kz4adr3omxck1divkmj9c4q4f",
+            "AgeRating": null,
+            "AssetId": "1kz4adr3omxck1divkmj9c4q4f",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "5cevm9u71nchinp1kijdm3ktz",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "The DAZN Boxing Show Live from San Antonio - Apr. 8",
+            "Description": "Catch all the latest from The DAZN Boxing Show, live from San Antonio, as the build up continues ahead of Ryan Garcia's return to the ring against Emmanuel Tagoe.",
+            "Start": "2022-04-08T19:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-01T10:31:31Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "136741957808_image-header_pCa_1649355330000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "xv2ym05bdli0vv8bhvzzdy4n",
+                "Title": "The DAZN Boxing Show LIVE"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "846cipgd6zrxycr8f0wkq6id5",
+                "Title": "The DAZN Boxing Show Live"
+            },
+            "ExpirationDate": "2022-04-08T19:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "The DAZN Boxing Show Live",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:5cevm9u71nchinp1kijdm3ktz",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:is2re5fu8ezp15z8e788f6ihj",
+            "AgeRating": null,
+            "AssetId": "is2re5fu8ezp15z8e788f6ihj",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "aoca008tjagf3wtqlw3bt1an9",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "GGG vs. Murata: Fight Night",
+            "Description": "Live from Super Arena in Saitama, Japan, Gennadiy Golovkin (41-1-1) faces middleweight rival Ryota Murata (16-2) in a main event that will see the winner walk away with both the IBF and WBA world titles.",
+            "Start": "2022-04-09T09:10:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-30T10:22:56Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "134580293850_image-header_pCa_1646397754000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "png",
+                "ImageType": "image-gallery",
+                "Id": "134580293850_image-gallery_pCa_1648211822000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "5dms4ow0k41k2ghxzm35zixxa",
+                "Title": "Golovkin vs. Murata"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "bgrwqv5h4s7f1ocjoucg4n3h8-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "bgrwqv5h4s7f1ocjoucg4n3h8-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "bgrwqv5h4s7f1ocjoucg4n3h8-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "8ff3ai7xz0quozo9xqiu0tgkd",
+                "Title": "GGG vs. Murata"
+            },
+            "ExpirationDate": "2022-04-09T09:20:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "GGG vs. Murata",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:aoca008tjagf3wtqlw3bt1an9",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1r9wuqrrskgz1bqu4u5jb4c5w",
+            "AgeRating": null,
+            "AssetId": "1r9wuqrrskgz1bqu4u5jb4c5w",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "7xzj0co9avmly4q4thab2qozs",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "The DAZN Boxing Show Live from San Antonio - Apr. 9",
+            "Description": "Catch all the latest from The DAZN Boxing Show, live from San Antonio, as the build up continues ahead of Ryan Garcia's return to the ring against Emmanuel Tagoe.",
+            "Start": "2022-04-09T21:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-01T10:57:30Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "136744005514_image-header_pCa_1649355331000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "xv2ym05bdli0vv8bhvzzdy4n",
+                "Title": "The DAZN Boxing Show LIVE"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "846cipgd6zrxycr8f0wkq6id5",
+                "Title": "The DAZN Boxing Show Live"
+            },
+            "ExpirationDate": "2022-04-09T21:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "The DAZN Boxing Show Live",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:7xzj0co9avmly4q4thab2qozs",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1ipipud413vdt1a1d2smlp5xfm",
+            "AgeRating": null,
+            "AssetId": "1ipipud413vdt1a1d2smlp5xfm",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "4pwkl0u6qhg5qvvj2iwuxlihm",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Garcia vs. Tagoe: Fight Night",
+            "Description": "Ryan Garcia returns to the ring for the first time since January 2021, taking on Emmanuel Tagoe at the Alamodome in San Antonio.",
+            "Start": "2022-04-10T01:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-31T09:06:03Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "136110661825_image-header_pCa_1649264054000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "136110661825_image-gallery_pCa_1649338136000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "593j1kicxxajexnhtr7zni5j4",
+                "Title": "Garcia vs. Tagoe"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "6rc23i1bcrovteqy6q8o2lbz1",
+                "Title": "Garcia vs. Tagoe"
+            },
+            "ExpirationDate": "2022-04-10T01:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Garcia vs. Tagoe",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:4pwkl0u6qhg5qvvj2iwuxlihm",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": ["b0e10c4a-d69d-4e4b-9ddf-1749ab554032"]
+        },
+        {
+            "Id": "ComingUp:1ujm5p8ovif371nijjitu3kyoq",
+            "AgeRating": null,
+            "AssetId": "1ujm5p8ovif371nijjitu3kyoq",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "1pnr3kfv66hexcz1gehy6deit",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Benn vs. Van Heerden: Press Conference",
+            "Description": "Conor Benn and Chris van Heerden meet the press ahead of their upcoming fight at Manchester Arena for the WBA continental welterweight title, as both outline their expectations for the bout.",
+            "Start": "2022-04-14T12:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-07T14:25:35Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "137219141874_image-header_pCa_1649342430000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "1xq5tf1n6qs0eyjnmz3fbkrs",
+                "Title": "Benn vs. Van Heerden"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "55sr4pjkjlue0hitmq6f4yo2w",
+                "Title": "Benn vs. Van Heerden"
+            },
+            "ExpirationDate": "2022-04-14T12:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Benn vs. Van Heerden",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1pnr3kfv66hexcz1gehy6deit",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1jgs0h55ihqsk1q8yp59x5oxv8",
+            "AgeRating": null,
+            "AssetId": "1jgs0h55ihqsk1q8yp59x5oxv8",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "8lp6rocnn41mbv58nblyc6c2r",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Benn vs. Van Heerden: Fight Night",
+            "Description": "Conor Benn (20-0) faces off against explosive South African Chris Van Heerden (28-2-1) as he continues his quest for a world title opportunity. Benn steps into the ring for the first time this year, following his last victory over Chris Algieri.",
+            "Start": "2022-04-16T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-09T18:02:10Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "134963781519_image-header_pCa_1646915146000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "1xq5tf1n6qs0eyjnmz3fbkrs",
+                "Title": "Benn vs. Van Heerden"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "55sr4pjkjlue0hitmq6f4yo2w",
+                "Title": "Benn vs. Van Heerden"
+            },
+            "ExpirationDate": "2022-04-16T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Benn vs. Van Heerden",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:8lp6rocnn41mbv58nblyc6c2r",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:ntuj9scsqnc51b3ldaqsm59hl",
+            "AgeRating": null,
+            "AssetId": "ntuj9scsqnc51b3ldaqsm59hl",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "7jm15faa63igj8j6sxfj0heji",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Zucco vs. Nikolic: Fight Night",
+            "Description": "Ivan Zucco (15-0), the hard-hitting and unbeaten Italian super middleweight, will be looking to add to his 13 knockout victories as he takes on Serbia's Marko Nikolic (28-1) for the WBC international title.",
+            "Start": "2022-04-22T17:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-15T16:09:54Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "135414341510_image-header_pCa_1647360961000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "ayduajqszn1h6pa6nm8rlqcm4",
+                "Title": "Zucco vs. Nikolic"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "6jvejd390ooj7odojeyusmyxh",
+                "Title": "Zucco vs. Nikolic"
+            },
+            "ExpirationDate": "2022-04-22T17:40:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Zucco vs. Nikolic",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:7jm15faa63igj8j6sxfj0heji",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:lyu9hwod3gm31h5xhp54ad1hj",
+            "AgeRating": null,
+            "AssetId": "lyu9hwod3gm31h5xhp54ad1hj",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "3oaeb930x02h2txqmkhou3abg",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Taylor vs. Serrano: Fight Night",
+            "Description": "Katie Taylor (20-0) puts her unbeaten record on the line as well as her WBA, WBC, IBF, WBO, and The Ring lightweight titles as she faces Amanda Serrano (42-1-1) . The fight has been built up as the 'Biggest Fight In Women's Boxing History'.",
+            "Start": "2022-05-01T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-01-07T17:29:30Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "131837509712_image-header_pCa_1643301114000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "131837509712_image-gallery_pCa_1643301114000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "2pxtwzgn63tsyjqt4b7kntmvk",
+                "Title": "Taylor vs. Serrano"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "uy262swkr9jw1280qdmd9vatg-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "uy262swkr9jw1280qdmd9vatg-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "uy262swkr9jw1280qdmd9vatg-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "3u83t0dbnjja8a5i2lmyeen62",
+                "Title": "Taylor vs. Serrano"
+            },
+            "ExpirationDate": "2022-05-01T02:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Taylor vs. Serrano",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:3oaeb930x02h2txqmkhou3abg",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1fixs95vtjqdf14n4o5vc52sql",
+            "AgeRating": null,
+            "AssetId": "1fixs95vtjqdf14n4o5vc52sql",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "6vml4r3w1tdherjkqv8bvdi46",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Scardina vs. De Carolis: Fight Night",
+            "Description": "Daniele Scardina puts his 20-0 undefeated streak on the line as he collides with seasoned veteran Giovanni De Carolis (30-10-1) in Milan. Which Italian will come out on top and climb the super middleweight rankings?",
+            "Start": "2022-05-13T17:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-15T15:32:23Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135410245863_image-header_pCa_1647358617000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "8cnj9f5d8y3jphq1yr70yg574",
+                "Title": "Scardina vs. De Carolis"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "6osbf0882sutatxicrmip9es7",
+                "Title": "Scardina vs. De Carolis"
+            },
+            "ExpirationDate": "2022-05-13T17:40:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Scardina vs. De Carolis",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:6vml4r3w1tdherjkqv8bvdi46",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:1mbelquxfdqfj19z2kjair38e9",
+            "AgeRating": null,
+            "AssetId": "1mbelquxfdqfj19z2kjair38e9",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "cd2w4aopqa0hm3gnlu18643py",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Lejarraga vs. Metcalf: Fight Night",
+            "Description": "Hometown favourite Kerman Lejarraga (34-2) welcomes British fighter James Metcalf (21-2) to Bilbao Arena. Lejarraga, whose only defeats came against David Avanesyan, has defeated six British fighters in his career.",
+            "Start": "2022-05-20T17:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-15T15:05:16Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135408197839_image-header_pCa_1647357074000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "9fwqrp1f11iqsgp4peqjs03c7",
+                "Title": "Lejarraga vs. Metcalf"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9r31jijvfsslvck40sn7lg10r",
+                "Title": "Lejarraga vs. Metcalf"
+            },
+            "ExpirationDate": "2022-05-20T17:40:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Lejarraga vs. Metcalf",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:cd2w4aopqa0hm3gnlu18643py",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "ComingUp:eu6grcej36rn1ai5e09i4yt4i",
+            "AgeRating": null,
+            "AssetId": "eu6grcej36rn1ai5e09i4yt4i",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "33cteaj09f878iw0vmgdr9mvc",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Buatsi vs. Richards: Fight Night",
+            "Description": "Joshua Buatsi (15-0) squares off against fellow Londoner Craig Richards (17-2-1) for the WBA International light-heavyweight title. Buatsi returns to the ring for the first time since stopping Ricards Bolotniks at Fight Camp in August 2021.",
+            "Start": "2022-05-21T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-21T15:36:55Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "135860293531_image-header_pCa_1647877304000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "8lo6205qyio0fksjx9glqbdhj",
+                "Title": "Buatsi v Richards"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxing",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "22212165921_image-background_pCa_1644945917000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "22212165921_image-tile_pCa_1645830808000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "69fofad4l6d25obzkzdiz1lan",
+                "Title": "Buatsi vs. Richards"
+            },
+            "ExpirationDate": "2022-05-21T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Buatsi vs. Richards",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:33cteaj09f878iw0vmgdr9mvc",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        }
+    ],
+    "StartPosition": 0,
+    "ContinuousPlayEnabled": false,
+    "Navigation": null,
+    "Type": "Standard",
+    "Description": null
+}

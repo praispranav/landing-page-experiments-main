@@ -1,0 +1,4 @@
+- type: changed
+  m: Change getServicePath to replace dazn-dev by dazn-test
+  jira: ODY-226
+  owner: MattElias

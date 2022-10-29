@@ -1,0 +1,3 @@
+- type: fixed
+  m: Fix AWS Sync keeping old files
+  owner: MattElias

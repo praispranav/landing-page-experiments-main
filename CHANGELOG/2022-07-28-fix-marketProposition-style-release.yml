@@ -1,0 +1,4 @@
+- type: changed
+  m: fix Market Proposition style
+  jira: APL-1936
+  owner: FadiRasheed

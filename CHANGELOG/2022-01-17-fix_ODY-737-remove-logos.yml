@@ -1,0 +1,5 @@
+- type: removed
+  m: remove wta and mlb network from DACH
+  jira: ODY-737
+  owner: mattmoreira
+  service: landing-page-experiments

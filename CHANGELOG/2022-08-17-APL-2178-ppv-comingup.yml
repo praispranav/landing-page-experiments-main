@@ -1,0 +1,5 @@
+- type: removed
+  m: Removed the PPV feature flag from the coming up section tiles
+  jira: APL-2178
+  owner: mattmoreira
+  service: landing-page-experiments

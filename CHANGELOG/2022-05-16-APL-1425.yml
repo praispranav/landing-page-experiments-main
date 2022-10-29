@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix text overlapping in Japanese
+  jira: APL-1425
+  service: landing-page-experiments

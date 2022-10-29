@@ -1,0 +1,5 @@
+- type: added
+  m: Refactoring of the resource strings to handle translations
+  jira: ODY-122
+  owner: FadiRasheed
+  requires-cab: true

@@ -1,0 +1,4 @@
+- type: changed
+  m: Hide the schedule component for e2e test screenshots.
+  jira: ODY-218
+  owner: hannanikulina

@@ -1,0 +1,4 @@
+- type: added
+  m: Adding stringify Markdown
+  jira: APL-1936
+  owner: FadiRasheed

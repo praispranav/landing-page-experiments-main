@@ -1,0 +1,7 @@
+- type: added
+  m: RFC outlining the challenges with the current image update process, and proposal
+    of a temporary alternative to solve them immediately, before we integrate with
+    a media module in the Content Engine.
+  jira: APL-2217
+  owner: mattmoreira
+  service: landing-page-experiments

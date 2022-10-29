@@ -1,0 +1,5 @@
+- type: added
+  m: Add logoset DE
+  jira: ODY-578
+  owner: joanrm20
+  requires-cab: true

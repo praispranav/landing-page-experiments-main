@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "dazn_discovery": "632760434310",
+        "dazn_ar": "029720204697"
+    },
+    "stage": {
+        "dazn_discovery": "080865980379",
+        "dazn_ar": "988478710043"
+    },
+    "prod": {
+        "dazn_discovery": "216399462328",
+        "dazn_ar": "251511879130"
+    }
+}

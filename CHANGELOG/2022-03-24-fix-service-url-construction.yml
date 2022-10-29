@@ -1,0 +1,4 @@
+- type: fixed
+  m: fix service url construction
+  jira: ODY-000
+  owner: FadiRasheed

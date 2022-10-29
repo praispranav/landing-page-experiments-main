@@ -1,0 +1,36 @@
+name: 'static tests'
+
+on:
+  workflow_call:
+    inputs:
+      node_version:
+        description: NodeJS version
+        type: number
+        required: false
+        default: 14
+    secrets:
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN:
+        required: true
+
+jobs:
+  run:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 3
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: install dependencies
+        uses: ./.github/actions/install-dependencies
+        with:
+          global_artifactory_token: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+          node_version: ${{ inputs.node_version }}
+    
+      - name: run type linter
+        run: npm run check:types
+
+      - name: run code linter
+        run: npm run lint
+          
+      - name: run unit test with coverage
+        run: npm test -- --coverage

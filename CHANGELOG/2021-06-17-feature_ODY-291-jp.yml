@@ -1,0 +1,5 @@
+- type: fixed
+  m: Fix JP hero focal point
+  jira: ODY-291
+  owner: joanrm20
+  requires-cab: true

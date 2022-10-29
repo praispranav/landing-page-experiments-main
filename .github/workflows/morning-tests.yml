@@ -1,0 +1,19 @@
+name: End to end morning tests
+
+on:
+  schedule:
+      - cron: '0 8 * * *'
+
+jobs:
+  e2e-tests:
+    uses: ./.github/workflows/cypress-tests.trigger.yml
+    secrets:
+      GLOBAL_GITHUB_TOKEN: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+      GLOBAL_TUNNEL_SSH_PRIVATE_KEY: ${{ secrets.GLOBAL_TUNNEL_SSH_PRIVATE_KEY }}
+      VAULT_MP_TOKEN: ${{ secrets.VAULT_MP_TOKEN }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    with:
+      ref: ${{ github.ref }}
+      node_version: 14

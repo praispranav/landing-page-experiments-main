@@ -1,0 +1,5 @@
+bucket = "029720204697-tfstate"
+key = "services/fe-cle-images-bucket/terraform.tfstate"
+dynamodb_table = "029720204697-tfstate-lock"
+profile = "029720204697"
+role_arn = "arn:aws:iam::029720204697:role/automation-gha-ci"

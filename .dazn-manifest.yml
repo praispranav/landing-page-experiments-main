@@ -1,0 +1,37 @@
+dazn-manifest: 3.3.0
+owner: DL-SWE-Apollo-Amsterdam@dazn.com
+services:
+    - name: landing-page-experiments
+      description:
+          This repository contains and exports a SystemJS <Experiments /> React component that should be consumed using the @dazn/package-loader system.
+
+          The goal of the <Experiments /> is to trial series of new layouts involving the LPs, such as price changes, facelifts, and etc...
+
+      aws-accounts:
+          - dazn-ar-dev
+          - dazn-ar-test
+          - dazn-ar-stage
+          - dazn-ar-prod
+
+      application-tags:
+          - landing-page-experiments
+
+      links:
+          - type: other
+            label: dev documentation
+            url: https://github.com/getndazn/landing-page-experiments/blob/main/README.md
+          - type: other
+            label: product documentation
+            url: https://livesport.atlassian.net/wiki/spaces/PDE/pages/2305982717/Landing+pages+redesign+web+responsive
+
+      dependencies:
+          - type: requests-to
+            service: tiered-pricing-offer-service
+          - type: requests-to
+            service: help-etl
+          - type: requests-to
+            service: epg-service
+          - type: requests-to
+            service: rail-router
+          - type: requests-to
+            service: spolo-public-api

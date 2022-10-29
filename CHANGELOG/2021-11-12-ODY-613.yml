@@ -1,0 +1,5 @@
+- type: added
+  m: Update Tile to support PPV
+  jira: ODY-613
+  owner: joanrm20
+  service: landing-page-experiments

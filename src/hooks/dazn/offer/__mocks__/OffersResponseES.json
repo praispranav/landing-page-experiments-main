@@ -1,0 +1,76 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_2c92a00768366fa2016837e8466332e8_89",
+            "SkuId": null,
+            "BillingDate": "2021-04-19T15:46:40Z",
+            "RenewalDate": "2021-05-19T15:46:40Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                { "Price": 9.99, "Currency": "EUR", "DiscountedPrice": null },
+                { "Price": 10, "Currency": "GBP", "DiscountedPrice": null }
+            ],
+            "PaymentMethodIds": ["CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1,
+            "DiscountedMonths": 0
+        },
+        {
+            "Id": "Zuora_2c92a00d6c298421016c3ce1a7391050_89",
+            "SkuId": null,
+            "BillingDate": "2021-04-19T15:46:40Z",
+            "RenewalDate": "2022-04-19T15:46:40Z",
+            "BillingPeriod": "Annual",
+            "ChargeTiers": [
+                { "Price": 99.99, "Currency": "EUR", "DiscountedPrice": null },
+                { "Price": 120, "Currency": "GBP", "DiscountedPrice": null }
+            ],
+            "PaymentMethodIds": ["CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1,
+            "DiscountedMonths": 0
+        },
+        {
+            "Id": "Zuora_8a129d3a7e9a4fc6017eaf605f382dd3",
+            "SkuId": null,
+            "BillingDate": "2022-07-06T14:25:41Z",
+            "RenewalDate": "2023-07-06T14:25:41Z",
+            "BillingPeriod": "Instalments",
+            "ChargeTiers": [
+                { "Price": 24.99, "Currency": "EUR", "Discount": null },
+                { "Price": 10, "Currency": "GBP", "Discount": null }
+            ],
+            "PaymentMethodIds": ["CreditCard", "PayPal"],
+            "AllowsNoPaymentMethod": false,
+            "FreeTrialMonths": 0,
+            "TotalFreeMonths": 0,
+            "Instalment": {
+                "TermInMonths": 12,
+                "NextPaymentCaptureDate": "2022-08-06T14:25:41Z"
+            }
+        }
+    ],
+    "FreeTrialIneligibilityReason": null,
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "CreditCard",
+            "BillingCountries": ["ES"],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": ["ES"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

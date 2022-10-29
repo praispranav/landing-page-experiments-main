@@ -1,0 +1,4 @@
+bucket = "988478710043-tfstate"
+dynamodb_table = "988478710043-tfstate-lock"
+profile = "988478710043"
+role_arn = "arn:aws:iam::988478710043:role/automation-gha-ci"

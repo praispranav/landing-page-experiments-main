@@ -1,0 +1,5 @@
+- type: added
+  m: Transpile to es5
+  jira: ODY-555
+  owner: harrissidiropoulos
+  requires-cab: true

@@ -1,0 +1,4 @@
+- type: removed
+  m: Refactor hero offer component
+  jira: ODY-592
+  owner: harrissidiropoulos

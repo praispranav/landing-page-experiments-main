@@ -1,0 +1,4 @@
+- type: changed
+  m: Changed the pipeline to comment on the pr regardless of the status of the pipeline
+  jira: ODY-224
+  owner: MattElias

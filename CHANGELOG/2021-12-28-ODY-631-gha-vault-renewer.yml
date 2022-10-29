@@ -1,0 +1,5 @@
+- type: added
+  m: add gha workflow for renewing the marco polo token used in our other workflows
+  jira: ODY-631
+  owner: hannanikulina
+  service: landing-page-experiments

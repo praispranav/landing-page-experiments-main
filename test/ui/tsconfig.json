@@ -1,0 +1,32 @@
+{
+    "include": [
+      "../node_modules/cypress",
+      "./**/*.ts"
+    ],
+    "exclude": ["cache/*"],
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "allowSyntheticDefaultImports": true,
+      "module": "es6",
+      "target": "es5",
+      "jsx": "react",
+      "allowJs": true,
+      "types": [
+        "cypress",
+        "cypress-iframe",
+        "node",
+        "./cypress/support",
+        "cypress-image-snapshot",
+        "@testing-library/cypress"
+      ],
+      "resolveJsonModule": true,
+      "moduleResolution": "node",
+      "paths": {
+        "types/*": ["../../src/types/*"],
+        
+        "@hooks/*": ["../../src/hooks/*"],
+        "@config/*": ["../../src/config/*"],
+      }
+    }
+  }
+  

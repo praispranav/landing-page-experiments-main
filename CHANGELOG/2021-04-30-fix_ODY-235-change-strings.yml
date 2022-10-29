@@ -1,0 +1,4 @@
+- type: changed
+  m: Changed fight time and copy style as per the request of Stephen Bucciero and Emily Phillips on 29/05/2021
+  jira: ODY-235
+  owner: MattElias

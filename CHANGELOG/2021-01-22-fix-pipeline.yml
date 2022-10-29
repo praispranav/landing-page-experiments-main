@@ -1,0 +1,3 @@
+- type: changed
+  m: Update drone file add npm steps when commit to main
+  owner: hannanikulina

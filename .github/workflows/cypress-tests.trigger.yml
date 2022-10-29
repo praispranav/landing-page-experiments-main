@@ -1,0 +1,167 @@
+name: 'Cypress tests'
+
+on:
+  workflow_call:
+    inputs:
+      ref:
+        type: string
+        required: true
+      node_version:
+        description: NodeJS version
+        type: number
+        required: false
+        default: 14
+    secrets:
+      GLOBAL_GITHUB_TOKEN:
+        required: true
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN:
+        required: true
+      GLOBAL_TUNNEL_SSH_PRIVATE_KEY:
+        required: true
+      VAULT_MP_TOKEN:
+        required: true
+      AWS_ACCESS_KEY_ID:
+        required: true
+      AWS_SECRET_ACCESS_KEY:
+        required: true
+
+jobs:
+  run-tests:
+    runs-on: ubuntu-20.04
+    permissions:
+      id-token: write
+      contents: read
+    timeout-minutes: 8
+    env:
+      STORYBOOK_URL: localhost:6006
+      EXPERIMENTS_URL: localhost:6007
+    strategy:
+      fail-fast: false
+      matrix: 
+        project: 
+          - name: e2e
+            proxy: http://localhost:9999
+          - name: integration
+          - name: integration-ui
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: ce-gha-actions init
+        uses: actions/checkout@v2
+        with:
+          repository: getndazn/ce-gha-actions
+          token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          path: ce-gha-actions
+          ref: v1
+
+      - name: install dependencies
+        uses: ./.github/actions/install-dependencies
+        with:
+          global_artifactory_token: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+          node_version: ${{ inputs.node_version }}
+          ui_tests: true
+
+      - name: start storybook
+        run: npm run storybook -- --no-manager-cache --quiet &
+
+      - name: start experiment
+        run: npm run start:prod -- --port 6007 --host 0.0.0.0 --public ${{ env.EXPERIMENTS_URL }} --stats minimal &
+
+      - name: wait for storybook & experiment
+        run: |
+          npx wait-on http-get://${{ env.STORYBOOK_URL }}
+          npx wait-on http-get://${{ env.EXPERIMENTS_URL }}/dist/index.html
+
+      - name: start pag proxy
+        id: proxy
+        if: ${{ matrix.project.proxy != '' }}
+        uses: ./ce-gha-actions/start-pag-proxy
+        with:
+          global_github_token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          proxy_environment: stage
+          local_port: 9999
+
+      - name: run cypress
+        uses: cypress-io/github-action@v2
+        with:
+          install: false
+          headless: true
+          quiet: true
+          working-directory: test/ui
+          spec: cypress/specs/${{ matrix.project.name }}/*
+          config-file: cypress.json
+        env:
+          CYPRESS_STORYBOOK_BASE_URL: http://localhost:6006
+          CYPRESS_packageServer: http://localhost:6007
+          CYPRESS_VAULT_MP_TOKEN: ${{ secrets.VAULT_MP_TOKEN }}
+          HTTP_PROXY: ${{ matrix.project.proxy }}
+
+      - name: merge reports
+        if: always()
+        working-directory: test/ui
+        run: npm run report
+      
+      - name: zip test report
+        if: always()
+        run: zip -r ${{ matrix.project.name }}.zip ./test/ui/cypress/reports ./test/ui/cypress/snapshots/${{ matrix.project.name }}
+
+      - name: upload results 
+        if: always()
+        uses: actions/upload-artifact@v2
+        with:
+          name: ${{ matrix.project.name }}.zip
+          path: ${{ matrix.project.name }}.zip
+
+  upload-reports:
+    runs-on: ubuntu-20.04
+    if: always()
+    timeout-minutes: 2
+
+    strategy:
+      matrix: 
+        artifacts: 
+        - type: e2e
+          file: e2e.zip
+
+        - type: integration
+          file: integration.zip
+
+        - type: ui
+          file: integration-ui.zip
+
+    needs: [run-tests]
+
+    steps:
+      - name: checkout GHA for uploading to terebu
+        uses: actions/checkout@v2
+        with:
+          repository: getndazn/dx-terebu-upload-action
+          token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          path: .getndazn/dx-terebu-upload-action
+          ref: fix/input-ref
+
+      - name: configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-central-1
+          role-to-assume: arn:aws:iam::248090895259:role/automation-gha-ci
+
+      - name: download ${{ matrix.artifacts.file }}
+        uses: actions/download-artifact@v2
+        with:
+          name: ${{ matrix.artifacts.file }}
+          path: tmp
+
+      - working-directory: tmp
+        run: unzip ${{ matrix.artifacts.file }} -d ${{ matrix.artifacts.type }}
+
+      - name: upload ${{ matrix.artifacts.type }} to terebu
+        uses: ./.getndazn/dx-terebu-upload-action
+        with:
+          reportEnv: dev
+          type: ${{ matrix.artifacts.type }}
+          path: tmp/${{ matrix.artifacts.type }}/test/ui/cypress
+          ref: ${{ inputs.ref }}

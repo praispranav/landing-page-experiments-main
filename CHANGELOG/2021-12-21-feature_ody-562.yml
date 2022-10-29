@@ -1,0 +1,4 @@
+- type: added
+  m: fe-events - implementation of elementClick
+  jira: ODY-562
+  owner: FadiRasheed

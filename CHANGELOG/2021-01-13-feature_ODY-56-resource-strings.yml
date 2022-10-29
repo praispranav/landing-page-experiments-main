@@ -1,0 +1,5 @@
+- type: changed
+  m: Refactor resource strings types and structure to make it more strict
+  jira: ODY-56
+  owner: MattElias
+  requires-cab: true

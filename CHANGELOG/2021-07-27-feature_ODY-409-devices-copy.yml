@@ -1,0 +1,4 @@
+- type: changed
+  m: Optimized the device's section copy
+  jira: ODY-409
+  owner: mattmoreira

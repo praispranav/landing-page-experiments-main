@@ -1,0 +1,5 @@
+- type: added
+  m: Add e2e test for FAQ section on LP
+  jira: ODY-628
+  owner: Anna Nikulina
+  service: landing-page-experiments

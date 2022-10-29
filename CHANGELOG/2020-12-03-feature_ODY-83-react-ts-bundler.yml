@@ -1,0 +1,4 @@
+- type: added
+  m: Basic bundler for React and TS code
+  jira: ODY-83
+  owner: MattElias

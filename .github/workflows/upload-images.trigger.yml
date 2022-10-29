@@ -1,0 +1,93 @@
+name: Upload images
+on:
+  workflow_call:
+    inputs:
+      env:
+        type: string
+        required: true
+      node_version:
+        description: NodeJS version
+        type: number
+        required: true
+        default: 14
+    secrets:
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN:
+        required: true
+      AWS_ACCESS_KEY_ID:
+        required: true
+      AWS_SECRET_ACCESS_KEY:
+        required: true
+
+env:
+  AWS_REGION: eu-central-1
+  ENV: ${{ inputs.env }}
+
+jobs:
+  aws-accounts:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 3
+    outputs:
+      dazn_ar: ${{ fromJson(steps.config.outputs.content)[env.ENV].dazn_ar }}
+      dazn_discovery: ${{ fromJson(steps.config.outputs.content)[env.ENV].dazn_discovery }}
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: read aws-accounts json
+        id: config
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: './.github/config/aws-accounts.json'
+
+  upload-images:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 3
+    needs: aws-accounts
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+          role-to-assume: arn:aws:iam::${{ needs.aws-accounts.outputs.dazn_ar }}:role/automation-gha-ci
+      
+      - name: npm install
+        uses: ./.github/actions/setup-npm
+        with:
+          global_artifactory_token: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+          node_version: ${{ inputs.node_version }}
+      
+      - name: upload images to s3
+        working-directory: .github/scripts
+        run: node upload-images-to-s3.js
+
+  invalidate-cf-cache:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 3
+    needs: [aws-accounts, upload-images]
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+          role-to-assume: arn:aws:iam::${{ needs.aws-accounts.outputs.dazn_discovery }}:role/automation-gha-ci
+      
+      - name: npm install
+        uses: ./.github/actions/setup-npm
+        with:
+          global_artifactory_token: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+          node_version: ${{ inputs.node_version }}
+
+      - name: invalidates cloudfront cache
+        working-directory: .github/scripts
+        if: ${{ inputs.env != 'dev' }}
+        run: node invalidate-images.js
+
+
+

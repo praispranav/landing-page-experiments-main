@@ -1,0 +1,4 @@
+- type: added
+  m: fe-events - implementation of virtualPageView event
+  jira: ODY-296
+  owner: FadiRasheed

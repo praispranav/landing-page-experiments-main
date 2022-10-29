@@ -1,0 +1,4 @@
+- type: added
+  m: Adding GA events tracking
+  jira: ODY-213
+  owner: FadiRasheed

@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix switched price labels
+  jira: ODY-170
+  owner: MattElias

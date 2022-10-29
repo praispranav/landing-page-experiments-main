@@ -1,0 +1,4 @@
+- type: changed
+  m: Redesign hero section
+  jira: ODY-208
+  owner: lmatteis

@@ -1,0 +1,4 @@
+- type: added
+  m: Creating PPV style and adding the grey style to the label component
+  jira: ODY-610
+  owner: FadiRasheed

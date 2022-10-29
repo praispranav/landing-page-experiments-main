@@ -1,0 +1,5 @@
+- type: added
+  m: codeowners added
+  jira: APL-1842
+  owner: dinujubd
+  service: landing-page-experiments

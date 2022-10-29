@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fixed wrongly formatted español link
+  jira: ODY-235
+  owner: MattElias

@@ -1,0 +1,5 @@
+- type: added
+  m: Creating the Footer
+  jira: ODY-112
+  owner: FadiRasheed
+  requires-cab: true

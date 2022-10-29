@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix the FAQ articles redirection
+  jira: ODY-593
+  owner: FadiRasheed

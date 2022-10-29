@@ -1,0 +1,5 @@
+- type: changed
+  m: Extract components from Hero
+  jira: ODY-615
+  owner: mattmoreira
+  service: landing-page-experiments

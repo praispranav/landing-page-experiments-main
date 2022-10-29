@@ -1,0 +1,3 @@
+- type: changed
+  m: upgrade package upload plugin to v2
+  owner: mbazalik

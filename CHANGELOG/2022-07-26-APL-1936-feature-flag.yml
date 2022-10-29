@@ -1,0 +1,5 @@
+- type: added
+  m: add market proposition feature flag
+  jira: APL-1936
+  owner: mattmoreira
+  service: landing-page-experiments

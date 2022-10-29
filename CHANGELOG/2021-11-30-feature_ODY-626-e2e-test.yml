@@ -1,0 +1,6 @@
+- type: added
+  m: Add e2e test for visability of PPV elements based on existence of addons from
+    Rail API
+  jira: ODY-626
+  owner: Anna Nikulina
+  service: landing-page-experiments

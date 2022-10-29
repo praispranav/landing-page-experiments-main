@@ -1,0 +1,4 @@
+- type: fixed
+  m: captured app errors on error boundary
+  jira: ODY-247
+  owner: MattElias

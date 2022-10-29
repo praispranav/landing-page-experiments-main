@@ -1,0 +1,4 @@
+- type: changed
+  m: fixed copy displayed when annual or monthly wasn't loaded yet
+  jira: ODY-271
+  owner: mattmoreira

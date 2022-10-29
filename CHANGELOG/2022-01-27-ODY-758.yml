@@ -1,0 +1,5 @@
+- type: added
+  m: Add legal message
+  jira: ODY-758
+  owner: joanrm20
+  service: landing-page-experiments

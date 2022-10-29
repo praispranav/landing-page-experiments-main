@@ -1,0 +1,5 @@
+- type: fixed
+  m: fix missing tagVersion on webpack build
+  jira: ODY-772
+  owner: mattmoreira
+  service: landing-page-experiments

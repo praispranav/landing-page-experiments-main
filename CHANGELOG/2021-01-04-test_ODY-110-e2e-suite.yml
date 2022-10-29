@@ -1,0 +1,4 @@
+- type: added
+  m: Add e2e and unit test steps to our pipeline
+  jira: ODY-110
+  owner: MattElias

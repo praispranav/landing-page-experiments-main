@@ -1,0 +1,106 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_2c91a0fa6b791042016b88a364962849_70333",
+            "SkuId": null,
+            "BillingDate": "2021-03-09T18:13:54Z",
+            "RenewalDate": "2021-04-09T18:13:54Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                {
+                    "Price": 20,
+                    "Currency": "GBP"
+                },
+                {
+                    "Price": 20,
+                    "Currency": "CAD"
+                }
+            ],
+            "PaymentMethodIds": [
+                "CreditCard",
+                "PayPal"
+            ],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1
+        },
+        {
+            "Id": "Zuora_2c91a0fa6b79103d016b88bb74f527e0_70333",
+            "SkuId": null,
+            "BillingDate": "2021-03-09T18:13:54Z",
+            "RenewalDate": "2022-03-09T18:13:54Z",
+            "BillingPeriod": "Annual",
+            "ChargeTiers": [
+                {
+                    "Price": 240,
+                    "Currency": "GBP"
+                },
+                {
+                    "Price": 150,
+                    "Currency": "CAD"
+                }
+            ],
+            "PaymentMethodIds": [
+                "CreditCard",
+                "PayPal"
+            ],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1
+        },
+        {
+            "Id": "DirectCarrierBilling_1153",
+            "SkuId": "1153",
+            "BillingDate": "2021-03-09T18:13:54Z",
+            "RenewalDate": "2021-04-09T18:13:54Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                {
+                    "Price": 20,
+                    "Currency": "CAD"
+                }
+            ],
+            "PaymentMethodIds": [
+                "DirectCarrierBilling"
+            ],
+            "AllowsNoPaymentMethod": false,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1
+        }
+    ],
+    "FreeTrialIneligibilityReason": null,
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "CreditCard",
+            "BillingCountries": [
+                "CA"
+            ],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": [
+                "CA"
+            ],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "DirectCarrierBilling",
+            "BillingCountries": [
+                "CA"
+            ],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": true
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

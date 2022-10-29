@@ -1,0 +1,4 @@
+- type: fixed
+  m: Sign Up banner and the footer are overlapping on mobile
+  jira: ODY-163
+  owner: FadiRasheed

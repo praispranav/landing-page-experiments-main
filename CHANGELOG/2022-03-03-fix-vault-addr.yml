@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix vault address for bot token generation and updated docs
+  owner: mattmoreira
+  service: landing-page-experiments

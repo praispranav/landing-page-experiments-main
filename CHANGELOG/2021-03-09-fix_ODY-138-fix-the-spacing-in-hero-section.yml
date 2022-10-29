@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix the spacing in the Hero section
+  jira: ODY-138
+  owner: FadiRasheed

@@ -1,0 +1,47 @@
+name: merge on main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  static-tests:
+    uses: ./.github/workflows/static-tests.trigger.yml
+    secrets:
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+    with:
+      node_version: 14
+
+  cypress-tests:
+    uses: ./.github/workflows/cypress-tests.trigger.yml
+    secrets:
+      GLOBAL_GITHUB_TOKEN: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+      GLOBAL_TUNNEL_SSH_PRIVATE_KEY: ${{ secrets.GLOBAL_TUNNEL_SSH_PRIVATE_KEY }}
+      VAULT_MP_TOKEN: ${{ secrets.VAULT_MP_TOKEN }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    with:
+      ref: ${{ github.ref }}
+      node_version: 14
+
+  storybook:
+    uses: ./.github/workflows/storybook.trigger.yml
+    secrets: 
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+      GLOBAL_GITHUB_TOKEN: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    with:
+      ref: refs/heads/${{ github.ref_name }}
+      node_version: 14
+  upload-images:
+    uses: ./.github/workflows/upload-images.trigger.yml
+    with: 
+      env: stage
+      node_version: 14
+    secrets:
+      GLOBAL_JFROG_ARTIFACTORY_TOKEN: ${{ secrets.GLOBAL_JFROG_ARTIFACTORY_TOKEN }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

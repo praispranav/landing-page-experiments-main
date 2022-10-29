@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix WhatsOn section flickering
+  jira: ODY-266
+  owner: FadiRasheed

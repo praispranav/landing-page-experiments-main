@@ -1,0 +1,4 @@
+- type: added
+  m: Add language switcher to the footer
+  jira: ODY-773
+  owner: FadiRasheed

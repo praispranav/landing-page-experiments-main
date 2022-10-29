@@ -1,0 +1,4 @@
+- type: changed
+  m: Revised grid and padding of the whole layout
+  jira: ODY-222
+  owner: MattElias

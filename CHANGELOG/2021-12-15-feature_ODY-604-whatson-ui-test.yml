@@ -1,0 +1,5 @@
+- type: added
+  m: Add UI test for What's On section
+  jira: ODY-604
+  owner: Anna Nikulina
+  service: landing-page-experiments

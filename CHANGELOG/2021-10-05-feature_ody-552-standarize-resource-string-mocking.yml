@@ -1,0 +1,4 @@
+- type: added
+  m: Standarize resource string mocking
+  jira: ODY-552
+  owner: FadiRasheed

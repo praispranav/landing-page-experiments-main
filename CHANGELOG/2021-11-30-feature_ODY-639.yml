@@ -1,0 +1,4 @@
+- type: removed
+  m: Remove the introductory price label
+  jira: ODY-639
+  owner: FadiRasheed

@@ -1,0 +1,5 @@
+- type: added
+  m: UI tests for the Hero section
+  jira: ODY-600
+  owner: Anna Nikulina
+  service: landing-page-experiments

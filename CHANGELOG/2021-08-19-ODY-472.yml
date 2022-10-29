@@ -1,0 +1,4 @@
+- type: changed
+  m: Add sign-in redirect feature flag
+  jira: ODY-472
+  owner: joanrm20

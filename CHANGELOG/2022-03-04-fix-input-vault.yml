@@ -1,0 +1,5 @@
+- type: fixed
+  m: restore secret arg back
+  jira: ODY-817
+  owner: joanrm20
+  service: landing-page-experiments

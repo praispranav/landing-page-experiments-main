@@ -1,0 +1,4 @@
+- type: added
+  m: Remove feature variable for Offer displayType
+  jira: ODY-632
+  owner: harrissidiropoulos

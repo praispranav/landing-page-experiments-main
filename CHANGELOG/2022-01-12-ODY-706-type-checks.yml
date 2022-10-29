@@ -1,0 +1,5 @@
+- type: added
+  m: add type checks to workflow
+  jira: ODY-706
+  owner: mattmoreira
+  service: landing-page-experiments

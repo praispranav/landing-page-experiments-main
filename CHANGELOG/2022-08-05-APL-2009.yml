@@ -1,0 +1,5 @@
+- type: changed
+  m: Update CA PPV image (KSI vs. Wassabi)
+  jira: APL-2009
+  owner: Anna Nikulina
+  service: landing-page-experiments

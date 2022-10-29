@@ -1,0 +1,4 @@
+- type: changed
+  m: IT - change display type to be starting from
+  jira: APL-2086
+  owner: FadiRasheed

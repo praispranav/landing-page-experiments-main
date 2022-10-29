@@ -1,0 +1,1257 @@
+{
+    "Id": "en-de-2022-04-07",
+    "Tiles": [
+        {
+            "Id": "Epg:712wbfqz8apl1k09rf681eqxd",
+            "AgeRating": null,
+            "AssetId": "712wbfqz8apl1k09rf681eqxd",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "c3tbokwl3uci2u78hg866wl46",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "SPORTDIGITAL FUSSBALL",
+            "Description": "SPORTDIGITAL FUSSBALL shows about 700 live matches of 20 competitions all over the world every season. You can also find weekly highlight magazines, daily news and football documentaries.",
+            "Start": "2021-09-17T14:00:00Z",
+            "End": "3000-01-01T00:00:00Z",
+            "DisplayDate": "2022-04-03T08:00:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "824817733470_image-header_pDach_1638345779000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "png",
+                "ImageType": "image-gallery",
+                "Id": "824817733470_image-gallery_pDach_1649320342000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "6rqw7bnjivfrz93gae0lboea4",
+                "Title": "Live Channels on DAZN"
+            },
+            "Sport": {
+                "Id": "9kn3pow0we2r8hna2p0k4m2ff",
+                "Title": "Eurosport",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "329609285188_image-background_pDach_1563543858000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "329609285188_image-tile_pDach_1563543858000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "247Channel022_catchup-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel022_catchup-ISM-DC2",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel022_catchup-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel022_catchup-M3U-DC2",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel022_catchup-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "247Channel022_catchup-MPD-DC2",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "13dhmrbg1vagkz3knhb7su9nj",
+                "Title": "Sportdigital Fußball"
+            },
+            "ExpirationDate": null,
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": true,
+            "Status": null,
+            "Label": "Sportdigital Fußball",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:c3tbokwl3uci2u78hg866wl46",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:3nejcq7ohlz71h7fls355198u",
+            "AgeRating": null,
+            "AssetId": "3nejcq7ohlz71h7fls355198u",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "2xyjgq7ffrrdck7yi3qc2ixbj",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "NFL Network",
+            "Description": "Catch up on all the latest news from the NFL.",
+            "Start": "2021-12-15T10:00:00Z",
+            "End": "3000-01-01T00:00:00Z",
+            "DisplayDate": "2022-03-17T14:00:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "909139525470_image-header_pDach_1639751609000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "wy3kluvb4efae1of0d8146c1",
+                "Title": "NFL"
+            },
+            "Sport": {
+                "Id": "9ita1e50vxttzd1xll3iyaulu",
+                "Title": "American Football",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "41606725337_image-background_pDach_1626945057000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "41606725337_image-tile_pDach_1625672793000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "247Channel023_catchup-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel023_catchup-ISM-DC2",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel023_catchup-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel023_catchup-M3U-DC2",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel023_catchup-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "247Channel023_catchup-MPD-DC2",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "azhx36a6iaxavnfca4w4nzrwf",
+                "Title": "NFL"
+            },
+            "ExpirationDate": null,
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": true,
+            "Status": null,
+            "Label": "NFL",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:2xyjgq7ffrrdck7yi3qc2ixbj",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:a9muho2q6vod1hv0y84x2sihe",
+            "AgeRating": null,
+            "AssetId": "a9muho2q6vod1hv0y84x2sihe",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "6s4uuo74vz488pid28ms6waqp",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "NBA TV",
+            "Description": "Stay informed with 24/7 coverage including game analysis, trade breakdowns and more – NBA TV available on DAZN.",
+            "Start": "2021-12-15T10:00:00Z",
+            "End": "3000-01-01T00:00:00Z",
+            "DisplayDate": "2022-02-24T14:00:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "909257285255_image-header_pDach_1639759099000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "e2w9iicoifx689pzi5jqw7j4a",
+                "Title": "NBA"
+            },
+            "Sport": {
+                "Id": "ayp4nebmprfbvzdsisazcw74y",
+                "Title": "Basketball",
+                "Images": [
+                    {
+                        "ImageMimeType": "png",
+                        "ImageType": "image-background",
+                        "Id": "41604677448_image-background_pDach_1641476214000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "41604677448_image-tile_pDach_1644491856000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "247Channel035_catchup-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel035_catchup-ISM-DC2",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel035_catchup-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel035_catchup-M3U-DC2",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel035_catchup-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "247Channel035_catchup-MPD-DC2",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9yxwfw6x0izdgtdqirr418sfo",
+                "Title": "NBA"
+            },
+            "ExpirationDate": null,
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": true,
+            "Status": null,
+            "Label": "NBA",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:6s4uuo74vz488pid28ms6waqp",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:oujgtbpdbgg41eb1ynteb1fg5",
+            "AgeRating": null,
+            "AssetId": "oujgtbpdbgg41eb1ynteb1fg5",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "6vaxfomnjt6c04o6fy5wfmaov",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "MLB Network",
+            "Description": "MLB Network is your 24/7 home of baseball. Catch live games and highlights, plus analysis on all 30 teams from a host of award-winning daily shows.",
+            "Start": "2021-12-15T10:00:00Z",
+            "End": "3000-01-01T00:00:00Z",
+            "DisplayDate": "2021-12-17T14:29:26Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "909140037385_image-header_pDach_1639751614000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "n0amm59n1m59y0auuk93hexg",
+                "Title": "MLB"
+            },
+            "Sport": {
+                "Id": "e2n4bo41sw91dx98if05lse25",
+                "Title": "Baseball",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "91946565415_image-background_pDach_1547558317000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "91946565415_image-tile_pDach_1625672793000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "247Channel026_catchup-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel026_catchup-ISM-DC2",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel026_catchup-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel026_catchup-M3U-DC2",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel026_catchup-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "247Channel026_catchup-MPD-DC2",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5yem97683qard1mc3ah4wsk33",
+                "Title": "MLB Network"
+            },
+            "ExpirationDate": null,
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": true,
+            "Status": null,
+            "Label": "MLB Network",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:6vaxfomnjt6c04o6fy5wfmaov",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:1shp3rq1fm8jj1q8fa3tqtf62w",
+            "AgeRating": null,
+            "AssetId": "1shp3rq1fm8jj1q8fa3tqtf62w",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "884uhofskjiyp81uqidjkljtl",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Eurosport 1",
+            "Description": "Eurosport 1 (German)",
+            "Start": "2021-12-15T10:00:00Z",
+            "End": "3000-01-01T00:00:00Z",
+            "DisplayDate": "2022-03-24T14:00:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "997307973435_image-header_pDach_1648037547000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "6rqw7bnjivfrz93gae0lboea4",
+                "Title": "Live Channels on DAZN"
+            },
+            "Sport": {
+                "Id": "9kn3pow0we2r8hna2p0k4m2ff",
+                "Title": "Eurosport",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "329609285188_image-background_pDach_1563543858000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "329609285188_image-tile_pDach_1563543858000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "247Channel027_catchup-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel027_catchup-ISM-DC2",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel027_catchup-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel027_catchup-M3U-DC2",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel027_catchup-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "247Channel027_catchup-MPD-DC2",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "4m9avis8b4huabj5lbpf8z1lg",
+                "Title": "Eurosport"
+            },
+            "ExpirationDate": null,
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": true,
+            "Status": null,
+            "Label": "Eurosport",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:884uhofskjiyp81uqidjkljtl",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:634igqzaiu0p1as9jko7ji9o2",
+            "AgeRating": null,
+            "AssetId": "634igqzaiu0p1as9jko7ji9o2",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "f5lgatefogdowhxxv80ndf3ve",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Eurosport 2",
+            "Description": "Eurosport 2",
+            "Start": "2021-12-15T10:00:00Z",
+            "End": "3000-01-01T00:00:00Z",
+            "DisplayDate": "2022-03-17T14:00:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "909257285246_image-header_pDach_1639759091000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "6rqw7bnjivfrz93gae0lboea4",
+                "Title": "Live Channels on DAZN"
+            },
+            "Sport": {
+                "Id": "9kn3pow0we2r8hna2p0k4m2ff",
+                "Title": "Eurosport",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "329609285188_image-background_pDach_1563543858000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "329609285188_image-tile_pDach_1563543858000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "247Channel028_catchup-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel028_catchup-ISM-DC2",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "247Channel028_catchup-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel028_catchup-M3U-DC2",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "247Channel028_catchup-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "247Channel028_catchup-MPD-DC2",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "2ib160t3uhanuvjzj1lgbvql7",
+                "Title": "Eurosport"
+            },
+            "ExpirationDate": null,
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": true,
+            "Status": null,
+            "Label": "Eurosport",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:f5lgatefogdowhxxv80ndf3ve",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:6x85rt631zsf1rd0p6n61hjhl",
+            "AgeRating": null,
+            "AssetId": "6x85rt631zsf1rd0p6n61hjhl",
+            "AssetTypeId": "1dpp4008gvoq81nbxq0iu9x2jv",
+            "EventId": "21cqiqtcs8sj5l8ym4qszxzpw",
+            "Type": "Highlights",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Mavericks @ Pistons",
+            "Description": "Watch the highlight of the game on DAZN.",
+            "Start": "2022-04-06T23:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-06T23:00:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "1008435269248_image-header_pDach_1649312891000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "e2w9iicoifx689pzi5jqw7j4a",
+                "Title": "NBA"
+            },
+            "Sport": {
+                "Id": "ayp4nebmprfbvzdsisazcw74y",
+                "Title": "Basketball",
+                "Images": [
+                    {
+                        "ImageMimeType": "png",
+                        "ImageType": "image-background",
+                        "Id": "41604677448_image-background_pDach_1641476214000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "41604677448_image-tile_pDach_1644491856000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "1x65k4zr53qid1dcokt973go1s-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "1x65k4zr53qid1dcokt973go1s-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "1x65k4zr53qid1dcokt973go1s-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "2zr0ox22gvq81w8nwt3b5v3tg",
+                "Title": "NBA"
+            },
+            "ExpirationDate": "2022-05-06T23:00:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "NBA",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:21cqiqtcs8sj5l8ym4qszxzpw",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:hf1myey6qd9h1d97nr9c2gsnt",
+            "AgeRating": null,
+            "AssetId": "hf1myey6qd9h1d97nr9c2gsnt",
+            "AssetTypeId": "1dpp4008gvoq81nbxq0iu9x2jv",
+            "EventId": "21kfpr9rneecw7n4n6lo5d9g4",
+            "Type": "Highlights",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Nets @ Knicks",
+            "Description": "Watch the highlight of the game on DAZN.",
+            "Start": "2022-04-06T23:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-06T23:30:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "1008435269242_image-header_pDach_1649312559000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "e2w9iicoifx689pzi5jqw7j4a",
+                "Title": "NBA"
+            },
+            "Sport": {
+                "Id": "ayp4nebmprfbvzdsisazcw74y",
+                "Title": "Basketball",
+                "Images": [
+                    {
+                        "ImageMimeType": "png",
+                        "ImageType": "image-background",
+                        "Id": "41604677448_image-background_pDach_1641476214000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "41604677448_image-tile_pDach_1644491856000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "7itnsy1v3gh01pr5i6ql9x03j-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "7itnsy1v3gh01pr5i6ql9x03j-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "7itnsy1v3gh01pr5i6ql9x03j-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "2zr0ox22gvq81w8nwt3b5v3tg",
+                "Title": "NBA"
+            },
+            "ExpirationDate": "2022-05-06T23:30:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "NBA",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:21kfpr9rneecw7n4n6lo5d9g4",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:jhp8zifjmu9v1vntu8eabgj5t",
+            "AgeRating": null,
+            "AssetId": "jhp8zifjmu9v1vntu8eabgj5t",
+            "AssetTypeId": "1k7t7oc0q1omt19gij7s3hc676",
+            "EventId": "220ew2hqaifi63vwjcivt4zkk",
+            "Type": "CatchUp",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Celtics @ Bulls",
+            "Description": "Watch NBA Basketball action as Celtics takes on Bulls.",
+            "Start": "2022-04-07T00:00:00Z",
+            "End": "2022-04-07T03:00:00Z",
+            "DisplayDate": "2022-03-09T15:09:53Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "983391813185_image-header_pDach_1649311676000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "e2w9iicoifx689pzi5jqw7j4a",
+                "Title": "NBA"
+            },
+            "Sport": {
+                "Id": "ayp4nebmprfbvzdsisazcw74y",
+                "Title": "Basketball",
+                "Images": [
+                    {
+                        "ImageMimeType": "png",
+                        "ImageType": "image-background",
+                        "Id": "41604677448_image-background_pDach_1641476214000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "41604677448_image-tile_pDach_1644491856000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "275656744106_archive-ISM-DCA",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "275656744106_archive-ISM-DCB",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "275656744106_archive-ISM-DCX",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "275656744106_archive-M3U-DCA",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "275656744106_archive-M3U-DCB",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "275656744106_archive-M3U-DCX",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "275656744106_archive-MPD-DCA",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "275656744106_archive-MPD-DCB",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "275656744106_archive-MPD-DCX",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [
+                {
+                    "Id": "Epg:1p7p54ovwedsm1xbmpqqjg3v6z",
+                    "AgeRating": null,
+                    "AssetId": "1p7p54ovwedsm1xbmpqqjg3v6z",
+                    "AssetTypeId": "1dpp4008gvoq81nbxq0iu9x2jv",
+                    "EventId": "220ew2hqaifi63vwjcivt4zkk",
+                    "Type": "Highlights",
+                    "NavigateTo": null,
+                    "NavParams": null,
+                    "Title": "Celtics @ Bulls",
+                    "Description": "Watch NBA Basketball action as Celtics takes on Bulls.",
+                    "Start": "2022-04-07T00:00:00Z",
+                    "End": null,
+                    "DisplayDate": "2022-03-09T15:09:30Z",
+                    "Image": {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-header",
+                        "Id": "983391813181_image-header_pDach_1649311674000"
+                    },
+                    "BackgroundImage": null,
+                    "PromoImage": null,
+                    "LogoImage": null,
+                    "PortraitImage": null,
+                    "Competition": {
+                        "Id": "e2w9iicoifx689pzi5jqw7j4a",
+                        "Title": "NBA"
+                    },
+                    "Sport": {
+                        "Id": "ayp4nebmprfbvzdsisazcw74y",
+                        "Title": "Basketball",
+                        "Images": [
+                            {
+                                "ImageMimeType": "png",
+                                "ImageType": "image-background",
+                                "Id": "41604677448_image-background_pDach_1641476214000"
+                            },
+                            {
+                                "ImageMimeType": "jpg",
+                                "ImageType": "image-tile",
+                                "Id": "41604677448_image-tile_pDach_1644491856000"
+                            }
+                        ]
+                    },
+                    "Videos": [
+                        {
+                            "Id": "1xuc7tszixp011ms78wpkkvk5x-ISM-DC1",
+                            "Format": "ISM"
+                        },
+                        {
+                            "Id": "1xuc7tszixp011ms78wpkkvk5x-M3U-DC1",
+                            "Format": "M3U"
+                        },
+                        {
+                            "Id": "1xuc7tszixp011ms78wpkkvk5x-MPD-DC1",
+                            "Format": "MPEG-DASH"
+                        }
+                    ],
+                    "Related": [],
+                    "TournamentCalendar": {
+                        "Id": "2zr0ox22gvq81w8nwt3b5v3tg",
+                        "Title": "NBA"
+                    },
+                    "ExpirationDate": "2022-05-07T00:00:00Z",
+                    "VideoType": "Vod",
+                    "IsGeoRestricted": false,
+                    "IsLinear": false,
+                    "Status": null,
+                    "Label": "NBA",
+                    "IsDownloadable": false,
+                    "VerifyAge": false,
+                    "NewLabel": false,
+                    "IsFreeToView": false,
+                    "PinProtect": false,
+                    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:220ew2hqaifi63vwjcivt4zkk",
+                    "ArticleNavigateTo": "Fixture",
+                    "EntitlementIds": []
+                }
+            ],
+            "TournamentCalendar": {
+                "Id": "2zr0ox22gvq81w8nwt3b5v3tg",
+                "Title": "NBA"
+            },
+            "ExpirationDate": "2022-04-13T23:55:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "NBA",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:220ew2hqaifi63vwjcivt4zkk",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:7z4nn98kefsf1v6lm1adanl3f",
+            "AgeRating": null,
+            "AssetId": "7z4nn98kefsf1v6lm1adanl3f",
+            "AssetTypeId": "1dpp4008gvoq81nbxq0iu9x2jv",
+            "EventId": "22gq6mjw5fcdkskyp4xsl3lsk",
+            "Type": "Highlights",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Suns @ Clippers",
+            "Description": "Watch the highlight of the game on DAZN.",
+            "Start": "2022-04-07T02:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-07T02:00:00Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "1008436293058_image-header_pDach_1649312892000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "e2w9iicoifx689pzi5jqw7j4a",
+                "Title": "NBA"
+            },
+            "Sport": {
+                "Id": "ayp4nebmprfbvzdsisazcw74y",
+                "Title": "Basketball",
+                "Images": [
+                    {
+                        "ImageMimeType": "png",
+                        "ImageType": "image-background",
+                        "Id": "41604677448_image-background_pDach_1641476214000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "41604677448_image-tile_pDach_1644491856000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "1b41gta7sy54615972ylhut86h-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "1b41gta7sy54615972ylhut86h-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "1b41gta7sy54615972ylhut86h-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "2zr0ox22gvq81w8nwt3b5v3tg",
+                "Title": "NBA"
+            },
+            "ExpirationDate": "2022-05-07T02:00:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "NBA",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:22gq6mjw5fcdkskyp4xsl3lsk",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:btx1sf7rfwi01sieg8ihtyeym",
+            "AgeRating": null,
+            "AssetId": "btx1sf7rfwi01sieg8ihtyeym",
+            "AssetTypeId": "19bajo019znum1tkhzn0qz6iy4",
+            "EventId": "744jafxty9z1onxpf4q0idk2z",
+            "Type": "Live",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "World Pool Championship - Day 2 Session 1",
+            "Description": "Watch World Pool Championship Pool action at World Pool Championship - Day 2 Session 1.",
+            "Start": "2022-04-07T10:00:00Z",
+            "End": "2022-04-07T14:45:00Z",
+            "DisplayDate": "2022-03-30T22:25:48Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "1003985477259_image-header_pDach_1649323971000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "8cqtqybwqcsqwstijbxaa6voj",
+                "Title": "World Pool Championship"
+            },
+            "Sport": {
+                "Id": "1pz0crjgvg5rh80845u7djsj9",
+                "Title": "Pool",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "69989445250_image-background_pDach_1485859289000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "69989445250_image-tile_pDach_1626945052000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "275814440415_catchup-ISM-DCA",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "275814440415_catchup-ISM-DCB",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "275814440415_catchup-ISM-DCX",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "275814440415_catchup-M3U-DCA",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "275814440415_catchup-M3U-DCB",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "275814440415_catchup-M3U-DCX",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "275814440415_catchup-MPD-DCA",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "275814440415_catchup-MPD-DCB",
+                    "Format": "MPEG-DASH"
+                },
+                {
+                    "Id": "275814440415_catchup-MPD-DCX",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5k258ubiv6fbp993v37znv7s",
+                "Title": "World Pool Championship"
+            },
+            "ExpirationDate": "2022-04-07T19:00:00Z",
+            "VideoType": "Live",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "World Pool Championship",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:744jafxty9z1onxpf4q0idk2z",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:1fe99h1eiymmr1njuilq141ow8",
+            "AgeRating": null,
+            "AssetId": "1fe99h1eiymmr1njuilq141ow8",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "5anrz0gc6xgnubnjvjr2unxcj",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "World Pool Championship - Day 2 Session 2",
+            "Description": "",
+            "Start": "2022-04-07T16:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-03-31T03:02:19Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "1004011589089_image-header_pDach_1648699661000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "8cqtqybwqcsqwstijbxaa6voj",
+                "Title": "World Pool Championship"
+            },
+            "Sport": {
+                "Id": "1pz0crjgvg5rh80845u7djsj9",
+                "Title": "Pool",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "69989445250_image-background_pDach_1485859289000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "69989445250_image-tile_pDach_1626945052000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5k258ubiv6fbp993v37znv7s",
+                "Title": "World Pool Championship"
+            },
+            "ExpirationDate": "2022-04-07T16:40:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "World Pool Championship",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:5anrz0gc6xgnubnjvjr2unxcj",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:lwmkyufni2eo1hf9e91g8bne2",
+            "AgeRating": null,
+            "AssetId": "lwmkyufni2eo1hf9e91g8bne2",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "ewhb9zx4m5z2gjgdulrxjxct0",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Szeged v Flensburg-Handewitt",
+            "Description": "Watch EHF Champions League Handball action as Szeged takes on Flensburg-Handewitt.",
+            "Start": "2022-04-07T16:45:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-03T12:01:53Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "991699525461_image-header_pDach_1647515282000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "png",
+                "ImageType": "image-gallery",
+                "Id": "991699525461_image-gallery_pDach_1649069256000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "664us2dqeiycnciehlhqf0p5s",
+                "Title": "EHF Champions League"
+            },
+            "Sport": {
+                "Id": "82p89moh2algnznvtcho5hyt7",
+                "Title": "Handball",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "49092165374_image-background_pDach_1626945057000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "49092165374_image-tile_pDach_1625672792000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "49q201xp2lvgkljyehygtb40k",
+                "Title": "EHF Champions League"
+            },
+            "ExpirationDate": "2022-04-07T16:55:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "EHF Champions League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:ewhb9zx4m5z2gjgdulrxjxct0",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "Epg:lybtd9p5nk8i1j98cxxrap0jq",
+            "AgeRating": null,
+            "AssetId": "lybtd9p5nk8i1j98cxxrap0jq",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "51lxq0jeb5cwljkfac1qfsplj",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Night 9 - Leeds",
+            "Description": "Watch Premier League Darts action at Night 9 - Leeds.",
+            "Start": "2022-04-07T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-04-03T10:08:49Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "969446469232_image-header_pDach_1645639417000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "png",
+                "ImageType": "image-gallery",
+                "Id": "969446469232_image-gallery_pDach_1649069257000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "bybcqaggzle3vp70nynv74mlg",
+                "Title": "Cazoo Premier League"
+            },
+            "Sport": {
+                "Id": "3e7e88y5uktwvipmq7gh0407s",
+                "Title": "Darts",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "43274309016_image-background_pDach_1626945052000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "43274309016_image-tile_pDach_1643887301000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "cuglw0jew3znp0p48r1d9s5gb",
+                "Title": "Cazoo Premier League"
+            },
+            "ExpirationDate": "2022-04-07T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Cazoo Premier League",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:51lxq0jeb5cwljkfac1qfsplj",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        }
+    ],
+    "Date": "2022-04-07",
+    "Generated": "2022-04-07T00:00:00Z",
+    "LinearOnly": false
+}

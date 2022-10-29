@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix marco polo headers missing on UseService
+  jira: ODY-242
+  owner: MattElias

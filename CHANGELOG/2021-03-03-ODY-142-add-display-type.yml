@@ -1,0 +1,4 @@
+- type: added
+  m: Add displayType to each country config
+  jira: ODY-142
+  owner: lmatteis

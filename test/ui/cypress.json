@@ -1,0 +1,24 @@
+{
+  "chromeWebSecurity": false,
+  "retries": {
+    "runMode": 2,
+    "openMode": 0
+  },
+  "integrationFolder": "cypress/specs",
+  "viewportHeight": 900,
+  "viewportWidth": 1700,
+  "reporter": "cypress-multi-reporters",
+  "screenshotsFolder": "cypress/reports/html/assets/screenshots",
+  "videosFolder": "cypress/reports/html/assets/videos",
+  "video": false,
+  "reporterOptions": {
+      "reporterEnabled": "spec, mochawesome",
+      "mochawesomeReporterOptions": {
+          "reportDir": "cypress/reports/json",
+          "reportFilename": "report",
+          "overwrite": false,
+          "html": false,
+          "json": true
+      }
+  }
+}

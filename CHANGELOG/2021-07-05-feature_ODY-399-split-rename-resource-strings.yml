@@ -1,0 +1,4 @@
+- type: changed
+  m: Split resource strings file and renamed resource keys
+  jira: ODY-399
+  owner: mattmoreira

@@ -1,0 +1,92 @@
+{
+    "Offers": [
+        {
+            "Id": "Zuora_2c92a0fd528ddf5e0152ada42a243abf_89",
+            "SkuId": null,
+            "BillingDate": "2021-04-19T15:44:42Z",
+            "RenewalDate": "2021-05-19T15:44:42Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [
+                { "Price": 11.99, "Currency": "EUR", "DiscountedPrice": null },
+                { "Price": 10, "Currency": "GBP", "DiscountedPrice": null },
+                { "Price": 1925, "Currency": "JPY", "DiscountedPrice": null },
+                { "Price": 20, "Currency": "CAD", "DiscountedPrice": null },
+                { "Price": 12.9, "Currency": "CHF", "DiscountedPrice": null }
+            ],
+            "PaymentMethodIds": ["CreditCard", "KlarnaPayNow", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1,
+            "DiscountedMonths": 0
+        },
+        {
+            "Id": "Zuora_2c92a0ff5cf25743015d17dd55191ec2_89",
+            "SkuId": null,
+            "BillingDate": "2021-04-19T15:44:42Z",
+            "RenewalDate": "2022-04-19T15:44:42Z",
+            "BillingPeriod": "Annual",
+            "ChargeTiers": [
+                { "Price": 119.99, "Currency": "EUR", "DiscountedPrice": null },
+                { "Price": 150, "Currency": "GBP", "DiscountedPrice": null },
+                { "Price": 19249.99, "Currency": "JPY", "DiscountedPrice": null },
+                { "Price": 150, "Currency": "CAD", "DiscountedPrice": null },
+                { "Price": 129, "Currency": "CHF", "DiscountedPrice": null }
+            ],
+            "PaymentMethodIds": ["CreditCard", "KlarnaPayNow", "PayPal"],
+            "AllowsNoPaymentMethod": true,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1,
+            "DiscountedMonths": 0
+        },
+        {
+            "Id": "DirectCarrierBilling_1419",
+            "SkuId": "1419",
+            "BillingDate": "2021-04-19T15:44:42Z",
+            "RenewalDate": "2021-05-19T15:44:42Z",
+            "BillingPeriod": "Month",
+            "ChargeTiers": [{ "Price": 11.99, "Currency": "EUR", "DiscountedPrice": null }],
+            "PaymentMethodIds": ["DirectCarrierBilling"],
+            "AllowsNoPaymentMethod": false,
+            "FreeTrialMonths": 1,
+            "TotalFreeMonths": 1,
+            "DiscountedMonths": 0
+        }
+    ],
+    "FreeTrialIneligibilityReason": null,
+    "GiftCode": null,
+    "PaymentMethods": [
+        {
+            "Id": "CreditCard",
+            "BillingCountries": ["AT"],
+            "SourceSystem": null,
+            "Default": true,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "KlarnaPayNow",
+            "BillingCountries": ["AT"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "PayPal",
+            "BillingCountries": ["AT"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": false
+        },
+        {
+            "Id": "DirectCarrierBilling",
+            "BillingCountries": ["AT"],
+            "SourceSystem": null,
+            "Default": false,
+            "RequireZipCode": false,
+            "GiftCodeDisallowed": true
+        }
+    ],
+    "NoOfferFreeTrialMonths": 0
+}

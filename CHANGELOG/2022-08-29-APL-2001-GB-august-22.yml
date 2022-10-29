@@ -1,0 +1,5 @@
+- type: changed
+  m: Update GB, IE background image for non PPV
+  jira: APL-2001
+  owner: hannanikulina
+  service: landing-page-experiments

@@ -1,0 +1,4 @@
+- type: added
+  m: Add Prettier
+  jira: ODY-148
+  owner: lmatteis

@@ -1,0 +1,4 @@
+- type: fixed
+  m: Remove the dynamic import for the Intl polyfill
+  jira: APL-1701
+  owner: FadiRasheed

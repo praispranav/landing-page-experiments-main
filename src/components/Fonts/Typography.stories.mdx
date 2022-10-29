@@ -1,0 +1,73 @@
+import { Meta, Story } from '@storybook/addon-docs/blocks';
+import {
+    headerFontStyles,
+    bodyFontStyles,
+    labelFontStyles,
+    buttonFontStyles,
+    headerStrongFontStyles,
+    ppvFontStyles,
+} from './Typography.style.ts';
+import { mqStylesCombiner } from '../Style/MqStylesCombiner';
+
+<Meta title="Fonts/DAZN Typography" />
+
+# DAZN Typography
+
+## header
+
+<Story name="Header_Trim">
+    <h1 css={headerFontStyles.header1}> H1 / Trim / Bold / 48px </h1>
+    <h1 css={headerFontStyles.header2}> H2 / Trim / Bold / 32px </h1>
+    <h1 css={headerFontStyles.header3}> H3 / Trim/ Bold/ 24px </h1>
+    <h1 css={headerFontStyles.header4}> H4 / Trim / Bold / 22px </h1>
+    <h1 css={headerFontStyles.header5}> H5 / Trim / Bold / 18px </h1>
+    <h1 css={headerFontStyles.headerRegular6}> H6 / Trim / Regular / 16px </h1>
+    <h1 css={headerFontStyles.header6}> H6 / Trim / Bold / 16px </h1>
+</Story>
+
+## Body
+
+<Story name="Body_Oscine">
+    <p css={bodyFontStyles.bodyRegular1}> Body 1 / Oscine / Regular / 16px </p>
+    <p css={bodyFontStyles.body1}> Body 1 / Oscine / Bold/ 16px </p>
+    <p css={bodyFontStyles.bodyRegular2}> Body 2 / Oscine / Regular / 14px </p>
+    <p css={bodyFontStyles.body2}> Body 2 / Oscine / Bold / 14px </p>
+    <p css={bodyFontStyles.bodyRegular3}> Body 3 / Oscine / Regular / 12px </p>
+    <p css={bodyFontStyles.body3}> Body 3 / Oscine / Bold / 12px </p>
+</Story>
+
+## Label
+
+<Story name="Label_Oscine">
+    <p css={labelFontStyles.label}> Label / Oscine / XBold / 14px </p>
+    <p css={labelFontStyles.labelSmall}> Label / Oscine / XBold / 12px </p>
+</Story>
+
+## Button
+
+<Story name="Button_Trim">
+    <p css={buttonFontStyles.buttonXLarge}> BUTTON / Trim / BOLD / 18PX </p>
+    <p css={buttonFontStyles.buttonLargeMedium}> BUTTON / Trim/ BOLD/ 16PX </p>
+    <p css={buttonFontStyles.buttonSmall}> BUTTON / Trim / BOLD / 14PX </p>
+</Story>
+
+## HeaderStrong
+
+<Story name="HeaderStrong_TrimCondensed">
+    <h1 css={headerStrongFontStyles.strongH1}> Strong H1 / TRIM C / Bold / 112px </h1>
+    <h1 css={headerStrongFontStyles.strongH2}> Strong H2 / TRIM C / Bold / 96px </h1>
+    <h1 css={headerStrongFontStyles.strongH3}> Strong H3 / TRIM C / Bold / 72px </h1>
+    <h1 css={headerStrongFontStyles.strongH4}> STRONG H4 / TRIMC C / BOLD 48px </h1>
+</Story>
+
+## PPV
+
+<Story name="PPVFontStyle_Golden">
+    <p css={ppvFontStyles.large}> pay per view </p>
+    <p css={ppvFontStyles.medium}> pay per view </p>
+    <p css={ppvFontStyles.small}> pay per view </p>
+    <p css={mqStylesCombiner([ppvFontStyles.medium, ppvFontStyles.large])}>
+        {' '}
+        pay per view responsive{' '}
+    </p>
+</Story>

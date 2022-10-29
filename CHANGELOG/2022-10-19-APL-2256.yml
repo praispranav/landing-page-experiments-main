@@ -1,0 +1,5 @@
+- type: changed
+  m: Consume PPV images form S3 bucket
+  jira: APL-2256
+  owner: hannanikulina
+  service: landing-page-experiments

@@ -1,0 +1,4 @@
+- type: added
+  m: Add true e2e support to landing-page-experiments repo
+  jira: ODY-215
+  owner: hannanikulina

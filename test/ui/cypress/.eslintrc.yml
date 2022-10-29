@@ -1,0 +1,12 @@
+env:
+  cypress/globals: true
+
+plugins:
+  - cypress
+
+extends:
+  - "../../../.eslintrc"
+  - plugin:cypress/recommended
+
+rules:
+  spaced-comment: ['off']

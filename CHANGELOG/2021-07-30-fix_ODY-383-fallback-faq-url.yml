@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix fallback FAQs path
+  jira: ODY-383
+  owner: mattmoreira

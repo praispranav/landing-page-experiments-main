@@ -1,0 +1,5 @@
+- type: added
+  m: E2e test to check if PPV elements are hidden based on PPV feature flag in Optimizely
+  jira: ODY-614
+  owner: Anna Nikulina
+  service: landing-page-experiments

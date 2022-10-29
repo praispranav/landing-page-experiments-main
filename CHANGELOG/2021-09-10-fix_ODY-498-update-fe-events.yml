@@ -1,0 +1,4 @@
+- type: fixed
+  m: Update fe-events package to fix error on old safari versions
+  jira: ODY-498
+  owner: harrissidiropoulos

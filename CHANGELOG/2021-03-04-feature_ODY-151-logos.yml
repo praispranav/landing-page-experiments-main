@@ -1,0 +1,4 @@
+- type: changed
+  m: Include the final logos in the LPs
+  jira: ODY-151
+  owner: MattElias

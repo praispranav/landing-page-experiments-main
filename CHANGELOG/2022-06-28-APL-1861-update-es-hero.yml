@@ -1,0 +1,5 @@
+- type: changed
+  m: update ES hero image
+  jira: APL-1861
+  owner: mattmoreira
+  service: landing-page-experiments

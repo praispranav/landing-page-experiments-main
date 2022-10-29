@@ -1,0 +1,5 @@
+- type: added
+  m: Mock optimizely request
+  jira: ODY-623
+  owner: Anna Nikulina
+  service: landing-page-experiments

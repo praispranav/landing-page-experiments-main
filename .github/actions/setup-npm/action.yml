@@ -1,0 +1,36 @@
+name: Setup NPM
+
+description: Setup NPM
+
+inputs:
+  global_artifactory_token:
+    description: Artifactory API token
+    required: true
+  working_directory:
+    description: Path to be used for the installation of dependencies
+    default: ''
+    required: false
+  node_version:
+    description: NodeJS version
+    type: number
+    required: false
+    default: 14
+
+runs:
+  using: composite
+  steps:
+    - name: setup NodeJS and NPM
+      uses: actions/setup-node@v2
+      with:
+        scope: dazn
+        registry-url: https://npm.daznplatform.com
+        node-version: ${{ inputs.node_version }}
+        cache: npm
+        cache-dependency-path: ${{ inputs.working_directory == '' && 'package-lock.json' || format('{0}/package-lock.json', inputs.working_directory) }}
+
+    - name: install dependencies
+      working-directory: ${{ inputs.working_directory }}
+      run: npm ci --prefer-offline
+      env:
+        NODE_AUTH_TOKEN: ${{ inputs.global_artifactory_token }}
+      shell: bash

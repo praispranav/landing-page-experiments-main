@@ -1,0 +1,4 @@
+- type: changed
+  m: Reduced bundle size and split into chunks
+  jira: ODY-248
+  owner: MattElias

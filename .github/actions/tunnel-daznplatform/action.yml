@@ -1,0 +1,46 @@
+name: DAZN Platform Tunnel
+
+description: Allows the access to whatever may rely on DAZN Platform, such as stag.dazn.com
+
+inputs:
+  tunnelSshKey:
+    description: 'The token that will be used for setting the SSH key to authenticate the access to daznplatform'
+    required: true
+
+outputs:
+  pid:
+    description: "Shuttle PID"
+    value: ${{ steps.shuttle-pid.outputs.pid }}
+
+runs:
+  using: composite
+  steps:
+    - name: install sshuttle
+      shell: bash
+      run: |
+        sudo apt-get update -y
+        sudo apt-get install sshuttle -y
+
+    - name: run vpn tunnel on the background
+      shell: bash
+      run: |
+        echo -e ${{ inputs.tunnelSshKey }} | base64 -d > ssh.key
+        chmod 600 ssh.key
+        sudo sshuttle -D \
+        -e 'ssh -i ssh.key -o StrictHostKeyChecking=no' \
+        -x 54.239.31.83/32 \
+        -x 52.95.18.74/32 \
+        -x 54.239.31.91/32 \
+        -x 54.239.54.114/32 \
+        -x 205.251.242.160/32 \
+        -x 52.46.159.144/32 \
+        -x 176.32.98.146/32 \
+        -x 3.121.133.175/32 \
+        -x 3.122.1.57/32 \
+        -x 52.58.3.19/32 \
+        --no-latency-control \
+        -r gha-bot-tunnel-ssh-access@prod-eu-central-1-tunnel-service.daznplatform.com:443 0/0
+
+    - id: shuttle-pid
+      shell: bash
+      run: echo "::set-output name=pid::$(echo $(cat sshuttle.pid))"

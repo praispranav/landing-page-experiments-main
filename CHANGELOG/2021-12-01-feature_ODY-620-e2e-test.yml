@@ -1,0 +1,5 @@
+- type: added
+  m: Add e2e test to check PPV tile on Hero and Whats On section
+  jira: ODY-620
+  owner: Anna Nikulina
+  service: landing-page-experiments

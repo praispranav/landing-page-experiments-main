@@ -1,0 +1,5 @@
+- type: removed
+  m: Remove Drone files
+  jira: ODY-767
+  owner: mattmoreira
+  service: landing-page-experiments

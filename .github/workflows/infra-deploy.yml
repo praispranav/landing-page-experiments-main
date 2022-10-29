@@ -1,0 +1,75 @@
+name: Deploy Infrastructure
+on:
+  workflow_dispatch:
+    inputs:
+      env:
+        type: choice
+        description: environment to deploy
+        options: 
+        - dev
+        - stage
+        - prod
+        required: true
+        
+env:
+  AWS_REGION: eu-central-1
+  PLAN_TFOUT: plan.tfout
+
+jobs:
+  infra-plan:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 3
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - uses: getndazn/plat-gha-action/terraform/plan@main
+        with:
+          global_github_token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          sha: ${{ github.sha }}
+          env: ${{ github.event.inputs.env }}
+          tf_dir: infrastructure
+          tf_version: 1.0.11
+          tf_plan_name: ${{ env.PLAN_TFOUT }}
+          tf_vars_file: variables.tfvars
+
+  deployment-gate:
+    needs: infra-plan
+    runs-on: ubuntu-20.04
+    timeout-minutes: 1
+    environment:
+      name: ${{ github.event.inputs.env }}
+    steps:
+      - name: Deployment manual approval gate
+        run: |
+          echo "Please approve the deployment to ${{ github.event.inputs.env }} environment"
+
+  infra-apply:
+    needs: deployment-gate
+    runs-on: ubuntu-20.04
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - uses: getndazn/plat-gha-action/terraform/apply@main
+        with:
+          global_github_token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          sha: ${{ github.sha }}
+          env: ${{ github.event.inputs.env }}
+          tf_dir: infrastructure
+          tf_version: 1.0.11
+          tf_plan_name: ${{ env.PLAN_TFOUT }}
+          tf_vars_file: variables.tfvars
+

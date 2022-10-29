@@ -1,0 +1,4 @@
+- type: removed
+  m: Sign in redirects feature flag removal
+  jira: ODY-598
+  owner: FadiRasheed

@@ -1,0 +1,4 @@
+- type: changed
+  m: Updated dazn manifest schema
+  jira: ODY-182
+  owner: MattElias

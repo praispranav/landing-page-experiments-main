@@ -1,0 +1,4 @@
+- type: removed
+  m: Skip stage snapshot tests while they're flaky
+  owner: mattmoreira
+  service: landing-page-experiments

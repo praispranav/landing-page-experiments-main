@@ -1,0 +1,5 @@
+- type: fixed
+  m: remove sports logo css hack
+  jira: APL-1804
+  owner: mattmoreira
+  service: landing-page-experiments

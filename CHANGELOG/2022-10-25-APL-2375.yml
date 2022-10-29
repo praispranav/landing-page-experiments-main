@@ -1,0 +1,5 @@
+- type: removed
+  m: remove unused field coming up
+  jira: APL-2375
+  owner: joanrm20
+  service: landing-page-experiments

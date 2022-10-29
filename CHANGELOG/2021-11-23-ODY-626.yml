@@ -1,0 +1,5 @@
+- type: changed
+  m: Show PPV elements based on the existence of addons
+  jira: ODY-626
+  owner: harrissidiropoulos
+  service: landing-page-experiments

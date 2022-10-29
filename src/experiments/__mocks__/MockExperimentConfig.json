@@ -1,0 +1,31 @@
+{
+    "REDESIGN": {
+        "DE": {
+            "stringsConfig": {
+                "TITLE": "landing_redesign_de_test_title",
+                "FOOTER_HELP": "landing_redesign_de_footer_help",
+                "HERO_SAVE": "landing_signup_ribbon"
+            },
+            "linksConfig": {
+                "DEVICES_BUTTON": "https://www.dazn.com/en-US/help/articles/what-are-dazn-supported-devices",
+                "FOOTER_HELP": "/help"
+            },
+            "imagesConfig": {
+                "HERO_BACKGROUND": "./img"
+            },
+            "listsConfig": {
+                "SPORTS_LOGO_LIST": ["./logo"],
+                "FOOTER": [
+                    {
+                        "key": "footer_help",
+                        "label": "HELP",
+                        "href": "https://www.dazn.com/help"
+                    }
+                ]
+            },
+            "elementsConfig": {
+                "HERO_OFFER_DISPLAY_TYPE": "COPY"
+            }
+        }
+    }
+}

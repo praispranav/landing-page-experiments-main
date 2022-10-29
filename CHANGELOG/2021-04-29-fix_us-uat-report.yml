@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix the bugs from the US UAT feedback
+  jira: ODY-237
+  owner: FadiRasheed

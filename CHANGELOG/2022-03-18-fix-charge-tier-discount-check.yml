@@ -1,0 +1,4 @@
+- type: fixed
+  m: fix charge tier discount check
+  jira: NO-JIRA
+  owner: FadiRasheed

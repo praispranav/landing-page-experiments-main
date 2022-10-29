@@ -1,0 +1,4 @@
+- type: fixed
+  m: Remove top margin from hero description copy and adding side label
+  jira: ODY-188 ODY-189 ODY-196
+  owner: FadiRasheed

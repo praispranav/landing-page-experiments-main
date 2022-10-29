@@ -1,0 +1,4 @@
+- type: added
+  m: Modified example files and add doc to explain the project file structure
+  jira: ODY-87
+  owner: MattElias

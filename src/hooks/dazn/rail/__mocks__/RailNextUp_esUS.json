@@ -1,0 +1,581 @@
+{
+    "Id": "27474ae4-3032-4f5e-bb92-518697c95bd6",
+    "Title": "A Continuación",
+    "Params": null,
+    "Tiles": [
+        {
+            "Id": "List:1pgt5enhp4goy1fyo7bq8fts5d",
+            "AgeRating": null,
+            "AssetId": "1pgt5enhp4goy1fyo7bq8fts5d",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "az792nbxz0zshx1bag0gp85ny",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Harvest Farms - Día 1",
+            "Description": "Sigue el LIV Golf en directo con una nueva etapa en Harvest Farms, cerca de Chicago. Cameron Smith, Sergio García y Kevin Na figuran entre los golfistas esperados en esta competición.",
+            "Start": "2022-09-16T17:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T14:32:48Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147996741752_image-header_pUs_1662653342000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "7583yd99cld85m3rqtuhyruxi",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "Sport": {
+                "Id": "4wu920rstf6x1kx2h0171qf3n",
+                "Title": "Golf",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "21340741735_image-background_pUs_1654096976000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "21340741735_image-tile_pUs_1657206561000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "ce4ns10ft0uhp3skyfb4v3gfa",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "ExpirationDate": "2022-09-16T17:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "LIV Golf Invitational Series",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:az792nbxz0zshx1bag0gp85ny",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:jvj77190pi851ee40vo89nnev",
+            "AgeRating": null,
+            "AssetId": "jvj77190pi851ee40vo89nnev",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "99wqnzipnrq5gbakj1y4y497r",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canello vs. GGG III - DAZN Boxing Show en Vivo y Pesaje",
+            "Description": "Canelo Álvarez y Gennadiy Golovkin se presentan al pesaje, antes de su tercero duelo de peso supermedio en Las Vegas. Sigue toda la acción con el equipo del DAZN Boxing Show, que anticipa la pelea històrica en la ciudad del pecado.",
+            "Start": "2022-09-16T19:30:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-06T12:02:04Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147822149663_image-header_pUs_1662480407000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "cg50vjozbzazemk7dkjctcble",
+                "Title": "Canelo vs. GGG III"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5hrgt0k486fql6b50ppzdiyvp",
+                "Title": "Canelo vs. GGG III"
+            },
+            "ExpirationDate": "2022-09-16T21:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. GGG III",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:99wqnzipnrq5gbakj1y4y497r",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:71lrplhtuaso1shc6e4vucky7",
+            "AgeRating": null,
+            "AssetId": "71lrplhtuaso1shc6e4vucky7",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "cjdhko63hjsp8hkmax9nitg8j",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Harvest Farms - Día 2",
+            "Description": "Sigue el LIV Golf en directo con una nueva etapa en Harvest Farms, cerca de Chicago. Cameron Smith, Sergio García y Kevin Na figuran entre los golfistas esperados en esta competición.",
+            "Start": "2022-09-17T17:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-08T14:48:04Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "147998277835_image-header_pUs_1662979623000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "7583yd99cld85m3rqtuhyruxi",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "Sport": {
+                "Id": "4wu920rstf6x1kx2h0171qf3n",
+                "Title": "Golf",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "21340741735_image-background_pUs_1654096976000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "21340741735_image-tile_pUs_1657206561000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "ce4ns10ft0uhp3skyfb4v3gfa",
+                "Title": "LIV Golf Invitational Series"
+            },
+            "ExpirationDate": "2022-09-17T17:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "LIV Golf Invitational Series",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:cjdhko63hjsp8hkmax9nitg8j",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:5jalxh9ov2ab1vklxhbl27ack",
+            "AgeRating": null,
+            "AssetId": "5jalxh9ov2ab1vklxhbl27ack",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "7ksfoadcz7rrxgr7qjh0w5k4g",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "The DAZN Boxing Show en Vivo - Canelo vs. GGG III",
+            "Description": "Descubre las últimas noticias y previas antes del duelo en Las Vegas entre Canelo Álvarez y Gennadiy Golovkin. Los expertos de DAZN están en la ciudad del pecado para anticipar la noche de pelea encabezada por esta tercera pelea.",
+            "Start": "2022-09-17T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-09-07T14:49:40Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147907141865_image-header_pUs_1662565091000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "cg50vjozbzazemk7dkjctcble",
+                "Title": "Canelo vs. GGG III"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5hrgt0k486fql6b50ppzdiyvp",
+                "Title": "Canelo vs. GGG III"
+            },
+            "ExpirationDate": "2022-09-17T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. GGG III",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:7ksfoadcz7rrxgr7qjh0w5k4g",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:f3oggs5kh3c716um0gc6acwe2",
+            "AgeRating": null,
+            "AssetId": "f3oggs5kh3c716um0gc6acwe2",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "4qvkzp9xvvlbyf0m6w6x0uhj9",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Canelo vs. GGG III: Noche de Pelea",
+            "Description": "La espera ha terminado. Saúl 'Canelo' Álvarez y Gennadiy Golovkin se enfrentan en una trilogía muy esperada. Tras empatar en el primer combate y una estrecha victoria de Canelo en el segundo, la pareja espera resolver una de las mayores rivalidades del boxeo.",
+            "Start": "2022-09-18T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-31T15:42:25Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147420229840_image-header_pUs_1662629277000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "147420229840_image-gallery_pUs_1662629278000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "cg50vjozbzazemk7dkjctcble",
+                "Title": "Canelo vs. GGG III"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "5hrgt0k486fql6b50ppzdiyvp",
+                "Title": "Canelo vs. GGG III"
+            },
+            "ExpirationDate": "2022-09-18T00:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Canelo vs. GGG III",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:4qvkzp9xvvlbyf0m6w6x0uhj9",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": [
+                "ppv_canelo_vs_ggg_3_market_6_US_ES"
+            ]
+        },
+        {
+            "Id": "List:1u0wxq6rs19w110m5a04lct7si",
+            "AgeRating": null,
+            "AssetId": "1u0wxq6rs19w110m5a04lct7si",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "bvbwhyf9mpj7873plc2as9ujw",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Wood vs. Lara: Noche de Pelea",
+            "Description": "Después de defender su título de peso pluma de la AMB contra Michael Conlan, Leigh Wood ahora pone su mirada en el peleador mexicano Mauricio Lara. ¿Puede Wood ofrecer otra pelea apasionante para su público local en Nottingham?",
+            "Start": "2022-09-24T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-18T15:39:33Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "146918469622_image-header_pUs_1661371019000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "146918469622_image-gallery_pUs_1661371020000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "9ma4efqgq6if83pe6hcm165qp",
+                "Title": "Wood vs. Lara"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "b3aal5s3dxew1wg3742ym39vd-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "b3aal5s3dxew1wg3742ym39vd-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "b3aal5s3dxew1wg3742ym39vd-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9pfx0k87de04yy8j2nhenhp7o",
+                "Title": "Wood vs. Lara"
+            },
+            "ExpirationDate": "2022-09-24T18:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Wood vs. Lara",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:bvbwhyf9mpj7873plc2as9ujw",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:szbgijubp5631776sneio86f6",
+            "AgeRating": null,
+            "AssetId": "szbgijubp5631776sneio86f6",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "dy7jns165zmf4q0uvbzjelzoa",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Bivol vs. Ramirez: Noche de Pelea",
+            "Description": "Gilberto Ramírez (44-0) regresa al ring contra el rey de los semipesados ​​de la AMB, Dmitry Bivol (20-0). La pelea marca otra defensa obligatoria para Bivol, quien viene de una sorprendente victoria sobre Canelo Alvarez.",
+            "Start": "2022-11-05T18:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-18T15:39:32Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147317317748_image-header_pUs_1661851962000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "147317317748_image-gallery_pUs_1661851962000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "2pqo32nd158k7xpmqzwbqbg28",
+                "Title": "Bivol vs. Ramirez"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "12zzsw3evjqw01x5kxkm0iczqc-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "12zzsw3evjqw01x5kxkm0iczqc-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "12zzsw3evjqw01x5kxkm0iczqc-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "54z9z78iukvweg41r8t67c5jl",
+                "Title": "Bivol vs. Ramirez"
+            },
+            "ExpirationDate": "2023-05-03T07:52:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Bivol vs. Ramirez",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:dy7jns165zmf4q0uvbzjelzoa",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        },
+        {
+            "Id": "List:1c4q1nuwf8nwy14poxufj1pgwt",
+            "AgeRating": null,
+            "AssetId": "1c4q1nuwf8nwy14poxufj1pgwt",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "f1gv3zs6ghhjmb50bnsaey6mo",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Love vs. Spark: Noche de Pelea",
+            "Description": "Montana Love (18-0-1) pelea en su ciudad natal de Cleveland como pelea estelar por primera vez, cuando choca con el australiano Steve Spark (15-2). Love esperará defender su título de peso superligero norteamericano de la FIB.",
+            "Start": "2022-11-13T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2022-08-06T18:21:29Z",
+            "Image": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-header",
+                "Id": "147080773646_image-header_pUs_1661536784000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": {
+                "ImageMimeType": "jpg",
+                "ImageType": "image-gallery",
+                "Id": "147080773646_image-gallery_pUs_1661536784000"
+            },
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "237a5xmickdtoeu4hlzflyxom",
+                "Title": "Love v Spark"
+            },
+            "Sport": {
+                "Id": "2x2oqzx60orpoeugkd754ga17",
+                "Title": "Boxeo",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "26506821930_image-background_pUs_1644945890000"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "26506821930_image-tile_pUs_1657207454000"
+                    }
+                ]
+            },
+            "Videos": [
+                {
+                    "Id": "kyh7w4zvvn5l10hfdwr0087tk-ISM-DC1",
+                    "Format": "ISM"
+                },
+                {
+                    "Id": "kyh7w4zvvn5l10hfdwr0087tk-M3U-DC1",
+                    "Format": "M3U"
+                },
+                {
+                    "Id": "kyh7w4zvvn5l10hfdwr0087tk-MPD-DC1",
+                    "Format": "MPEG-DASH"
+                }
+            ],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "6cee2ast6lnmcsnod4uzf10r0",
+                "Title": "Love vs. Spark"
+            },
+            "ExpirationDate": "2022-11-13T00:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "Love vs. Spark",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:f1gv3zs6ghhjmb50bnsaey6mo",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": []
+        }
+    ],
+    "StartPosition": 0,
+    "ContinuousPlayEnabled": false,
+    "Navigation": null,
+    "Type": "Standard",
+    "Description": null
+}

@@ -1,0 +1,4 @@
+- type: fixed
+  m: fix logo not filling the grid column
+  jira: ODY-193
+  owner: MattElias

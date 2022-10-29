@@ -1,0 +1,5 @@
+- type: fixed
+  m: fix devices link
+  jira: ODY-796
+  owner: harrissidiropoulos
+  service: landing-page-experiments

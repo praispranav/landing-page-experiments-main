@@ -1,0 +1,4 @@
+- type: added
+  m: e2e test for Devices section
+  jira: ODY-108
+  owner: hannanikulina

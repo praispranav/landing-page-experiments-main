@@ -1,0 +1,4 @@
+- type: added
+  m: Hide PPV elements based on addons - Offers - Hero
+  jira: ODY-620
+  owner: FadiRasheed

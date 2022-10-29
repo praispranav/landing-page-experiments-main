@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix hero background being cropped on the top when in mobile resolutions
+  jira: ODY-186
+  owner: MattElias

@@ -1,0 +1,4 @@
+- type: fixed
+  m: Add separate configurations for PPV
+  jira: APL-1710
+  owner: harrissidiropoulos

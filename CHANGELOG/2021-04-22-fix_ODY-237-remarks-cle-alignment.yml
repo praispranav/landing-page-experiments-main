@@ -1,0 +1,4 @@
+- type: fixed
+  m: Changed copy & date formatting to fit the US writing style
+  jira: ODY-237
+  owner: MattElias

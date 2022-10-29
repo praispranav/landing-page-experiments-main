@@ -1,0 +1,4 @@
+- type: fixed
+  m: fix last column of the logo grid containing extra margin
+  jira: ODY-192
+  owner: MattElias

@@ -1,0 +1,32 @@
+name: install dependencies
+
+inputs:
+  global_artifactory_token:
+    description: Artifactory API token
+    required: true
+  node_version:
+    description: NodeJS version
+    type: number
+    required: false
+    default: 14
+  ui_tests:
+    description: Whether the dependencies for the UI tests should be installed
+    default: false
+    required: false  
+
+runs:
+  using: composite
+  steps:
+    - name: setup npm (project)
+      uses: ./.github/actions/setup-npm
+      with:
+        global_artifactory_token: ${{ inputs.global_artifactory_token }}
+        node_version: ${{ inputs.node_version }}
+    
+    - name: setup npm (UI tests)
+      if: ${{ inputs.ui_tests == 'true' }}
+      uses: ./.github/actions/setup-npm
+      with:
+        global_artifactory_token: ${{ inputs.global_artifactory_token }}
+        working_directory: test/ui
+        node_version: ${{ inputs.node_version }}

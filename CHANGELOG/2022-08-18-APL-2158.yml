@@ -1,0 +1,4 @@
+- type: added
+  m: fe-events - Implement lpElementVisibility event to track components impressions
+  jira: APL-2158
+  owner: FadiRasheed

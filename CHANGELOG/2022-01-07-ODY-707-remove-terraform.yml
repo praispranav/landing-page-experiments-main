@@ -1,0 +1,5 @@
+- type: removed
+  m: Remove terraform
+  jira: ODY-707
+  owner: mattmoreira
+  service: landing-page-experiments

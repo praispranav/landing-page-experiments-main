@@ -1,0 +1,4 @@
+- type: fixed
+  m: Fix Screen Flickering on PPV Landing Pages
+  jira: APL-2221
+  owner: FadiRasheed

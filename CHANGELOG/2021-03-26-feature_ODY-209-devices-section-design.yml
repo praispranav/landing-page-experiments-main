@@ -1,0 +1,4 @@
+- type: changed
+  m: Style the Devices section according to the design system
+  jira: ODY-209
+  owner: FadiRasheed

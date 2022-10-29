@@ -1,0 +1,4 @@
+- type: added
+  m: Add redirect to new sign in
+  jira: ODY-426
+  owner: joanrm20
